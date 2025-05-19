@@ -1,0 +1,198 @@
+{"city_code": "Q65", "city": "Los Angeles", "country": "United States"}
+{"city_code": "Q70", "city": "Bern", "country": "Switzerland"}
+{"city_code": "Q84", "city": "London", "country": "United Kingdom"}
+{"city_code": "Q87", "city": "Alexandria", "country": "Egypt"}
+{"city_code": "Q172", "city": "Toronto", "country": "Canada"}
+{"city_code": "Q174", "city": "S\u00e3o Paulo", "country": "Brazil"}
+{"city_code": "Q216", "city": "Vilnius", "country": "Lithuania"}
+{"city_code": "Q269", "city": "Tashkent", "country": "Uzbekistan"}
+{"city_code": "Q270", "city": "Warsaw", "country": "Poland"}
+{"city_code": "Q279", "city": "Modena", "country": "Italy"}
+{"city_code": "Q334", "city": "Singapore", "country": "Singapore"}
+{"city_code": "Q350", "city": "Cambridge", "country": "United Kingdom"}
+{"city_code": "Q393", "city": "Szczecin", "country": "Poland"}
+{"city_code": "Q437", "city": "Ljubljana", "country": "Slovenia"}
+{"city_code": "Q490", "city": "Milan", "country": "Italy"}
+{"city_code": "Q546", "city": "Trieste", "country": "Italy"}
+{"city_code": "Q580", "city": "\u0141\u00f3d\u017a", "country": "Poland"}
+{"city_code": "Q585", "city": "Oslo", "country": "Norway"}
+{"city_code": "Q586", "city": "Bonn", "country": "Germany"}
+{"city_code": "Q588", "city": "Katowice", "country": "Poland"}
+{"city_code": "Q628", "city": "Bergamo", "country": "Italy"}
+{"city_code": "Q641", "city": "Venice", "country": "Italy"}
+{"city_code": "Q727", "city": "Amsterdam", "country": "Netherlands"}
+{"city_code": "Q749", "city": "Groningen", "country": "Netherlands"}
+{"city_code": "Q761", "city": "Bia\u0142ystok", "country": "Poland"}
+{"city_code": "Q906", "city": "Chelyabinsk", "country": "Russia"}
+{"city_code": "Q1010", "city": "Maribor", "country": "Slovenia"}
+{"city_code": "Q1012", "city": "Celje", "country": "Slovenia"}
+{"city_code": "Q1021", "city": "Kranj", "country": "Slovenia"}
+{"city_code": "Q1083", "city": "Salerno", "country": "Italy"}
+{"city_code": "Q1156", "city": "Mumbai", "country": "India"}
+{"city_code": "Q1308", "city": "Como", "country": "Italy"}
+{"city_code": "Q1310", "city": "Arnhem", "country": "Netherlands"}
+{"city_code": "Q1335", "city": "Montevideo", "country": "Uruguay"}
+{"city_code": "Q1489", "city": "Mexico City", "country": "Mexico"}
+{"city_code": "Q1492", "city": "Barcelona", "country": "Spain"}
+{"city_code": "Q1515", "city": "Abidjan", "country": "Ivory Coast"}
+{"city_code": "Q1533", "city": "Caracas", "country": "Venezuela"}
+{"city_code": "Q1555", "city": "Guatemala City", "country": "Guatemala"}
+{"city_code": "Q1563", "city": "Havana", "country": "Cuba"}
+{"city_code": "Q1709", "city": "Schwerin", "country": "Germany"}
+{"city_code": "Q1733", "city": "Magdeburg", "country": "Germany"}
+{"city_code": "Q1735", "city": "Innsbruck", "country": "Austria"}
+{"city_code": "Q1748", "city": "Copenhagen", "country": "Denmark"}
+{"city_code": "Q1754", "city": "Stockholm", "country": "Sweden"}
+{"city_code": "Q1764", "city": "Reykjav\u00edk", "country": "Iceland"}
+{"city_code": "Q1780", "city": "Bratislava", "country": "Slovakia"}
+{"city_code": "Q1842", "city": "Luxembourg", "country": "Luxembourg"}
+{"city_code": "Q1854", "city": "Ho Chi Minh City", "country": "Vietnam"}
+{"city_code": "Q1861", "city": "Bangkok", "country": "Thailand"}
+{"city_code": "Q1865", "city": "Kuala Lumpur", "country": "Malaysia"}
+{"city_code": "Q1867", "city": "Taipei", "country": "Taiwan"}
+{"city_code": "Q1891", "city": "Bologna", "country": "Italy"}
+{"city_code": "Q2028", "city": "Verona", "country": "Italy"}
+{"city_code": "Q2079", "city": "Leipzig", "country": "Germany"}
+{"city_code": "Q2096", "city": "Edmonton", "country": "Canada"}
+{"city_code": "Q2167", "city": "Lund", "country": "Sweden"}
+{"city_code": "Q2211", "city": "Malm\u00f6", "country": "Sweden"}
+{"city_code": "Q2256", "city": "Birmingham", "country": "United Kingdom"}
+{"city_code": "Q2634", "city": "Naples", "country": "Italy"}
+{"city_code": "Q2656", "city": "Palermo", "country": "Italy"}
+{"city_code": "Q2683", "city": "Parma", "country": "Italy"}
+{"city_code": "Q2751", "city": "Siena", "country": "Italy"}
+{"city_code": "Q2773", "city": "Brunswick", "country": "Germany"}
+{"city_code": "Q2790", "city": "Udine", "country": "Italy"}
+{"city_code": "Q2807", "city": "Madrid", "country": "Spain"}
+{"city_code": "Q2868", "city": "Lima", "country": "Peru"}
+{"city_code": "Q2900", "city": "Quito", "country": "Ecuador"}
+{"city_code": "Q2933", "city": "Asunci\u00f3n", "country": "Paraguay"}
+{"city_code": "Q2999", "city": "W\u00fcrzburg", "country": "Germany"}
+{"city_code": "Q3001", "city": "Paramaribo", "country": "Suriname"}
+{"city_code": "Q3012", "city": "Ulm", "country": "Germany"}
+{"city_code": "Q3070", "city": "San Jos\u00e9", "country": "Costa Rica"}
+{"city_code": "Q3130", "city": "Sydney", "country": "Australia"}
+{"city_code": "Q3138", "city": "Trier", "country": "Germany"}
+{"city_code": "Q3141", "city": "Melbourne", "country": "Australia"}
+{"city_code": "Q3183", "city": "Perth", "country": "Australia"}
+{"city_code": "Q3306", "city": "Panama City", "country": "Panama"}
+{"city_code": "Q3437", "city": "Perugia", "country": "Italy"}
+{"city_code": "Q3519", "city": "Bari", "country": "Italy"}
+{"city_code": "Q3561", "city": "Algiers", "country": "Algeria"}
+{"city_code": "Q3711", "city": "Belgrade", "country": "Serbia"}
+{"city_code": "Q3761", "city": "Accra", "country": "Ghana"}
+{"city_code": "Q3766", "city": "Damascus", "country": "Syria"}
+{"city_code": "Q3808", "city": "Yaound\u00e9", "country": "Cameroon"}
+{"city_code": "Q3897", "city": "Luanda", "country": "Angola"}
+{"city_code": "Q144983", "city": "Bansk\u00e1 Bystrica", "country": "Slovakia"}
+{"city_code": "Q146342", "city": "Teplice", "country": "Czech Republic"}
+{"city_code": "Q155993", "city": "Kladno", "country": "Czech Republic"}
+{"city_code": "Q156974", "city": "\u00dast\u00ed nad Labem", "country": "Czech Republic"}
+{"city_code": "Q180139", "city": "Hradec Kr\u00e1lov\u00e9", "country": "Czech Republic"}
+{"city_code": "Q181557", "city": "Kaohsiung", "country": "Taiwan"}
+{"city_code": "Q191805", "city": "Mlad\u00e1 Boleslav", "country": "Czech Republic"}
+{"city_code": "Q199500", "city": "Gyumri", "country": "Armenia"}
+{"city_code": "Q384544", "city": "Karlovy Vary", "country": "Czech Republic"}
+{"city_code": "Q470445", "city": "Prost\u011bjov", "country": "Czech Republic"}
+{"city_code": "Q1425428", "city": "Newcastle upon Tyne", "country": "United Kingdom"}
+{"city_code": "Q2766547", "city": "'s-Hertogenbosch", "country": "Netherlands"}
+{"city_code": "Q4115712", "city": "Kaunas", "country": "Lithuania"}
+{"city_code": "Q39297398", "city": "Utrecht", "country": "Netherlands"}
+{"city_code": "Q3921", "city": "Harare", "country": "Zimbabwe"}
+{"city_code": "Q3992", "city": "Li\u00e8ge", "country": "Belgium"}
+{"city_code": "Q4024", "city": "Frankfurt an der Oder", "country": "Germany"}
+{"city_code": "Q4093", "city": "Glasgow", "country": "United Kingdom"}
+{"city_code": "Q5112", "city": "Adelaide", "country": "Australia"}
+{"city_code": "Q5468", "city": "Durban", "country": "South Africa"}
+{"city_code": "Q5475", "city": "Treviso", "country": "Italy"}
+{"city_code": "Q6221", "city": "Brescia", "country": "Italy"}
+{"city_code": "Q6231", "city": "Cremona", "country": "Italy"}
+{"city_code": "Q6397", "city": "Avignon", "country": "France"}
+{"city_code": "Q6537", "city": "Vicenza", "country": "Italy"}
+{"city_code": "Q6576", "city": "Irkutsk", "country": "Russia"}
+{"city_code": "Q6761", "city": "Livorno", "country": "Italy"}
+{"city_code": "Q7903", "city": "Casablanca", "country": "Morocco"}
+{"city_code": "Q8646", "city": "Hong Kong", "country": "People's Republic of China"}
+{"city_code": "Q8673", "city": "Lagos", "country": "Nigeria"}
+{"city_code": "Q8826", "city": "Palma", "country": "Spain"}
+{"city_code": "Q9920", "city": "Haarlem", "country": "Netherlands"}
+{"city_code": "Q10686", "city": "Belfast", "country": "United Kingdom"}
+{"city_code": "Q10690", "city": "Cardiff", "country": "United Kingdom"}
+{"city_code": "Q11194", "city": "Sarajevo", "country": "Bosnia and Herzegovina"}
+{"city_code": "Q11739", "city": "Lahore", "country": "Pakistan"}
+{"city_code": "Q11959", "city": "Alicante", "country": "Spain"}
+{"city_code": "Q12994", "city": "Bruges", "country": "Belgium"}
+{"city_code": "Q13360", "city": "Reggio Emilia", "country": "Italy"}
+{"city_code": "Q13362", "city": "Ferrara", "country": "Italy"}
+{"city_code": "Q13373", "city": "Lucca", "country": "Italy"}
+{"city_code": "Q13375", "city": "Pisa", "country": "Italy"}
+{"city_code": "Q13666", "city": "Messina", "country": "Italy"}
+{"city_code": "Q16520", "city": "Busan", "country": "South Korea"}
+{"city_code": "Q16869", "city": "Constantinople", "country": "Turkey"}
+{"city_code": "Q18125", "city": "Manchester", "country": "United Kingdom"}
+{"city_code": "Q19689", "city": "Tirana", "country": "Albania"}
+{"city_code": "Q21197", "city": "Chi\u0219in\u0103u", "country": "Moldova"}
+{"city_code": "Q22905", "city": "Bradford", "country": "United Kingdom"}
+{"city_code": "Q23051", "city": "Swansea", "country": "United Kingdom"}
+{"city_code": "Q23154", "city": "Bristol", "country": "United Kingdom"}
+{"city_code": "Q23436", "city": "Edinburgh", "country": "United Kingdom"}
+{"city_code": "Q24826", "city": "Liverpool", "country": "United Kingdom"}
+{"city_code": "Q25286", "city": "Uppsala", "country": "Sweden"}
+{"city_code": "Q25390", "city": "Leeuwarden", "country": "Netherlands"}
+{"city_code": "Q25409", "city": "Ko\u0161ice", "country": "Slovakia"}
+{"city_code": "Q25804", "city": "Trondheim", "country": "Norway"}
+{"city_code": "Q26421", "city": "Dordrecht", "country": "Netherlands"}
+{"city_code": "Q26793", "city": "Bergen", "country": "Norway"}
+{"city_code": "Q33935", "city": "Tel Aviv", "country": "Israel"}
+{"city_code": "Q34217", "city": "Oxford", "country": "United Kingdom"}
+{"city_code": "Q34370", "city": "Rotterdam", "country": "Netherlands"}
+{"city_code": "Q34647", "city": "Johannesburg", "country": "South Africa"}
+{"city_code": "Q34692", "city": "Kingston", "country": "Jamaica"}
+{"city_code": "Q34820", "city": "Santo Domingo", "country": "Dominican Republic"}
+{"city_code": "Q34932", "city": "Brisbane", "country": "Australia"}
+{"city_code": "Q35381", "city": "Colombo", "country": "Sri Lanka"}
+{"city_code": "Q35493", "city": "Almaty", "country": "Kazakhstan"}
+{"city_code": "Q36312", "city": "Calgary", "country": "Canada"}
+{"city_code": "Q36405", "city": "Aberdeen", "country": "United Kingdom"}
+{"city_code": "Q36600", "city": "The Hague", "country": "Netherlands"}
+{"city_code": "Q36647", "city": "Cork", "country": "Ireland"}
+{"city_code": "Q36989", "city": "Pardubice", "country": "Czech Republic"}
+{"city_code": "Q37100", "city": "Auckland", "country": "New Zealand"}
+{"city_code": "Q37333", "city": "Lublin", "country": "Poland"}
+{"city_code": "Q38380", "city": "Angers", "country": "France"}
+{"city_code": "Q38511", "city": "Turku", "country": "Finland"}
+{"city_code": "Q39121", "city": "Leeds", "country": "United Kingdom"}
+{"city_code": "Q40191", "city": "Hobart", "country": "Australia"}
+{"city_code": "Q40840", "city": "Tampere", "country": "Finland"}
+{"city_code": "Q40844", "city": "Breda", "country": "Netherlands"}
+{"city_code": "Q41183", "city": "Aleppo", "country": "Syria"}
+{"city_code": "Q41252", "city": "Bydgoszcz", "country": "Poland"}
+{"city_code": "Q41262", "city": "Nottingham", "country": "United Kingdom"}
+{"city_code": "Q41621", "city": "Haifa", "country": "Israel"}
+{"city_code": "Q42448", "city": "Sheffield", "country": "United Kingdom"}
+{"city_code": "Q43453", "city": "Plze\u0148", "country": "Czech Republic"}
+{"city_code": "Q43509", "city": "Guayaquil", "country": "Ecuador"}
+{"city_code": "Q43631", "city": "Leiden", "country": "Netherlands"}
+{"city_code": "Q47048", "city": "Oulu", "country": "Finland"}
+{"city_code": "Q47554", "city": "Toru\u0144", "country": "Poland"}
+{"city_code": "Q48278", "city": "Medell\u00edn", "country": "Colombia"}
+{"city_code": "Q49111", "city": "Cambridge", "country": "United States"}
+{"city_code": "Q49218", "city": "Rochester", "country": "United States"}
+{"city_code": "Q51103", "city": "Cali", "country": "Colombia"}
+{"city_code": "Q79990", "city": "Christchurch", "country": "New Zealand"}
+{"city_code": "Q81033", "city": "Monterrey", "country": "Mexico"}
+{"city_code": "Q81137", "city": "Olomouc", "country": "Czech Republic"}
+{"city_code": "Q81581", "city": "Szeged", "country": "Hungary"}
+{"city_code": "Q83065", "city": "Leicester", "country": "United Kingdom"}
+{"city_code": "Q92561", "city": "London", "country": "Canada"}
+{"city_code": "Q100188", "city": "Cluj-Napoca", "country": "Romania"}
+{"city_code": "Q102397", "city": "Miskolc", "country": "Hungary"}
+{"city_code": "Q103217", "city": "Cz\u0119stochowa", "country": "Poland"}
+{"city_code": "Q104740", "city": "Radom", "country": "Poland"}
+{"city_code": "Q105060", "city": "Sosnowiec", "country": "Poland"}
+{"city_code": "Q105084", "city": "Gliwice", "country": "Poland"}
+{"city_code": "Q123709", "city": "Dundee", "country": "United Kingdom"}
+{"city_code": "Q130191", "city": "Norwich", "country": "United Kingdom"}
+{"city_code": "Q131818", "city": "Oran", "country": "Algeria"}
+{"city_code": "Q133073", "city": "Dunedin", "country": "New Zealand"}
+{"city_code": "Q133116", "city": "Hamilton", "country": "Canada"}
