@@ -1,0 +1,4002 @@
+[
+    {
+        "question": "What is the name of the spacecraft that has performed the closest flyby of uranus?",
+        "answer": "voyager 2.",
+        "label": 1
+    },
+    {
+        "question": "What is the name for the stratospheric gas layer that protects living things from uv radiation?",
+        "answer": "carbon layer.",
+        "label": 0
+    },
+    {
+        "question": "What are negative electrons attracted to?",
+        "answer": "positive protons.",
+        "label": 1
+    },
+    {
+        "question": "Where do all plants come from?",
+        "answer": "phylogenetic ancestors.",
+        "label": 0
+    },
+    {
+        "question": "Tuataras, lizards, and snakes are members of what subclass of reptiles?",
+        "answer": "dinosaurs.",
+        "label": 0
+    },
+    {
+        "question": "Paint keeps oxygen and water from coming into direct contact with the metal, which prevents what?",
+        "answer": "corrosion.",
+        "label": 1
+    },
+    {
+        "question": "What word do get from the arabic al-qili, meaning \u201cashes of the saltwort plant from salt marshes\u201d?",
+        "answer": "alkali.",
+        "label": 1
+    },
+    {
+        "question": "Why do waves travel faster through solids?",
+        "answer": "particles closer together.",
+        "label": 1
+    },
+    {
+        "question": "What is the energy needed to start a reaction between catalysts and reactants called?",
+        "answer": "reaction energy.",
+        "label": 0
+    },
+    {
+        "question": "What organic catalysts work by lowering the activation energy needed to start biochemical reactions?",
+        "answer": "hormones.",
+        "label": 0
+    },
+    {
+        "question": "Ions that contain fewer electrons than protons have a net positive charge and are called what?",
+        "answer": "cations.",
+        "label": 1
+    },
+    {
+        "question": "What is the name of the formation that regulates sleep and arousal?",
+        "answer": "reticular formation.",
+        "label": 1
+    },
+    {
+        "question": "Out of the four ways that allele frequencies of a population can be changed, which way is caused by individuals leaving or joining the population?",
+        "answer": "Allopatric speciation.",
+        "label": 0
+    },
+    {
+        "question": "The short length of what in women is the best explanation for the greater incidence of uti in women?",
+        "answer": "urethra.",
+        "label": 1
+    },
+    {
+        "question": "Why do hummingbirds have long narrow bills?",
+        "answer": "to reach the nectar at the bottom of flowers.",
+        "label": 1
+    },
+    {
+        "question": "What is responsible for the development of antibiotic-resistant strains of bacteria?",
+        "answer": "mosquitoes.",
+        "label": 0
+    },
+    {
+        "question": "Some microorganisms can digest cellulose, breaking it down into what?",
+        "answer": "glucose monomers.",
+        "label": 1
+    },
+    {
+        "question": "What force is caused by microscopic bumps, lumps, and imperfections colliding?",
+        "answer": "gravitational.",
+        "label": 0
+    },
+    {
+        "question": "In a liquid, the particles are still in close contact, so liquids have a definite what?",
+        "answer": "growth.",
+        "label": 0
+    },
+    {
+        "question": "What is the term for the force of attraction between things that have a mass?",
+        "answer": "weight.",
+        "label": 0
+    },
+    {
+        "question": "How do parathyroid hormones react as a body ages?",
+        "answer": "use with age.",
+        "label": 0
+    },
+    {
+        "question": "When the ground absorbs the water and it settles below the surface it is called what?",
+        "answer": "groundwater.",
+        "label": 1
+    },
+    {
+        "question": "When do glaciers deposit their sediment?",
+        "answer": "when they move.",
+        "label": 0
+    },
+    {
+        "question": "Cody's velocity is zero so therefore he doesn't have what?",
+        "answer": "momentum.",
+        "label": 1
+    },
+    {
+        "question": "What system makes sure leaked blood returns back to the bloodstream?",
+        "answer": "lymphatic.",
+        "label": 1
+    },
+    {
+        "question": "Lactic acid fermentation is common in muscle cells that have run out of what?",
+        "answer": "oxygen.",
+        "label": 1
+    },
+    {
+        "question": "Silver and ordinary table salt are two examples of chemical what?",
+        "answer": "substances.",
+        "label": 1
+    },
+    {
+        "question": "What are living echinoderms divided into five of?",
+        "answer": "classifications.",
+        "label": 0
+    },
+    {
+        "question": "Metals, fossil fuels, and water are all examples of what type of resource?",
+        "answer": "natural resources.",
+        "label": 1
+    },
+    {
+        "question": "What type of gas is produced by alcoholic fermentation of the glucose in corn or other plants?",
+        "answer": "methanol.",
+        "label": 0
+    },
+    {
+        "question": "What kind of charge do iconic compounds have?",
+        "answer": "net neutral charge.",
+        "label": 1
+    },
+    {
+        "question": "Sodium-potassium pumps help nerve cells establish a voltage across their what?",
+        "answer": "potassium membranes.",
+        "label": 0
+    },
+    {
+        "question": "What is manufactured and added to foods to preserve freshness?",
+        "answer": "carbohydrates.",
+        "label": 0
+    },
+    {
+        "question": "Amino acids contain both a carboxylic acid group and what other group?",
+        "answer": "amine.",
+        "label": 1
+    },
+    {
+        "question": "Bonding in molecules with resonance forms is better described by which theory?",
+        "answer": "Geiger theory.",
+        "label": 0
+    },
+    {
+        "question": "What do we call the most widely accepted cosmological explanation of how the universe formed?",
+        "answer": "big bang theory.",
+        "label": 1
+    },
+    {
+        "question": "Pure nonpolar covalent bonds exist only between what?",
+        "answer": "two identical atoms.",
+        "label": 1
+    },
+    {
+        "question": "Ionic compound atoms of various elements gain or lose electrons to?",
+        "answer": "produce ions.",
+        "label": 1
+    },
+    {
+        "question": "What size of ring will a summer drought cause in a tree?",
+        "answer": "smaller.",
+        "label": 1
+    },
+    {
+        "question": "What is the main difference between eukaryotic and prokaryotic cells?",
+        "answer": "prokaryotic cells have a nucleus.",
+        "label": 0
+    },
+    {
+        "question": "What fertilizes an egg during sexual reproduction?",
+        "answer": "gametes.",
+        "label": 0
+    },
+    {
+        "question": "What are sensory cells?",
+        "answer": "specialized neurons or epithelial cells.",
+        "label": 1
+    },
+    {
+        "question": "The two main fundamental particles that make up neutrons are quarks and what else?",
+        "answer": "prions.",
+        "label": 0
+    },
+    {
+        "question": "What makes organic compounds ubiquitous is the chemistry of their what?",
+        "answer": "carbon core.",
+        "label": 1
+    },
+    {
+        "question": "What protects reptiles from drying out?",
+        "answer": "scales.",
+        "label": 1
+    },
+    {
+        "question": "What is a person who studies the frequency and distribution of disease within human populations and environments called?",
+        "answer": "biologist.",
+        "label": 0
+    },
+    {
+        "question": "The two general functions of roots in plants are to anchor and to do what else?",
+        "answer": "absorb.",
+        "label": 1
+    },
+    {
+        "question": "What are the tiny sacs in the lungs where gas exchange takes place?",
+        "answer": "bronchi.",
+        "label": 0
+    },
+    {
+        "question": "What flows across the membrane resulting in changes in the membrane potential?",
+        "answer": "ions.",
+        "label": 1
+    },
+    {
+        "question": "About how many days does it take the moon to make one orbit around the earth?",
+        "answer": "21.",
+        "label": 0
+    },
+    {
+        "question": "What type of roads and parking lots prevent rainwater from soaking into the ground?",
+        "answer": "paved.",
+        "label": 1
+    },
+    {
+        "question": "The long mouth-tube that some insects  use to suck up the nectar of the flower is called what?",
+        "answer": "proboscis.",
+        "label": 1
+    },
+    {
+        "question": "A substance that displays different colors when in the presence of an acid or a base is called what?",
+        "answer": "pH scale.",
+        "label": 0
+    },
+    {
+        "question": "What is the first part of the large intestine called?",
+        "answer": "cecum.",
+        "label": 1
+    },
+    {
+        "question": "What is the name for the process of charging an object by touching it with another charged object?",
+        "answer": "charging by connection.",
+        "label": 0
+    },
+    {
+        "question": "What mirrors diverge light rays and, thus, have a negative focal length?",
+        "answer": "convex.",
+        "label": 1
+    },
+    {
+        "question": "The white fluffy part of popcorn is also what?",
+        "answer": "endosperm.",
+        "label": 1
+    },
+    {
+        "question": "Technically, any redox reaction can be set up to make a what?",
+        "answer": "Black Cell.",
+        "label": 0
+    },
+    {
+        "question": "Water and many metals are materials that have low resistance to electric currents and are therefore known as what?",
+        "answer": "radioactive.",
+        "label": 0
+    },
+    {
+        "question": "The result of what, in places like the amazon rainforest, is that food will be harder to produce, clean water will be harder to find, and development of new medicines will become slower?",
+        "answer": "environmnental loss.",
+        "label": 0
+    },
+    {
+        "question": "Overpopulation takes place when the number of organisms in an area exceeds what?",
+        "answer": "carrying capacity.",
+        "label": 1
+    },
+    {
+        "question": "What is the molecular formula of carbon dioxide?",
+        "answer": "c2o.",
+        "label": 0
+    },
+    {
+        "question": "In a smoke detector, a battery in the electric circuit creates what between the metal plates?",
+        "answer": "voltage.",
+        "label": 1
+    },
+    {
+        "question": "What is the name of the science that studies matter and the changes material substances undergo?",
+        "answer": "geology.",
+        "label": 0
+    },
+    {
+        "question": "The yellowstone hot spot is a famous example of a what?",
+        "answer": "continental hot spot.",
+        "label": 1
+    },
+    {
+        "question": "What are gymnosperms lacking compared to most angiosperms?",
+        "answer": "muscle elements.",
+        "label": 0
+    },
+    {
+        "question": "In passive transport, small molecules or ions move across the cell membrane without requiring input of what?",
+        "answer": "energy.",
+        "label": 1
+    },
+    {
+        "question": "Defined as a substance in foods and beverages that is essential to human survival, what term encompasses water, energy-yielding and body-building substances, and vitamins and minerals?",
+        "answer": "molecules.",
+        "label": 0
+    },
+    {
+        "question": "Materials that can be magnetized are called?",
+        "answer": "atoms materials.",
+        "label": 0
+    },
+    {
+        "question": "What are animals that live with tiny zooxanthellae that also photosynthesize?",
+        "answer": "worms.",
+        "label": 0
+    },
+    {
+        "question": "The anion is the methanoate ion, which is commonly called the what?",
+        "answer": "isomer.",
+        "label": 0
+    },
+    {
+        "question": "What is the type of mining called when materials are removed along a strip?",
+        "answer": "strip mining.",
+        "label": 1
+    },
+    {
+        "question": "Many ionic compounds occur as hydrates, compounds that contain specific ratios of loosely bound water molecules, called waters of hydration. waters of hydration can often be removed simply by doing this?",
+        "answer": "cooling.",
+        "label": 0
+    },
+    {
+        "question": "Mineral crystals that form when magma cools are usually _______ than crystals that form when lava cools.",
+        "answer": "older.",
+        "label": 0
+    },
+    {
+        "question": "The burning of what type of fuels is a major source of sulfur oxides and nitrogen oxides?",
+        "answer": "fossil.",
+        "label": 1
+    },
+    {
+        "question": "Mitochondria are thought to have evolved from what kind of cells?",
+        "answer": "ancient  ribosome.",
+        "label": 0
+    },
+    {
+        "question": "Probability can be used to predict the chance of gametes and offspring having certain what?",
+        "answer": "molecules.",
+        "label": 0
+    },
+    {
+        "question": "What is the term for animals that  cannot raise their body temperature on their own?",
+        "answer": "ectothermic.",
+        "label": 1
+    },
+    {
+        "question": "What feature of the spine helps with flexibility and strength?",
+        "answer": "curves.",
+        "label": 1
+    },
+    {
+        "question": "What is said to occur when both traits appear in a heterozygous offspring?",
+        "answer": "codominance.",
+        "label": 1
+    },
+    {
+        "question": "What process moves food through the esophagus no matter which position the body is in?",
+        "answer": "mastication.",
+        "label": 0
+    },
+    {
+        "question": "The structure of mitochondrion plays an important role in what?",
+        "answer": "cell division.",
+        "label": 0
+    },
+    {
+        "question": "What broad group of animals - which includes rats, dogs and camels - have highly developed brains and often perform work for humans?",
+        "answer": "mammals.",
+        "label": 1
+    },
+    {
+        "question": "Solar cells convert the energy in sunlight to what type of energy?",
+        "answer": "electrical energy.",
+        "label": 1
+    },
+    {
+        "question": "In a heterozygote with one dominant and one recessive allele, which is expressed?",
+        "answer": "dominant allele.",
+        "label": 1
+    },
+    {
+        "question": "Besides greenland, where are the earth's largest ice sheets found?",
+        "answer": "North America.",
+        "label": 0
+    },
+    {
+        "question": "Some 96% of the dry mass consists of organic compounds produced by what?",
+        "answer": "erosion.",
+        "label": 0
+    },
+    {
+        "question": "Why do homonuclear diatomic molecules have zero dipole moment?",
+        "answer": "no electrical attraction.",
+        "label": 0
+    },
+    {
+        "question": "The primary amine in which the nitrogen atom is attached directly to a benzene ring has a special name, what is it?",
+        "answer": "aniline.",
+        "label": 1
+    },
+    {
+        "question": "All metabolic functions carried out by a prokaryote take place in the plasma membrane or where else?",
+        "answer": "extracellular.",
+        "label": 0
+    },
+    {
+        "question": "What group of elements cannot conduct electricity?",
+        "answer": "carbonates.",
+        "label": 0
+    },
+    {
+        "question": "Elements that do not need to conduct electricity are known as what?",
+        "answer": "nonmetals.",
+        "label": 1
+    },
+    {
+        "question": "What is the smallest part of an element called?",
+        "answer": "atom.",
+        "label": 1
+    },
+    {
+        "question": "What is the term for the dark brown or black coating found on exposed desert rocks, which is formed of iron and manganese oxides?",
+        "answer": "desert varnish.",
+        "label": 1
+    },
+    {
+        "question": "Which type of double bond has a sigma bond and a pi bond?",
+        "answer": "dioxide - oxygen bond.",
+        "label": 0
+    },
+    {
+        "question": "Unlike ionic compounds, covalent compounds do not have freely moving what?",
+        "answer": "electrons.",
+        "label": 1
+    },
+    {
+        "question": "What kind of behavior occurs only after experience or practice and describes most human behaviors?",
+        "answer": "innate behavior.",
+        "label": 0
+    },
+    {
+        "question": "What filters pathogens and worn out red blood cells from the blood?",
+        "answer": "the spleen.",
+        "label": 1
+    },
+    {
+        "question": "Water is a polar compound, so its molecules are attracted to each other and form what kind of bonds?",
+        "answer": "hydrogen.",
+        "label": 1
+    },
+    {
+        "question": "One of the five fundamental conservation laws in the universe refers to conservation of what, which is the product of mass and velocity?",
+        "answer": "momentum.",
+        "label": 1
+    },
+    {
+        "question": "What organs have tiny tubes leading to and from elastic air sacs that improve airflow and oxygen uptake?",
+        "answer": "lungs.",
+        "label": 1
+    },
+    {
+        "question": "Has the average annual temperature on earth been rising or falling for the past 100 years?",
+        "answer": "unchanged.",
+        "label": 0
+    },
+    {
+        "question": "What are seeds plants that produce naked seeds in cones called?",
+        "answer": "cytoplasm.",
+        "label": 0
+    },
+    {
+        "question": "Integral proteins penetrate the hydrophobic interior of the what?",
+        "answer": "lipid bilayer.",
+        "label": 1
+    },
+    {
+        "question": "Carrier proteins bind and carry the molecules across what cell structure?",
+        "answer": "cell membrane.",
+        "label": 1
+    },
+    {
+        "question": "What substance are physical objects are made of?",
+        "answer": "matter.",
+        "label": 1
+    },
+    {
+        "question": "What is the name of the thin layer that acts as a boundary between the stratosphere and the mesosphere?",
+        "answer": "spirogyra.",
+        "label": 0
+    },
+    {
+        "question": "The skeleton of lampreys is made of what?",
+        "answer": "ligament.",
+        "label": 0
+    },
+    {
+        "question": "What are the two most common vision problems?",
+        "answer": "colorblindness and farsightedness.",
+        "label": 0
+    },
+    {
+        "question": "What does the geiger counter detect?",
+        "answer": "radiation.",
+        "label": 1
+    },
+    {
+        "question": "Why are exotic species also called invasive species?",
+        "answer": "threaten other species.",
+        "label": 1
+    },
+    {
+        "question": "What occurs when two waves combine and cancel each other out?",
+        "answer": "terrible interference.",
+        "label": 0
+    },
+    {
+        "question": "What type of virus can cause painful sores on the mouth and genitals?",
+        "answer": "herpes.",
+        "label": 1
+    },
+    {
+        "question": "Thrombocytes are more commonly known by what name?",
+        "answer": "platelets.",
+        "label": 1
+    },
+    {
+        "question": "What do we call heated groundwater that erupts from the ground under pressure?",
+        "answer": "aquifers.",
+        "label": 0
+    },
+    {
+        "question": "What layer, made of hot, solid rock, is beneath the earth's crust?",
+        "answer": "marble.",
+        "label": 0
+    },
+    {
+        "question": "Plants supply, ultimately, most of the food eaten by terrestrial animals, along with what gas?",
+        "answer": "hydrogen.",
+        "label": 0
+    },
+    {
+        "question": "Dietary proteins are broken down into what components when food is digested?",
+        "answer": "amino acids.",
+        "label": 1
+    },
+    {
+        "question": "What were the first living things to evolve on earth?",
+        "answer": "eukaryotes.",
+        "label": 0
+    },
+    {
+        "question": "Is urea or salt reabsorbed faster?",
+        "answer": "salt.",
+        "label": 1
+    },
+    {
+        "question": "What type of seed-bearing structure of a flowering plant usually develop into?",
+        "answer": "Stem.",
+        "label": 0
+    },
+    {
+        "question": "In which direction does water travel?",
+        "answer": "downhill.",
+        "label": 1
+    },
+    {
+        "question": "What is the muscular organ that nourishes and supports the growing embryo?",
+        "answer": "uterus.",
+        "label": 1
+    },
+    {
+        "question": "What produces almost one-half of the earth's oxygen through photosynthesis?",
+        "answer": "prokaryotes.",
+        "label": 0
+    },
+    {
+        "question": "In most animals, the circulatory system is used to transport blood through the what?",
+        "answer": "fur.",
+        "label": 0
+    },
+    {
+        "question": "What is the nervous tissue in the brain and in the rest of the nervous system made up of?",
+        "answer": "neurons.",
+        "label": 1
+    },
+    {
+        "question": "What is the loss of energy available to do work called?",
+        "answer": "negentropy.",
+        "label": 0
+    },
+    {
+        "question": "What word describes a molecule that repels polar water?",
+        "answer": "monophobic.",
+        "label": 0
+    },
+    {
+        "question": "The rate of the accumulation of neutral what serves as a type of population-based biological clock?",
+        "answer": "polymorphisms.",
+        "label": 1
+    },
+    {
+        "question": "What is the double-membrane structure that constitutes the outermost portion of the nucleus?",
+        "answer": "nuclear envelope.",
+        "label": 1
+    },
+    {
+        "question": "What slow process is required for formation of soil?",
+        "answer": "weathering.",
+        "label": 1
+    },
+    {
+        "question": "What play an important role in the modulation of the nuclear chain reaction?",
+        "answer": "radiation rods.",
+        "label": 0
+    },
+    {
+        "question": "What sorts of collisions do not result in an overall loss of kinetic energy?",
+        "answer": "soft.",
+        "label": 0
+    },
+    {
+        "question": "What is the condition called where pimples form on the skin?",
+        "answer": "acne.",
+        "label": 1
+    },
+    {
+        "question": "What kind of reaction do you see when the concentration of reactants is higher?",
+        "answer": "faster reaction rate.",
+        "label": 1
+    },
+    {
+        "question": "What is a continuous flow of electric charges called?",
+        "answer": "electric current.",
+        "label": 1
+    },
+    {
+        "question": "What structures sweep laterally, hugging the pelvic walls, then turn medially and pierce the bladder wall obliquely?",
+        "answer": "ureters.",
+        "label": 1
+    },
+    {
+        "question": "What do we call the amount of time it will take for half of the radioactive material to decay?",
+        "answer": "one partial-life.",
+        "label": 0
+    },
+    {
+        "question": "What causes acid rain?",
+        "answer": "carbon dioxide.",
+        "label": 0
+    },
+    {
+        "question": "Combined substances are either compounds or what?",
+        "answer": "mixtures.",
+        "label": 1
+    },
+    {
+        "question": "In amniotes that lay eggs, the shell of the egg provides protection for the developing embryo while being permeable enough to allow for the exchange of carbon dioxide and this?",
+        "answer": "gas.",
+        "label": 0
+    },
+    {
+        "question": "The work-energy theorem states that the net work on a system equals the change in what type of energy?",
+        "answer": "kinetic energy.",
+        "label": 1
+    },
+    {
+        "question": "What are fungus like protists?",
+        "answer": "lichen and kelp.",
+        "label": 0
+    },
+    {
+        "question": "Amino acids are the building blocks of what macromolecules?",
+        "answer": "proteins.",
+        "label": 1
+    },
+    {
+        "question": "Recognition of pathogens is a function of what type of response?",
+        "answer": "immune.",
+        "label": 1
+    },
+    {
+        "question": "What is the main cause of outdoor air pollution?",
+        "answer": "burning of fossil fuels.",
+        "label": 1
+    },
+    {
+        "question": "Saturated and unsaturated are the two main kinds of what?",
+        "answer": "sugars.",
+        "label": 0
+    },
+    {
+        "question": "The high points of a transverse wave are called what?",
+        "answer": "crests.",
+        "label": 1
+    },
+    {
+        "question": "When light transfers its energy to objects, this is known as what?",
+        "answer": "accumulation.",
+        "label": 0
+    },
+    {
+        "question": "Ocean water appears cyan because microbes in the water preferentially absorb what color of light?",
+        "answer": "red.",
+        "label": 1
+    },
+    {
+        "question": "What is the term for a substance that increases the rate of a chemical reaction but is not changed or used up in the reaction?",
+        "answer": "a mechanism.",
+        "label": 0
+    },
+    {
+        "question": "What is defined as the velocity of the object at a given moment?",
+        "answer": "specific gravity.",
+        "label": 0
+    },
+    {
+        "question": "What is the order and family of a meat-eating cat like a tiger?",
+        "answer": "carnivora felidae.",
+        "label": 1
+    },
+    {
+        "question": "Leaves respond to these environmental stimuli by producing less what?",
+        "answer": "oxygen.",
+        "label": 0
+    },
+    {
+        "question": "What term refers to entities, events or powers regarded as being beyond nature, and cannot be explained by scientific means?",
+        "answer": "hypothetical.",
+        "label": 0
+    },
+    {
+        "question": "What is a sac-like organ at the end of the esophagus?",
+        "answer": "the stomach.",
+        "label": 1
+    },
+    {
+        "question": "What essential molecules can be harmful if ingested in large amounts, especially if they contain saturated fatty acids from animal foods?",
+        "answer": "lipids.",
+        "label": 1
+    },
+    {
+        "question": "How much time does the moon take to complete one revolution around the earth?",
+        "answer": "one year.",
+        "label": 0
+    },
+    {
+        "question": "What term is used to describe birds that mate for an entire season or even stay paired for their entire life?",
+        "answer": "monogamous.",
+        "label": 1
+    },
+    {
+        "question": "What is the structure in a diploid sporophyte that undergoes meiosis to form haploid spores?",
+        "answer": "hymenium.",
+        "label": 0
+    },
+    {
+        "question": "The addition of electron gives the halide ions the same electron configuration as what gas?",
+        "answer": "a noble gas.",
+        "label": 1
+    },
+    {
+        "question": "The pelvic girdle, consisting of a hip bone, serves to attach a lower limb to this?",
+        "answer": "exoskeleton.",
+        "label": 0
+    },
+    {
+        "question": "Large viruses began as what type of cells inside bigger host cells?",
+        "answer": "parasitic.",
+        "label": 1
+    },
+    {
+        "question": "Some mutations lead to new versions of proteins that help organisms adapt to changes in their environment and are essential for evolution to occur.  what are these mutations known as?",
+        "answer": "beneficial mutations.",
+        "label": 1
+    },
+    {
+        "question": "What is a substance that increases the hydrogen ion concentration of a solution?",
+        "answer": "carbon.",
+        "label": 0
+    },
+    {
+        "question": "A heterogeneous mixture of particles of one substance distributed throughout a second substance in a different phase is known as what?",
+        "answer": "disruption.",
+        "label": 0
+    },
+    {
+        "question": "Within the chloroplast, synthesis of what takes place in the fluid inside the inner membrane called the stroma?",
+        "answer": "fructose.",
+        "label": 0
+    },
+    {
+        "question": "What are the largest phylum in the animal kingdom?",
+        "answer": "crustaceans.",
+        "label": 0
+    },
+    {
+        "question": "Making a specific statement based on a general principle is the definition of what type of reasoning?",
+        "answer": "inductive.",
+        "label": 0
+    },
+    {
+        "question": "Where do you find the greatest biodiversity?",
+        "answer": "in shallow lakes.",
+        "label": 0
+    },
+    {
+        "question": "How is population density expressed?",
+        "answer": "number per area.",
+        "label": 1
+    },
+    {
+        "question": "The period of life between the start of puberty and the beginning of adulthood is called?",
+        "answer": "prenatal.",
+        "label": 0
+    },
+    {
+        "question": "If a machine only changes the direction of a force without changing the ratio of the output/input forces, then what is its associated mechanical advantage?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "How many chambers are in the heart?",
+        "answer": "two.",
+        "label": 0
+    },
+    {
+        "question": "All living organisms must have what ability, in order to make more organisms like themselves?",
+        "answer": "absorption.",
+        "label": 0
+    },
+    {
+        "question": "Not all cells of a leaf carry out photosynthesis. cells within the middle layer of a leaf have chloroplasts, which contain the photosynthetic what?",
+        "answer": "pipes.",
+        "label": 0
+    },
+    {
+        "question": "Will contour lines ever cross?",
+        "answer": "no.",
+        "label": 1
+    },
+    {
+        "question": "Cold fronts in winter may bring what type of storm?",
+        "answer": "snow storm.",
+        "label": 1
+    },
+    {
+        "question": "A catalyst can increase the rate of what, in general?",
+        "answer": "mechanicl reaction.",
+        "label": 0
+    },
+    {
+        "question": "What controls earth's magnetosphere?",
+        "answer": "magnetic field.",
+        "label": 1
+    },
+    {
+        "question": "What title is used to describe health professionals who use nonsurgical techniques to help patients with musculoskeletal system problems that involve the bones, muscles, ligaments, tendons, or nervous system?",
+        "answer": "physical therapist.",
+        "label": 0
+    },
+    {
+        "question": "Nearly all fish reproduce sexually and have what?",
+        "answer": "separate sexes.",
+        "label": 1
+    },
+    {
+        "question": "What aspect of beryllium allows it to absorb x-rays?",
+        "answer": "low atomic number.",
+        "label": 1
+    },
+    {
+        "question": "Einstein developed a theory about how electromagnetic radiation can behave as both a wave and what else?",
+        "answer": "energy.",
+        "label": 0
+    },
+    {
+        "question": "Once a plant cell becomes specialized, what can they no longer do?",
+        "answer": "divide.",
+        "label": 1
+    },
+    {
+        "question": "Individuals with what condition experience depigmentation that results in lighter colored patches of skin?",
+        "answer": "dementia.",
+        "label": 0
+    },
+    {
+        "question": "What kind of gland produces an oily substance that waterproofs the hair and skin?",
+        "answer": "secretion gland.",
+        "label": 0
+    },
+    {
+        "question": "Which group of the periodic table consists of hydrogen and the alkali metals?",
+        "answer": "group 1.",
+        "label": 1
+    },
+    {
+        "question": "The oldest fossil of land plants date back how many millions of years?",
+        "answer": "470 million years.",
+        "label": 1
+    },
+    {
+        "question": "There are several types of wetlands including marshes, swamps, bogs, mudflats, and salt marshes. the three shared characteristics among these types\u2014what makes them wetlands\u2014are their hydrology, hydrophytic vegetation, and this?",
+        "answer": "hydric soils.",
+        "label": 1
+    },
+    {
+        "question": "Living organisms release carbon dioxide into the atmosphere by what method?",
+        "answer": "cellular respiration.",
+        "label": 1
+    },
+    {
+        "question": "Speciation, convergent evolution, and coevolution are types of what process?",
+        "answer": "devolution.",
+        "label": 0
+    },
+    {
+        "question": "By what process does the haploid gametophyte produce the gametes?",
+        "answer": "mitosis.",
+        "label": 1
+    },
+    {
+        "question": "Diagnosing and treating cancer is a beneficial use of what potentially dangerous energy?",
+        "answer": "radiation.",
+        "label": 1
+    },
+    {
+        "question": "How does the image focused by the eye travel to the brain?",
+        "answer": "the optic nerve.",
+        "label": 1
+    },
+    {
+        "question": "Dietary proteins are broken down into amino acids during what process?",
+        "answer": "accumulation.",
+        "label": 0
+    },
+    {
+        "question": "How much work is done when a force is applied in a different direction than the direction of movement?",
+        "answer": "full.",
+        "label": 0
+    },
+    {
+        "question": "Eukaryotic cell division involves mitosis and what?",
+        "answer": "meiosis.",
+        "label": 0
+    },
+    {
+        "question": "The four moons of jupiter are collectively named after what 17th century astronomer, who discovered them?",
+        "answer": "Linnaeus.",
+        "label": 0
+    },
+    {
+        "question": "The major classes of living members of this phylum include gastropods, bivalves, and cephalopods?",
+        "answer": "mollusks.",
+        "label": 1
+    },
+    {
+        "question": "Lack of which attachment makes ester molecules incapable of intermolecular hydrogen bonding?",
+        "answer": "hydrogen-oxygen atom.",
+        "label": 1
+    },
+    {
+        "question": "What are all living things made of?",
+        "answer": "cells.",
+        "label": 1
+    },
+    {
+        "question": "What do we call scientists who study and forecast the weather?",
+        "answer": "Climate predictors.",
+        "label": 0
+    },
+    {
+        "question": "The pancreatic hormones insulin and glucagon maintain glucose homeostasis by tightly regulating the synthesis and breakdown of what?",
+        "answer": "glycogen.",
+        "label": 1
+    },
+    {
+        "question": "Which scientist was responsible for the theory of evolution by natural selection?",
+        "answer": "charles darwin.",
+        "label": 1
+    },
+    {
+        "question": "As adults, amphibians are completely _______, meaning they feed on other animals.",
+        "answer": "herbivorous.",
+        "label": 0
+    },
+    {
+        "question": "What type of feeders are sponges?",
+        "answer": "filter feeders.",
+        "label": 1
+    },
+    {
+        "question": "What transmits nerve impulses to other cells?",
+        "answer": "fats.",
+        "label": 0
+    },
+    {
+        "question": "What is produced by the reaction of metal oxide with water?",
+        "answer": "heat energy.",
+        "label": 0
+    },
+    {
+        "question": "Natural selection for what type of trait changes the distribution of phenotypes?",
+        "answer": "parent trait.",
+        "label": 0
+    },
+    {
+        "question": "Pressure relationships inspiration (or inhalation) and expiration (or exhalation) are dependent on the differences in pressure between the atmosphere and these?",
+        "answer": "salts.",
+        "label": 0
+    },
+    {
+        "question": "Scientists search for answers to questions and solutions to problems by using a procedure called this?",
+        "answer": "measured method.",
+        "label": 0
+    },
+    {
+        "question": "What type of plate is an island arc found on?",
+        "answer": "oceanic.",
+        "label": 1
+    },
+    {
+        "question": "In this type of reaction, an element replaces another element in a compound, and the element is in any state of matter but is not an ion?",
+        "answer": "single-replacement reaction.",
+        "label": 1
+    },
+    {
+        "question": "Secondary pollutants form from chemical reactions that occur when pollution is exposed to what?",
+        "answer": "sunlight.",
+        "label": 1
+    },
+    {
+        "question": "What is the second state of photosynthesis?",
+        "answer": "calvin cycle.",
+        "label": 1
+    },
+    {
+        "question": "What system in the human body makes white blood cells that protect the body from diseases?",
+        "answer": "cardiovascular system.",
+        "label": 0
+    },
+    {
+        "question": "What type of cells are often the product of normal cells that have lost the ability to regulate the cell cycle?",
+        "answer": "cancerous cells.",
+        "label": 1
+    },
+    {
+        "question": "What is one function of the nervous system in humans?",
+        "answer": "controlling emotion.",
+        "label": 0
+    },
+    {
+        "question": "Rabies transmission occurs when saliva from an infected mammal enters a wound. the virus travels through neurons in the peripheral nervous system to the central nervous system where it impairs this?",
+        "answer": "lung function.",
+        "label": 0
+    },
+    {
+        "question": "What is continually released during childbirth through a positive feedback mechanism and prompts uterine contractions to fetal head toward the cervix?",
+        "answer": "hemoglobin.",
+        "label": 0
+    },
+    {
+        "question": "What is the outer core made of?",
+        "answer": "liquid metal.",
+        "label": 1
+    },
+    {
+        "question": "The plasma membrane pulls away from the cell wall as it shrivels. what is this process called?",
+        "answer": "sporozoans.",
+        "label": 0
+    },
+    {
+        "question": "What organism is an important pioneer on cleared rock and soil surfaces, such as volcanic flows and burned forests?",
+        "answer": "lichen.",
+        "label": 1
+    },
+    {
+        "question": "Since warmer molecules have more energy, they are more what?",
+        "answer": "active.",
+        "label": 1
+    },
+    {
+        "question": "Deer ticks are vectors for the bacteria that cause what disease?",
+        "answer": "lyme.",
+        "label": 1
+    },
+    {
+        "question": "What instruments used in guidance systems to indicate directions in space must have an angular momentum that does not change in direction?",
+        "answer": "actuators.",
+        "label": 0
+    },
+    {
+        "question": "What is the term for the green pigment in leaves that captures energy from the sun?",
+        "answer": "chlorophyll.",
+        "label": 1
+    },
+    {
+        "question": "A protective coating of zinc to prevent corrosion is applied to steel and other metals labeled what?",
+        "answer": "galvanized.",
+        "label": 1
+    },
+    {
+        "question": "Fruit comes from the ovaries of what types of plants?",
+        "answer": "flowering.",
+        "label": 1
+    },
+    {
+        "question": "What is the simplest unit that has the fundamental chemical properties of an element?",
+        "answer": "neutron.",
+        "label": 0
+    },
+    {
+        "question": "What kind of energy constitutes the total kinetic energy of all the atoms that make up an object?",
+        "answer": "kinetic energy.",
+        "label": 0
+    },
+    {
+        "question": "What term means an area where two closely related species continue to interact and reproduce?",
+        "answer": "homozone.",
+        "label": 0
+    },
+    {
+        "question": "In police radar, a radar gun sends out short bursts of which waves?",
+        "answer": "photons.",
+        "label": 0
+    },
+    {
+        "question": "What basic structure holds plants upright, bears leaves and other structures, and transports fluids between roots and leaves?",
+        "answer": "branches.",
+        "label": 0
+    },
+    {
+        "question": "_________ are one-celled organisms with a nucleus which cause diseases such as malaria.",
+        "answer": "protozoa.",
+        "label": 1
+    },
+    {
+        "question": "In an atom, what is determined by electron distribution in shells?",
+        "answer": "chemical behavior.",
+        "label": 1
+    },
+    {
+        "question": "Asci are used by mycelia for what kind of reproduction?",
+        "answer": "asexual reproduction.",
+        "label": 0
+    },
+    {
+        "question": "Einstein\u2019s equation helps scientists understand what happens in nuclear reactions and why they produce so much what?",
+        "answer": "energy.",
+        "label": 1
+    },
+    {
+        "question": "What produces microspores that develop into pollen grains containing male gametophytes?",
+        "answer": "stamens.",
+        "label": 1
+    },
+    {
+        "question": "What produces all the cells of the root and the root cap?",
+        "answer": "apical meristem.",
+        "label": 1
+    },
+    {
+        "question": "What is emitted by atoms that have been excited by thermal excitation, electron collision, or collisions with photons of exactly the right frequency?",
+        "answer": "electricity.",
+        "label": 0
+    },
+    {
+        "question": "Gases such as neon, argon, and krypton produce what using electroluminescence?",
+        "answer": "light.",
+        "label": 1
+    },
+    {
+        "question": "Orbiting at a fairly typical 370 kilometers, the international space station is an example of what?",
+        "answer": "manmade satellite.",
+        "label": 1
+    },
+    {
+        "question": "What are considered to be the most basic concepts in the field of physical science?",
+        "answer": "change and energy.",
+        "label": 0
+    },
+    {
+        "question": "A multiaxial ball-and-socket joint has much more mobility than a what hinge joint?",
+        "answer": "triaxial.",
+        "label": 0
+    },
+    {
+        "question": "Chlorine and bromine gases released into the atmosphere have helped damage what layer of the atmosphere?",
+        "answer": "ozone layer.",
+        "label": 1
+    },
+    {
+        "question": "What is it called when the nucleus of an atom splits into two smaller nuclei?",
+        "answer": "nuclear fission.",
+        "label": 1
+    },
+    {
+        "question": "Fruit begins to ripen because what gas is released?",
+        "answer": "sulfur.",
+        "label": 0
+    },
+    {
+        "question": "What are cyclins made up of?",
+        "answer": "enzymes.",
+        "label": 0
+    },
+    {
+        "question": "In what form is the heat absorbed when you heat ice and it reaches a temperature of 0 c?",
+        "answer": "potential energy.",
+        "label": 1
+    },
+    {
+        "question": "What type of ions play critical roles in light-dependent reactions?",
+        "answer": "hydrogen.",
+        "label": 1
+    },
+    {
+        "question": "Transparent, translucent, or opaque are properties of matter based on an interaction with what?",
+        "answer": "air.",
+        "label": 0
+    },
+    {
+        "question": "What is the main type of cell in the nervous system called?",
+        "answer": "neuron.",
+        "label": 1
+    },
+    {
+        "question": "What substance do developing seeds produce which promotes fruit growth?",
+        "answer": "auxin.",
+        "label": 1
+    },
+    {
+        "question": "Science is the process of knowing about the natural universe through observation and this?",
+        "answer": "Test.",
+        "label": 0
+    },
+    {
+        "question": "How many atoms of oxygen does silicon dioxide contain?",
+        "answer": "three.",
+        "label": 0
+    },
+    {
+        "question": "Which stage is specialized for dispersal & reproduction?",
+        "answer": "fetal stage.",
+        "label": 0
+    },
+    {
+        "question": "Attaching strips of neutral metals that are higher in the activity series can protect a structure from what?",
+        "answer": "corrosion.",
+        "label": 1
+    },
+    {
+        "question": "In a photosystem, pigments in the light-harvesting complex pass light energy to two special molecules of what in the reaction center?",
+        "answer": "chlorophyll.",
+        "label": 1
+    },
+    {
+        "question": "What  occur when elements switch places in compounds?",
+        "answer": "replacement reactions.",
+        "label": 1
+    },
+    {
+        "question": "Mutualism is an interaction between individuals of two different species that has what effect on both of them?",
+        "answer": "beneficial.",
+        "label": 1
+    },
+    {
+        "question": "What separates and strongly unites bodies of adjacent vertebrae?",
+        "answer": "synovial fluid.",
+        "label": 0
+    },
+    {
+        "question": "Pacemaker cells stimulate the spontaneous contraction of cardiac muscle as a functional unit, called a what?",
+        "answer": "syncytium.",
+        "label": 1
+    },
+    {
+        "question": "What is a strombolian eruption named for?",
+        "answer": "mt. stromboli.",
+        "label": 1
+    },
+    {
+        "question": "Interactions between plants and other organisms result in cycling of chemical nutrients within what?",
+        "answer": "habitat.",
+        "label": 0
+    },
+    {
+        "question": "Baroreceptors in the aortic arch and carotid sinuses monitor what level in the body?",
+        "answer": "hunger.",
+        "label": 0
+    },
+    {
+        "question": "What are cations simply named after?",
+        "answer": "the scientist.",
+        "label": 0
+    },
+    {
+        "question": "A switch in a circuit controls the flow of what, specifically, within the circuit?",
+        "answer": "pressure.",
+        "label": 0
+    },
+    {
+        "question": "Sister chromatids separate as part of anaphase in what process?",
+        "answer": "mitosis.",
+        "label": 1
+    },
+    {
+        "question": "What kind of compound, contained in coffee and alcohol, increases urine volume?",
+        "answer": "anabolic.",
+        "label": 0
+    },
+    {
+        "question": "Water is polar and has electrically charged ends, so it is attracted to the oppositely charged end of a phospholipid molecule, which is described by what term meaning \"water-loving\"?",
+        "answer": "hydrophilic.",
+        "label": 1
+    },
+    {
+        "question": "When water slows down, it starts depositing sediment, starting with which particles first?",
+        "answer": "smallest.",
+        "label": 0
+    },
+    {
+        "question": "What helps sound travel in waves?",
+        "answer": "molecules.",
+        "label": 0
+    },
+    {
+        "question": "What are the structural and functional units of the kidney called?",
+        "answer": "Ions.",
+        "label": 0
+    },
+    {
+        "question": "Two or more what may bond with each other to form a molecule?",
+        "answer": "atoms.",
+        "label": 1
+    },
+    {
+        "question": "What affects the boiling point of water?",
+        "answer": "external pressure.",
+        "label": 1
+    },
+    {
+        "question": "What is the atomic number of magnesium?",
+        "answer": "17.",
+        "label": 0
+    },
+    {
+        "question": "Which ancient fish has just two living species and is at risk of extinction?",
+        "answer": "coelacanths.",
+        "label": 1
+    },
+    {
+        "question": "Dutch elm trees used to be common, beautiful trees in the united states. now most of them have been killed by what?",
+        "answer": "carbon dioxide.",
+        "label": 0
+    },
+    {
+        "question": "What property of matter is defined as the ability to do work and is required by all living organisms in order to grow and reproduce?",
+        "answer": "energy.",
+        "label": 1
+    },
+    {
+        "question": "The goal of proteomics is to identify or compare what substances expressed from a given genome under specific conditions, study the interactions between them, and use the information to predict cell behavior or develop drug targets?",
+        "answer": "proteins.",
+        "label": 1
+    },
+    {
+        "question": "What type of mass movement is a sudden movement of large blocks of rock and soil down a slope?",
+        "answer": "deluge.",
+        "label": 0
+    },
+    {
+        "question": "What is the term for longer chains of monosaccharides ?",
+        "answer": "proteins.",
+        "label": 0
+    },
+    {
+        "question": "What are winds that blow over a limited area called?",
+        "answer": "local winds.",
+        "label": 1
+    },
+    {
+        "question": "What kind of parasites are nearly all ticks that live on the body surfaces of reptiles or mammals?",
+        "answer": "bloodsucking.",
+        "label": 1
+    },
+    {
+        "question": "What stimulates the changes of pubery?",
+        "answer": "sex hormones.",
+        "label": 1
+    },
+    {
+        "question": "Community interactions are important factors in what?",
+        "answer": "natural selection.",
+        "label": 1
+    },
+    {
+        "question": "Pheromones enable what, which is vital for organisms like ants that live in a large community?",
+        "answer": "adaptation.",
+        "label": 0
+    },
+    {
+        "question": "What law states that energy cannot be created or destroyed?",
+        "answer": "deposit of energy.",
+        "label": 0
+    },
+    {
+        "question": "What phenomenon is primarily the result of plate tectonic motions?",
+        "answer": "eruption.",
+        "label": 0
+    },
+    {
+        "question": "What happens when when the immune system does not work properly?",
+        "answer": "anemia.",
+        "label": 0
+    },
+    {
+        "question": "What is the first part of the large intestine, where wastes enter from the small intestine?",
+        "answer": "tectum.",
+        "label": 0
+    },
+    {
+        "question": "A common age-related bone disease in which bone density and strength is decreased is know as what?",
+        "answer": "allergies.",
+        "label": 0
+    },
+    {
+        "question": "In humans, what period lasts from the ninth week of development until birth?",
+        "answer": "third trimester.",
+        "label": 0
+    },
+    {
+        "question": "Which country is formed by a hotspot along the mid-atlantic ridge?",
+        "answer": "iceland.",
+        "label": 1
+    },
+    {
+        "question": "Which vertebrae carry the greatest amount of body weight and are thus characterized by the large size and thickness of the vertebral body?",
+        "answer": "artery vertebrae.",
+        "label": 0
+    },
+    {
+        "question": "What large organelle comprised of cup-shaped discs is found close to the nucleus of the cell, where it modifies proteins that have been delivered in transport vesicles?",
+        "answer": "mitochondria.",
+        "label": 0
+    },
+    {
+        "question": "What material is regularly used in human hip and knee implants?",
+        "answer": "metal.",
+        "label": 1
+    },
+    {
+        "question": "What membrane is populated by two types of photosystems that cooperate in the light reactions of photosynthesis?",
+        "answer": "choroid.",
+        "label": 0
+    },
+    {
+        "question": "What is the scientific term for the dropping of leaves, fruits, and flowers, which led to the naming of an acid thought to play a role in the process?",
+        "answer": "ascorbition.",
+        "label": 0
+    },
+    {
+        "question": "What kind of membrane do prokaryotic cells have?",
+        "answer": "plasma membrane.",
+        "label": 1
+    },
+    {
+        "question": "Changes of state of matter do not involve what type of reaction?",
+        "answer": "chemical reaction.",
+        "label": 1
+    },
+    {
+        "question": "The atomic number of tungsten is 74. therefore, in a neutral atom of tungsten, there are 74 electrons. the atomic number of argon is 18. therefore, in a neutral atom of argon, there are how many electrons?",
+        "answer": "18.",
+        "label": 1
+    },
+    {
+        "question": "What is the basic unit of an organism called?",
+        "answer": "cell.",
+        "label": 1
+    },
+    {
+        "question": "The ozone layer protects the earth from what?",
+        "answer": "pollution.",
+        "label": 0
+    },
+    {
+        "question": "If an elephant and a boy are falling towards the ground, who will land first?",
+        "answer": "the boy.",
+        "label": 0
+    },
+    {
+        "question": "What organ provides the integrative power that underlies the complex behavior of vertebrates?",
+        "answer": "the skin.",
+        "label": 0
+    },
+    {
+        "question": "What kind of molecule is made from one or more long chains of amino acids?",
+        "answer": "membrane molecule.",
+        "label": 0
+    },
+    {
+        "question": "What type of cells does meiosis produce?",
+        "answer": "haploid daughter cells.",
+        "label": 1
+    },
+    {
+        "question": "Graphite and diamond both are made from carbon. what makes diamonds so hard?",
+        "answer": "strong atomic network.",
+        "label": 1
+    },
+    {
+        "question": "What are the two most common silicates?",
+        "answer": "feldspar and quartz.",
+        "label": 1
+    },
+    {
+        "question": "What are proteins encoded by?",
+        "answer": "DNA.",
+        "label": 0
+    },
+    {
+        "question": "Shark teeth likely evolved from the jagged scales that cover their skin, called what?",
+        "answer": "placoid scales.",
+        "label": 1
+    },
+    {
+        "question": "With codominance, both alleles are expressed equally in what?",
+        "answer": "heterozygotes.",
+        "label": 1
+    },
+    {
+        "question": "What determines the ability of soil particles to bind many nutrients?",
+        "answer": "surface pulses.",
+        "label": 0
+    },
+    {
+        "question": "What is another word for thermal energy?",
+        "answer": "solar.",
+        "label": 0
+    },
+    {
+        "question": "What is tube-shaped and brings urine from the kidneys to the urinary bladder?",
+        "answer": "gametophytes.",
+        "label": 0
+    },
+    {
+        "question": "What is the name for the pores in leaves that allow a plant to retain water or exchange gases?",
+        "answer": "neurons.",
+        "label": 0
+    },
+    {
+        "question": "What is the only light that humans can see?",
+        "answer": "visible light.",
+        "label": 1
+    },
+    {
+        "question": "What are the strongest magnets made?",
+        "answer": "permanent magnets.",
+        "label": 0
+    },
+    {
+        "question": "What are needed to oxidize the noble gases to form compounds in positive oxidation states?",
+        "answer": "metal oxidants.",
+        "label": 0
+    },
+    {
+        "question": "Potential energy is present in objects that are what?",
+        "answer": "elastic.",
+        "label": 1
+    },
+    {
+        "question": "What is the term for plants that lack vascular tissues, roots, leaves, seeds, and flowers?",
+        "answer": "chloroplasts.",
+        "label": 0
+    },
+    {
+        "question": "What helps frogs swim during the tadpole phase?",
+        "answer": "fins.",
+        "label": 0
+    },
+    {
+        "question": "What helps regulate the production of urine?",
+        "answer": "the pituitary gland.",
+        "label": 1
+    },
+    {
+        "question": "Sexual reproduction involves the production of haploid gametes by what?",
+        "answer": "meiosis.",
+        "label": 1
+    },
+    {
+        "question": "The cytoplasm is all the contents of the cell inside the cell membrane, with the exception of what?",
+        "answer": "vacuole.",
+        "label": 0
+    },
+    {
+        "question": "Dermal tissue covers the outside of a plant in a single layer of cells called what?",
+        "answer": "cambium layer.",
+        "label": 0
+    },
+    {
+        "question": "What abbreviated form refers to oxidation-reduction reactions, which are part of respiration and photosynthesis?",
+        "answer": "oxid reactions.",
+        "label": 0
+    },
+    {
+        "question": "Mitosis is nuclear division during which duplicated chromosomes are segregated and distributed into what?",
+        "answer": "father nuclei.",
+        "label": 0
+    },
+    {
+        "question": "What has  a single voltage source and a single resistor",
+        "answer": "simple circuit.",
+        "label": 1
+    },
+    {
+        "question": "What is a pure substance that cannot be separated into any other substances called?",
+        "answer": "element.",
+        "label": 1
+    },
+    {
+        "question": "What dangerous oxygen compound is found in ground level smog?",
+        "answer": "ozone.",
+        "label": 1
+    },
+    {
+        "question": "Which members of the food chain break down remains of plants and other organisms when they die?",
+        "answer": "decomposers.",
+        "label": 1
+    },
+    {
+        "question": "What is another term for foodborne illness?",
+        "answer": "food poisoning.",
+        "label": 1
+    },
+    {
+        "question": "What is formed when the ceiling of an underground cave collapses?",
+        "answer": "sinkhole.",
+        "label": 1
+    },
+    {
+        "question": "What organ eliminates solid wastes that remain after the digestion of food?",
+        "answer": "the spleen.",
+        "label": 0
+    },
+    {
+        "question": "What is the function of chloroplasts that are found in plant and algal cells?",
+        "answer": "mitosis.",
+        "label": 0
+    },
+    {
+        "question": "What unit of the nervous system consists of a cell body, dendrites, and axon?",
+        "answer": "neuron.",
+        "label": 1
+    },
+    {
+        "question": "The study of energy and energy transfer involving physical matter is what?",
+        "answer": "geology.",
+        "label": 0
+    },
+    {
+        "question": "Where do plates move apart in oceans and on land?",
+        "answer": "volcanic ridges.",
+        "label": 0
+    },
+    {
+        "question": "What are the egg shaped organs on either side of the uterus?",
+        "answer": "lungs.",
+        "label": 0
+    },
+    {
+        "question": "What are prokaryotic cells filled with?",
+        "answer": "cytoplasm.",
+        "label": 1
+    },
+    {
+        "question": "What type of map projection is used for small areas to avoid distortion?",
+        "answer": "gnomic projection.",
+        "label": 1
+    },
+    {
+        "question": "What is studied to understand gene expression patterns in cells?",
+        "answer": "rna.",
+        "label": 1
+    },
+    {
+        "question": "What type of energy travels in waves across space as well as through matter?",
+        "answer": "kinetic energy.",
+        "label": 0
+    },
+    {
+        "question": "What property of warm air causes it to rise above cold air?",
+        "answer": "lower density.",
+        "label": 1
+    },
+    {
+        "question": "What type of energy is stored in an object because of its position or shape?",
+        "answer": "magnetic.",
+        "label": 0
+    },
+    {
+        "question": "What is the term for  interactions between individuals of different species over an extended period of time which impact the abundance and distribution of the associating populations?",
+        "answer": "parasitic relationships.",
+        "label": 0
+    },
+    {
+        "question": "What is the name for the stratospheric gas layer that protects living things from uv radiation?",
+        "answer": "ozone layer.",
+        "label": 1
+    },
+    {
+        "question": "What type of gases are used for balloons, light bulbs and lighted signs?",
+        "answer": "ignoble.",
+        "label": 0
+    },
+    {
+        "question": "What is an upward force that fluids exert on any object that is placed in them?",
+        "answer": "gravity force.",
+        "label": 0
+    },
+    {
+        "question": "What component of cells is present in plant and bacterial cells but not animal cells?",
+        "answer": "nucleus.",
+        "label": 0
+    },
+    {
+        "question": "Solvation involves surrounding ions with what?",
+        "answer": "solvent particles.",
+        "label": 1
+    },
+    {
+        "question": "What is the outer layer of the sun made up of?",
+        "answer": "oxygen.",
+        "label": 0
+    },
+    {
+        "question": "What are antacids comprised of?",
+        "answer": "gases.",
+        "label": 0
+    },
+    {
+        "question": "Light is scattered from what in our atmosphere?",
+        "answer": "matter.",
+        "label": 0
+    },
+    {
+        "question": "What do you call an area covered with water, or possessing very soggy soil, all or part of the year?",
+        "answer": "stream.",
+        "label": 0
+    },
+    {
+        "question": "The cubic crystal system is composed of how many different types of unit cells?",
+        "answer": "three.",
+        "label": 1
+    },
+    {
+        "question": "Sensory organs that respond to particular sensory stimuli contain cells called what?",
+        "answer": "sensory receptors.",
+        "label": 1
+    },
+    {
+        "question": "What type of substance is any matter that has a fixed chemical composition and characteristic properties?",
+        "answer": "pure chemical substance.",
+        "label": 1
+    },
+    {
+        "question": "What consists of these five stages: prophase, prometaphase, metaphase, anaphase, and telophase?",
+        "answer": "mitosis.",
+        "label": 1
+    },
+    {
+        "question": "What do refrigerator magnets contain that make them stick to a refrigerator door?",
+        "answer": "iron.",
+        "label": 1
+    },
+    {
+        "question": "The pressure of a sample of gas is measured with an open-end what?",
+        "answer": "thermometer.",
+        "label": 0
+    },
+    {
+        "question": "Traditional classification of mammals are based on similarities in what two things?",
+        "answer": "solution & function.",
+        "label": 0
+    },
+    {
+        "question": "What's it called when gases turn back into liquids?",
+        "answer": "condensation.",
+        "label": 1
+    },
+    {
+        "question": "Hagfishes have a skull made of what?",
+        "answer": "gelatin.",
+        "label": 0
+    },
+    {
+        "question": "Which property can you study by comparing the mass of an object relative to its size?",
+        "answer": "volume.",
+        "label": 0
+    },
+    {
+        "question": "Does climate change have a positive or negative effect on reproductive success?",
+        "answer": "neither.",
+        "label": 0
+    },
+    {
+        "question": "The properties of cyclic hydrocarbons are generally quite similar to those of the corresponding open-chain compounds. so cycloalkanes (with the exception of cyclopropane, which has a highly strained ring) act very much like noncyclic alkanes. cyclic structures containing five or six carbon atoms, such as cyclopentane and cyclohexane, are particularly what?",
+        "answer": "stable.",
+        "label": 1
+    },
+    {
+        "question": "Metals are elements that can conduct what?",
+        "answer": "cycle.",
+        "label": 0
+    },
+    {
+        "question": "Birds and insects perform what function for flowering plants?",
+        "answer": "pollination.",
+        "label": 1
+    },
+    {
+        "question": "Scientists perform experiments to test their hypotheses because sometimes the nature of natural universe is what?",
+        "answer": "not obvious.",
+        "label": 1
+    },
+    {
+        "question": "The layers of the atmosphere correspond with what changes with altitude?",
+        "answer": "friction.",
+        "label": 0
+    },
+    {
+        "question": "Called the powerhouses of the cell, what organelles are the site of cellular energy production?",
+        "answer": "mitochondria.",
+        "label": 1
+    },
+    {
+        "question": "The first few species to colonize a disturbed area are called what?",
+        "answer": "producer species.",
+        "label": 0
+    },
+    {
+        "question": "Aging occurs as cells lose their ability to do what?",
+        "answer": "fold.",
+        "label": 0
+    },
+    {
+        "question": "Oxygen is essentially just a waste product of the light reactions of what?",
+        "answer": "photosynthesis.",
+        "label": 1
+    },
+    {
+        "question": "What property increases as an object's mass increases, making a full box harder to push than an empty one?",
+        "answer": "inertia.",
+        "label": 1
+    },
+    {
+        "question": "Sporangia produce spores that develop into tiny, heart-shaped what?",
+        "answer": "gametophytes.",
+        "label": 1
+    },
+    {
+        "question": "Fungi are no longer classified as what, possessing cell walls made of chitin rather than cellulose?",
+        "answer": "plants.",
+        "label": 1
+    },
+    {
+        "question": "The acidity of a solution is typically assessed experimentally by measurement of its what?",
+        "answer": "ph.",
+        "label": 1
+    },
+    {
+        "question": "What process within cells makes sure that every gamete receives a copy of every chromosome?",
+        "answer": "meiosis.",
+        "label": 1
+    },
+    {
+        "question": "The force that a magnet exerts on certain materials is called what?",
+        "answer": "magnetic force.",
+        "label": 1
+    },
+    {
+        "question": "How do you calculate the atomic mass of an element?",
+        "answer": "add the protons and neutrons together.",
+        "label": 1
+    },
+    {
+        "question": "Typically done to find food or mates, what do you call the regular movement of individuals or populations each year during certain seasons?",
+        "answer": "migration.",
+        "label": 1
+    },
+    {
+        "question": "Humans possess greater diversity of what type, compared to laboratory animals?",
+        "answer": "lifespans.",
+        "label": 0
+    },
+    {
+        "question": "What do you call the process that results in an animal producing offspring?",
+        "answer": "reproduction.",
+        "label": 1
+    },
+    {
+        "question": "How do you calculate the atomic mass of an element?",
+        "answer": "add neutrons and electrons.",
+        "label": 0
+    },
+    {
+        "question": "The velocity at the beginning of the time interval is called what?",
+        "answer": "growing velocity.",
+        "label": 0
+    },
+    {
+        "question": "What is the photosynthesis factory of the plant?",
+        "answer": "chloroplast.",
+        "label": 1
+    },
+    {
+        "question": "What kind of solid is characterized by an unorganized and unpredictable structure?",
+        "answer": "amorphous.",
+        "label": 1
+    },
+    {
+        "question": "Biotechnology is the use of biological agents for technological advancement. what two areas are the primary applications of this technology used?",
+        "answer": "medicine and architecture.",
+        "label": 0
+    },
+    {
+        "question": "Which theory states that all organisms are composed of one or more cells, the cell is the basic unit of life, and new cells arise from existing cells?",
+        "answer": "theory of evolution.",
+        "label": 0
+    },
+    {
+        "question": "In what season are temperature inversions more common?",
+        "answer": "spring.",
+        "label": 0
+    },
+    {
+        "question": "Why does a large log burn relatively slowly compared to the same mass of wood in the form of small twigs?",
+        "answer": "smaller blade area.",
+        "label": 0
+    },
+    {
+        "question": "What can protons and neutrons be broken down into?",
+        "answer": "molecules.",
+        "label": 0
+    },
+    {
+        "question": "The rate of dissolving is influenced by surface area, stirring, and what else?",
+        "answer": "oxygen.",
+        "label": 0
+    },
+    {
+        "question": "What is the group of single-celled organisms lacking a nucleus that have a single piece of circular dna in the nucleoid area of the cell?",
+        "answer": "prokaryotes.",
+        "label": 1
+    },
+    {
+        "question": "What intensifies the response during homeostasis?",
+        "answer": "pressure loops.",
+        "label": 0
+    },
+    {
+        "question": "Extrusive igneous rocks are also called what?",
+        "answer": "metamorphic.",
+        "label": 0
+    },
+    {
+        "question": "When do female reproductive organs mature?",
+        "answer": "at puberty.",
+        "label": 1
+    },
+    {
+        "question": "While similar to insects, what eight-legged invertebrates lack antennae or wings?",
+        "answer": "arachnids.",
+        "label": 1
+    },
+    {
+        "question": "What is root that does not arise from a usual place?",
+        "answer": "momentous.",
+        "label": 0
+    },
+    {
+        "question": "Why did people stop adding lead to gasoline?",
+        "answer": "environmental pollution.",
+        "label": 1
+    },
+    {
+        "question": "The  populations that live in the same area form this?",
+        "answer": "a community.",
+        "label": 1
+    },
+    {
+        "question": "In some ways, a collection of gas molecules represents the simplest form of what?",
+        "answer": "life.",
+        "label": 0
+    },
+    {
+        "question": "What keeps earth in orbit around the sun?",
+        "answer": "gravity.",
+        "label": 1
+    },
+    {
+        "question": "What is defined as a push or pull acting on an object?",
+        "answer": "force.",
+        "label": 1
+    },
+    {
+        "question": "When an ionic compound dissociates in water, water molecules surround each ion and separate it from the rest of the what?",
+        "answer": "solid.",
+        "label": 1
+    },
+    {
+        "question": "What do atoms form by sharing valence electrons?",
+        "answer": "phenotype bonds.",
+        "label": 0
+    },
+    {
+        "question": "What connects the two hemispheres of the brain?",
+        "answer": "corpus callosum.",
+        "label": 1
+    },
+    {
+        "question": "Where are bile acids, needed to emulsify lipids, stored in the body?",
+        "answer": "gallbladder.",
+        "label": 1
+    },
+    {
+        "question": "What type of metal is a good conductor of electricity?",
+        "answer": "Tin.",
+        "label": 0
+    },
+    {
+        "question": "Water is a polar compound, so its molecules are attracted to each other and form what kind of bonds?",
+        "answer": "mixed.",
+        "label": 0
+    },
+    {
+        "question": "Mount kilimanjaro has ________ climates at the top and bottom?",
+        "answer": "different.",
+        "label": 1
+    },
+    {
+        "question": "What is the only way of transferring energy that doesn't require matter?",
+        "answer": "radiation.",
+        "label": 1
+    },
+    {
+        "question": "In which kind of animals does parthenogenesis occur?",
+        "answer": "invertebrates.",
+        "label": 1
+    },
+    {
+        "question": "What type of bacteria change nitrogen gas from the atmosphere to nitrates in soil?",
+        "answer": "hydrophylic bacteria.",
+        "label": 0
+    },
+    {
+        "question": "What eukaryotic organisms cannot make their own food and do not technically eat?",
+        "answer": "fungi.",
+        "label": 1
+    },
+    {
+        "question": "Chitin is a substance that is found in what part of animals like beetles and lobsters?",
+        "answer": "brains.",
+        "label": 0
+    },
+    {
+        "question": "Most molecular compounds that have a mass similar to water are in what state of matter at room temperature?",
+        "answer": "gas.",
+        "label": 1
+    },
+    {
+        "question": "Increasing the pressure on a gas has what effect on its solubility?",
+        "answer": "decrease.",
+        "label": 0
+    },
+    {
+        "question": "What is the name of the science that is concerned with naming and grouping organisms?",
+        "answer": "geology.",
+        "label": 0
+    },
+    {
+        "question": "What is the term for a fold that arches upward?",
+        "answer": "anticline.",
+        "label": 1
+    },
+    {
+        "question": "What hormone does the endocrine system secrete to help cells absorb blood sugar?",
+        "answer": "insulin.",
+        "label": 1
+    },
+    {
+        "question": "The unpaired ethmoid bone is located where within the central skull?",
+        "answer": "at the midline.",
+        "label": 1
+    },
+    {
+        "question": "What are electrons lost during the formation of ions called?",
+        "answer": "cations.",
+        "label": 1
+    },
+    {
+        "question": "What celestial body is the earth\u2019s main source of energy?",
+        "answer": "sun.",
+        "label": 1
+    },
+    {
+        "question": "What are the most diverse plants on earth?",
+        "answer": "conifers.",
+        "label": 0
+    },
+    {
+        "question": "Where are the terrestrial planets located, in relation to the sun?",
+        "answer": "closest.",
+        "label": 1
+    },
+    {
+        "question": "What branch of biology uses fossils to study life\u2019s history?",
+        "answer": "paleontology.",
+        "label": 1
+    },
+    {
+        "question": "Which type of tides are created when the sun and moon's tides match?",
+        "answer": "Neap tides.",
+        "label": 0
+    },
+    {
+        "question": "The electronegativity of an element increases with increasing of what state?",
+        "answer": "oxidation.",
+        "label": 1
+    },
+    {
+        "question": "The planets orbit around what celestial body?",
+        "answer": "sun.",
+        "label": 1
+    },
+    {
+        "question": "What celestial body is the earth\u2019s main source of energy?",
+        "answer": "rivers.",
+        "label": 0
+    },
+    {
+        "question": "What type of organism, including sea stars and sand dollars, is named for their spiny skin?",
+        "answer": "echinoderms.",
+        "label": 1
+    },
+    {
+        "question": "Where are feces formed?",
+        "answer": "duodenum.",
+        "label": 0
+    },
+    {
+        "question": "What is the process in which a layer of a second metal is deposited on the metal electrode that acts as the cathode during electrolysis?",
+        "answer": "casting.",
+        "label": 0
+    },
+    {
+        "question": "What is the measurement for the amount of water vapor in the air?",
+        "answer": "haze.",
+        "label": 0
+    },
+    {
+        "question": "Mendeleev organized what basic units into rows and columns?",
+        "answer": "solutions.",
+        "label": 0
+    },
+    {
+        "question": "What feature of the spine helps with flexibility and strength?",
+        "answer": "shape.",
+        "label": 0
+    },
+    {
+        "question": "What system makes sure leaked blood returns back to the bloodstream?",
+        "answer": "cerebral.",
+        "label": 0
+    },
+    {
+        "question": "Are bones considered living or dead tissues?",
+        "answer": "decaying.",
+        "label": 0
+    },
+    {
+        "question": "Dengue fever and yellow fever are examples of diseases caused by what type of pathogen?",
+        "answer": "fungi.",
+        "label": 0
+    },
+    {
+        "question": "The major fuel for the brain is which carbohydrate?",
+        "answer": "glutamate.",
+        "label": 0
+    },
+    {
+        "question": "After ovulation occurs, the moving \u201cfingers\u201d of what nearby structure sweep the egg into its tube?",
+        "answer": "nadiad tube.",
+        "label": 0
+    },
+    {
+        "question": "What kind of charge do electrons have?",
+        "answer": "negative.",
+        "label": 1
+    },
+    {
+        "question": "From where have the earliest ocean plants thought to have evolved?",
+        "answer": "green pepinia ancestor.",
+        "label": 0
+    },
+    {
+        "question": "What do aggregate fruits like raspberries form from?",
+        "answer": "germinoles fused together.",
+        "label": 0
+    },
+    {
+        "question": "Like other bryophytes, moss plants spend most of their life cycle as?",
+        "answer": "gametophytes.",
+        "label": 1
+    },
+    {
+        "question": "Snails, scallops, and squids are what type of invertebrate?",
+        "answer": "crustacean.",
+        "label": 0
+    },
+    {
+        "question": "Insect wings are part of the exoskeleton and attached to the what?",
+        "answer": "neck.",
+        "label": 0
+    },
+    {
+        "question": "What occurs when the immune system attacks a harmless substance that enters the body from the outside?",
+        "answer": "panic attack.",
+        "label": 0
+    },
+    {
+        "question": "What term describes the rate at which a device changes electric current to another form of energy?",
+        "answer": "kilowatts.",
+        "label": 0
+    },
+    {
+        "question": "There are a series of rules for naming branched alkanes (and, ultimately, for all organic compounds). these rules make up the system of nomenclature for naming what?",
+        "answer": "non-organic molecules.",
+        "label": 0
+    },
+    {
+        "question": "What term refers to a group of individuals of the same species that live in the same area and is the unit of natural selection, adaptation, and microevolution?",
+        "answer": "ecosystem.",
+        "label": 0
+    },
+    {
+        "question": "The scientific name of an organism consists of its genus and what else?",
+        "answer": "species.",
+        "label": 1
+    },
+    {
+        "question": "What is the transfer of thermal energy by waves that can travel through empty space called?",
+        "answer": "radiation.",
+        "label": 1
+    },
+    {
+        "question": "What type of mammals includes opossums, kangaroos, and koalas?",
+        "answer": "marsupials.",
+        "label": 1
+    },
+    {
+        "question": "Shivering helps the body return to a stable what?",
+        "answer": "temperature.",
+        "label": 1
+    },
+    {
+        "question": "What artificial process involves making an exact copy of a gene?",
+        "answer": "material cloning.",
+        "label": 0
+    },
+    {
+        "question": "What kind of reaction is needed to prepare amides?",
+        "answer": "carboxylic acid reaction.",
+        "label": 1
+    },
+    {
+        "question": "Evolution happens because of what?",
+        "answer": "natural selection.",
+        "label": 1
+    },
+    {
+        "question": "Both oxygen and glucose are transported within the body via what?",
+        "answer": "bone.",
+        "label": 0
+    },
+    {
+        "question": "What do we call the movement of individuals into a population from other areas?",
+        "answer": "immigration.",
+        "label": 1
+    },
+    {
+        "question": "In hypothesis-based science, specific results are predicted from a general premise, which is called what type of reasoning that proceeds from general to particular?",
+        "answer": "reactive.",
+        "label": 0
+    },
+    {
+        "question": "What is the fluid that carries sperm through the urethra and out of the body, and provides it with nutrients?",
+        "answer": "semen.",
+        "label": 1
+    },
+    {
+        "question": "What organisms known as decomposers break down wastes and dead organisms into smaller molecules?",
+        "answer": "bacteria.",
+        "label": 1
+    },
+    {
+        "question": "What is the term for the measure of the average kinetic energy of the particles in matter?",
+        "answer": "voltage.",
+        "label": 0
+    },
+    {
+        "question": "What are the most common dietary lipids?",
+        "answer": "phospholipids.",
+        "label": 0
+    },
+    {
+        "question": "How is eye color in humans determined?",
+        "answer": "random chance.",
+        "label": 0
+    },
+    {
+        "question": "What term is used to describe the transfer of thermal energy by particles moving through a fluid?",
+        "answer": "condensation.",
+        "label": 0
+    },
+    {
+        "question": "What contains carbon, hydrogen, and oxygen in a ratio of 1:2:1?",
+        "answer": "helium.",
+        "label": 0
+    },
+    {
+        "question": "What abbreviated form refers to oxidation-reduction reactions, which are part of respiration and photosynthesis?",
+        "answer": "redox reactions.",
+        "label": 1
+    },
+    {
+        "question": "The process by which an organism develops from a single-celled zygote to a multi-cellular organism is complex and well regulated. the regulation occurs through signaling between cells and tissues and responses in the form of what?",
+        "answer": "differential gene expression.",
+        "label": 1
+    },
+    {
+        "question": "Altitude is height above what?",
+        "answer": "sea level.",
+        "label": 1
+    },
+    {
+        "question": "What is the condition in which distant objects are seen clearly, but nearby objects appear blurry?",
+        "answer": "synthesise , or hyperopia.",
+        "label": 0
+    },
+    {
+        "question": "The function of which organ is to filter blood and form urine?",
+        "answer": "kidneys.",
+        "label": 1
+    },
+    {
+        "question": "The strength of what depends on the concentration of hydrogen ions it produces when dissolved in water?",
+        "answer": "acid.",
+        "label": 1
+    },
+    {
+        "question": "Embryos usually don't survive if they have extra or too few of these genetic units?",
+        "answer": "phenotypes.",
+        "label": 0
+    },
+    {
+        "question": "What is the separation of compounds on the basis of their solubilities in a given solvent?",
+        "answer": "solvent law.",
+        "label": 0
+    },
+    {
+        "question": "The muscles of the anterior compartment of the lower leg are generally responsible for dorsiflexion, and the muscles of the posterior compartment of the lower leg are generally responsible for this?",
+        "answer": "plantar flexion.",
+        "label": 1
+    },
+    {
+        "question": "During an earthquake what causes seismic waves?",
+        "answer": "Currents.",
+        "label": 0
+    },
+    {
+        "question": "What is the term for the process in which glucose is made using light energy?",
+        "answer": "photosynthesis.",
+        "label": 1
+    },
+    {
+        "question": "What kind of cells have positive cell potentials, and all the reduction reactions are reversible?",
+        "answer": "galvanic cells.",
+        "label": 1
+    },
+    {
+        "question": "What is the transfer of information from rna to dna called?",
+        "answer": "reverse transcription.",
+        "label": 1
+    },
+    {
+        "question": "What happens to the volume of the gas when temperature increases but amount of gas and its pressure are constant?",
+        "answer": "volume increases.",
+        "label": 1
+    },
+    {
+        "question": "Which area of the human heart pumps the blood to the right ventricle?",
+        "answer": "right atrium.",
+        "label": 1
+    },
+    {
+        "question": "What is used for cooling detectors of infrared telescopes?",
+        "answer": "hand nitrogen.",
+        "label": 0
+    },
+    {
+        "question": "What measures the amount of matter in an object?",
+        "answer": "concentrations.",
+        "label": 0
+    },
+    {
+        "question": "During what do homologous chromosomes separate and go to different daughter cells?",
+        "answer": "birth.",
+        "label": 0
+    },
+    {
+        "question": "What is vital for nervous system functions that include muscle stimulation, memory formation, and learning?",
+        "answer": "thiamine.",
+        "label": 0
+    },
+    {
+        "question": "Some hormones produced by the anterior pituitary regulate the production of hormones by other tissues belonging to what system?",
+        "answer": "nervous.",
+        "label": 0
+    },
+    {
+        "question": "What type of cellular respiration occurs in the presence of oxygen?",
+        "answer": "aerobic.",
+        "label": 1
+    },
+    {
+        "question": "Which part of a neuron contains the nucleus and most of the major organelles?",
+        "answer": "cell body.",
+        "label": 1
+    },
+    {
+        "question": "Anabolic steroids, a form of the male sex hormone testosterone, are one of the most widely known performance-enhancing drugs. steroids are used to help build what?",
+        "answer": "muscle mass.",
+        "label": 1
+    },
+    {
+        "question": "How does burning matter affect its mass?",
+        "answer": "the mass quadruples.",
+        "label": 0
+    },
+    {
+        "question": "Desert plants have special stems and leaves to conserve what?",
+        "answer": "water.",
+        "label": 1
+    },
+    {
+        "question": "What are materials that can be magnetized called?",
+        "answer": "catalytic materials.",
+        "label": 0
+    },
+    {
+        "question": "What is the most familiar fibrous protein found in your body?",
+        "answer": "cellulose.",
+        "label": 0
+    },
+    {
+        "question": "What helps sound travel in waves?",
+        "answer": "gases.",
+        "label": 1
+    },
+    {
+        "question": "What part of the plant do nutrients enter?",
+        "answer": "the seeds.",
+        "label": 0
+    },
+    {
+        "question": "What component of a prokaryote is unique in  molecular composition and mechanism of propulsion?",
+        "answer": "the flagella.",
+        "label": 1
+    },
+    {
+        "question": "The two general types of reproduction are sexual and what?",
+        "answer": "asexual.",
+        "label": 1
+    },
+    {
+        "question": "Light moving from air into water is bent ___________ the normal?",
+        "answer": "less.",
+        "label": 0
+    },
+    {
+        "question": "Planes fly in what layer of the atmosphere because there is less friction and turbulence?",
+        "answer": "stratosphere.",
+        "label": 1
+    },
+    {
+        "question": "The diapsids diverged into two groups, the archosauromorpha (\u201cancient lizard form\u201d) and the lepidosauromorpha (\u201cscaly lizard form\u201d) during what time period?",
+        "answer": "mesozoic.",
+        "label": 1
+    },
+    {
+        "question": "Defined as total distance traveled divided by elapsed speed, average speed is a scalar quantity that does not include what?",
+        "answer": "shift.",
+        "label": 0
+    },
+    {
+        "question": "What has increased the greenhouse effect?",
+        "answer": "human actions.",
+        "label": 1
+    },
+    {
+        "question": "The sequence of bases in a gene translates to the sequence of what protein components?",
+        "answer": "protein acids.",
+        "label": 0
+    },
+    {
+        "question": "During a what type of reaction do chemical changes take place?",
+        "answer": "toxic.",
+        "label": 0
+    },
+    {
+        "question": "Which of these is last if ordered in increasing size: galaxy, solar system, star cluster?",
+        "answer": "none of these.",
+        "label": 0
+    },
+    {
+        "question": "Because they can cause diseases in plants, some parasitic fungi are considered what?",
+        "answer": "pathogenic.",
+        "label": 1
+    },
+    {
+        "question": "The uranium series is a chain constituting one what, which encompass naturally occurring isotopes of the heaviest elements?",
+        "answer": "nuclear decay family.",
+        "label": 0
+    },
+    {
+        "question": "What is the term for the process in which two atomic nuclei fuse together to make a single nucleus?",
+        "answer": "absorption.",
+        "label": 0
+    },
+    {
+        "question": "What type of creature is noted for having its eyes at the tips of stalks or tentacles that emerge from its head?",
+        "answer": "gastropods.",
+        "label": 1
+    },
+    {
+        "question": "Which proteins recognize and combine with harmful materials, including both toxic chemicals and invasive microorganisms?",
+        "answer": "antibodies.",
+        "label": 1
+    },
+    {
+        "question": "An electrical signal along a nerve cell triggers the secretion of what?",
+        "answer": "neurotransmitter molecules.",
+        "label": 1
+    },
+    {
+        "question": "Sucrose consists of one molecule of glucose and one molecule of what else?",
+        "answer": "fructose.",
+        "label": 1
+    },
+    {
+        "question": "When zinc metal is mixed with sulfur and heated, what is produced?",
+        "answer": "zinc sulfide.",
+        "label": 1
+    },
+    {
+        "question": "What occurs when plants release water vapor through stomata (leaf pores)?",
+        "answer": "inhalation.",
+        "label": 0
+    },
+    {
+        "question": "Parasites usually harm their hosts (or they wouldn't be parasites), but what do they usually stop short of doing?",
+        "answer": "benefiting their hosts.",
+        "label": 0
+    },
+    {
+        "question": "The prostate is formed of both muscular and which other tissues?",
+        "answer": "nonvascular tissue.",
+        "label": 0
+    },
+    {
+        "question": "Water can be a solid, liquid, and what other form?",
+        "answer": "gas.",
+        "label": 1
+    },
+    {
+        "question": "Fermat's principle states that what will always take the path that takes the least amount of time?",
+        "answer": "light.",
+        "label": 1
+    },
+    {
+        "question": "In which period of the periodic table is nickel found?",
+        "answer": "fourth period.",
+        "label": 1
+    },
+    {
+        "question": "What is the ability to change or move matter?",
+        "answer": "volume.",
+        "label": 0
+    },
+    {
+        "question": "What is the name for a substance that can be used to follow the pathway of that substance through some structure?",
+        "answer": "gel.",
+        "label": 0
+    },
+    {
+        "question": "How thick is the earth's continental crust, on average?",
+        "answer": "60 kilometers.",
+        "label": 0
+    },
+    {
+        "question": "What do you call sound that has a wave frequency higher than the human ear can detect?",
+        "answer": "ultrasound.",
+        "label": 1
+    },
+    {
+        "question": "The part of a plant that is responsible for reproduction is the?",
+        "answer": "flower.",
+        "label": 1
+    },
+    {
+        "question": "What term is defined as the area where a species lives and to which it has become adapted?",
+        "answer": "habitat.",
+        "label": 1
+    },
+    {
+        "question": "Particles of matter have the most definite shape in what material state?",
+        "answer": "plasma.",
+        "label": 0
+    },
+    {
+        "question": "Cilia and flagella are extensions of what?",
+        "answer": "plasma membrane.",
+        "label": 1
+    },
+    {
+        "question": "Systems are in thermal equilibrium when they have the same of what measurement?",
+        "answer": "temperature.",
+        "label": 1
+    },
+    {
+        "question": "A fundamental particle of matter, protons and neutrons are made of these?",
+        "answer": "quarks.",
+        "label": 1
+    },
+    {
+        "question": "About one-third of the human cerebral cortex is dedicated to analyzing and perceiving information related to what sense?",
+        "answer": "hearing.",
+        "label": 0
+    },
+    {
+        "question": "Because the human body is about 70% water by mass, and liquid water has high specific heat, a great deal of what is required to change its temperature?",
+        "answer": "energy.",
+        "label": 1
+    },
+    {
+        "question": "Which system refers to the skin and its accessory structures?",
+        "answer": "digestive system.",
+        "label": 0
+    },
+    {
+        "question": "What term means the adjusting of systems within a cell in order to restore balance or maintain equilibrium?",
+        "answer": "homeostatic regulation.",
+        "label": 1
+    },
+    {
+        "question": "A mitotic spindle forms from the centrioles and passes through the nuclear membrane, which remains intact. chromosomes attach to the mitotic spindle, which separates the chromosomes and does what?",
+        "answer": "manipulates the cell.",
+        "label": 0
+    },
+    {
+        "question": "An inclined plane is a good example of what kind of machine?",
+        "answer": "strong.",
+        "label": 0
+    },
+    {
+        "question": "What occurs when light reflects off a very smooth surface and forms a clear image?",
+        "answer": "projection.",
+        "label": 0
+    },
+    {
+        "question": "What are jellyfish and other cnidarian's stingers called?",
+        "answer": "prokaryotes.",
+        "label": 0
+    },
+    {
+        "question": "What are one of the most abundant organic molecules in living systems and have the most diverse range of functions of all macromolecules?",
+        "answer": "proteins.",
+        "label": 1
+    },
+    {
+        "question": "What is a simple machine that consists of a rope wrapped around a grooved wheel?",
+        "answer": "Inclined plane.",
+        "label": 0
+    },
+    {
+        "question": "In what type of process does heat flow into its surroundings and cause an increase in kinetic energy?",
+        "answer": "biochemical process.",
+        "label": 0
+    },
+    {
+        "question": "What type of light is composed of many rays having random polarization directions?",
+        "answer": "unpolarized light.",
+        "label": 1
+    },
+    {
+        "question": "What are accessory digestive organs critical for breaking down?",
+        "answer": "pathogens.",
+        "label": 0
+    },
+    {
+        "question": "The explosion of nitroglycerin, which releases large volumes of gases, is what type of reaction?",
+        "answer": "energetic.",
+        "label": 0
+    },
+    {
+        "question": "What is the natural selection that favors altruistic behavior by enhancing reproductive success of relatives known as?",
+        "answer": "kin selection.",
+        "label": 1
+    },
+    {
+        "question": "What is the type of plant called when its leaves seasonally turn color and fall off?",
+        "answer": "deciduous plant.",
+        "label": 1
+    },
+    {
+        "question": "Multiple sclerosis, huntington\u2019s disease, parkinson\u2019s disease, and alzheimer\u2019s disease are example of diseases of which body system?",
+        "answer": "muscular system.",
+        "label": 0
+    },
+    {
+        "question": "A long chain of monosaccharides linked by glycosidic bonds is known as what?",
+        "answer": "sulfate.",
+        "label": 0
+    },
+    {
+        "question": "What is the nickname of the best-known geyser in the world, which erupts reliably every 90 minutes?",
+        "answer": "old faithful.",
+        "label": 1
+    },
+    {
+        "question": "Tissues of marine bony fishes gain what from their surroundings?",
+        "answer": "toxins.",
+        "label": 0
+    },
+    {
+        "question": "What is the basic unit of matter?",
+        "answer": "neutrons.",
+        "label": 0
+    },
+    {
+        "question": "What are the two best known baryons?",
+        "answer": "flux and neurons.",
+        "label": 0
+    },
+    {
+        "question": "Scientists will often observe and then what the reason why a phenomenon occurred?",
+        "answer": "realize.",
+        "label": 0
+    },
+    {
+        "question": "What kind of relationship exists between living things that depend on the same resources?",
+        "answer": "parasitic.",
+        "label": 0
+    },
+    {
+        "question": "Mammals may either be herbivores, omnivores or what else?",
+        "answer": "carnivores.",
+        "label": 0
+    },
+    {
+        "question": "What are the mineral deposits that fill in underground cracks called?",
+        "answer": "cores.",
+        "label": 0
+    },
+    {
+        "question": "What is the metal part of the compound named as?",
+        "answer": "the base.",
+        "label": 0
+    },
+    {
+        "question": "What do we call the scientific study of heredity and hereditary variation?",
+        "answer": "genetics.",
+        "label": 1
+    },
+    {
+        "question": "What is the outer layer of an axon that acts like a layer of insulation, similar to the plastic that encases an electrical cord?",
+        "answer": "lipids sheath.",
+        "label": 0
+    },
+    {
+        "question": "A mineral\u2019s crystal shape is determined by the way what objects are arranged?",
+        "answer": "molecules.",
+        "label": 0
+    },
+    {
+        "question": "Food chewed evenly during mastication moisten and lubricate the lining of the mouth and this?",
+        "answer": "pharynx.",
+        "label": 1
+    },
+    {
+        "question": "What kind of phenotype results in a case of incomplete dominance?",
+        "answer": "intermediate phenotype.",
+        "label": 1
+    },
+    {
+        "question": "Water is an oxide of what element?",
+        "answer": "nitrogen.",
+        "label": 0
+    },
+    {
+        "question": "Do tropical regions have very high or very low rates of immigration?",
+        "answer": "very high.",
+        "label": 1
+    },
+    {
+        "question": "As a diver descends, the increase in pressure causes the body\u2019s air pockets in the ears and lungs to do what?",
+        "answer": "heat up.",
+        "label": 0
+    },
+    {
+        "question": "In vascular plants, what two basic structures are made of dermal, vascular, and ground tissues?",
+        "answer": "roots and stems.",
+        "label": 1
+    },
+    {
+        "question": "The formation of an amalgam allows the metal to react with what?",
+        "answer": "air and water.",
+        "label": 1
+    },
+    {
+        "question": "What is the process in which one cell divides to form two new cells called?",
+        "answer": "cell direction.",
+        "label": 0
+    },
+    {
+        "question": "Which is the lightest of the widely used structural metals?",
+        "answer": "magnesium.",
+        "label": 1
+    },
+    {
+        "question": "These vacuoles take water from the cytoplasm and excrete it from the cell to avoid bursting due to what?",
+        "answer": "osmotic pressure.",
+        "label": 1
+    },
+    {
+        "question": "According to count rumford, which two are equivalent ways of transferring energy?",
+        "answer": "heat and work.",
+        "label": 1
+    },
+    {
+        "question": "Why are noninfectious diseases not contagious?",
+        "answer": "they are contagious.",
+        "label": 0
+    },
+    {
+        "question": "What do we call water that has been used for cleaning, washing, flushing, or manufacturing?",
+        "answer": "Grey water.",
+        "label": 0
+    },
+    {
+        "question": "What regulates the passage of blood into capillary beds?",
+        "answer": "precapillary sphincters.",
+        "label": 1
+    },
+    {
+        "question": "What are genes that are close together on the same chromosome called?",
+        "answer": "mutated genes.",
+        "label": 0
+    },
+    {
+        "question": "In eukaryotes, the new mrna is not yet ready for translation. it must go through more processing before it leaves where?",
+        "answer": "Electrons.",
+        "label": 0
+    },
+    {
+        "question": "What process enables all living things to maintain a constant internal environment?",
+        "answer": "homeostasis.",
+        "label": 1
+    },
+    {
+        "question": "What occurs when there are differences in fitness among a population?",
+        "answer": "evolution.",
+        "label": 0
+    },
+    {
+        "question": "What is the latin name for mercury?",
+        "answer": "hydrargyrum.",
+        "label": 1
+    },
+    {
+        "question": "What refers to the development and nourishment of an embryo within the mother\u2019s body but not inside an egg?",
+        "answer": "vivipary.",
+        "label": 1
+    },
+    {
+        "question": "Which important decomposers are known to live just about anywhere on earth?",
+        "answer": "protazoas.",
+        "label": 0
+    },
+    {
+        "question": "What do you call a carnivore that eats mainly insects?",
+        "answer": "insectivores.",
+        "label": 1
+    },
+    {
+        "question": "What process does not cause a rock to melt completely, instead causing the minerals to change by heat or pressure?",
+        "answer": "sedimentation.",
+        "label": 0
+    },
+    {
+        "question": "Frogs are amphibians that live part of the time in fresh water and rest of the time where?",
+        "answer": "on land.",
+        "label": 1
+    },
+    {
+        "question": "What process joins two haploid gametes into a diploid zygote?",
+        "answer": "embryo.",
+        "label": 0
+    },
+    {
+        "question": "The reaction of an alkyl halide with an inorganic hydroxide base at elevated temperature produces what?",
+        "answer": "blood.",
+        "label": 0
+    },
+    {
+        "question": "What consists of two or more elements and forms as a result of a chemical reaction?",
+        "answer": "compound.",
+        "label": 1
+    },
+    {
+        "question": "Each group of organisms went through its own evolutionary journey, called what?",
+        "answer": "phylogeny.",
+        "label": 1
+    },
+    {
+        "question": "What body system gets rid of waste?",
+        "answer": "excretory system.",
+        "label": 1
+    },
+    {
+        "question": "What two types of communication do both humans and birds use primarily?",
+        "answer": "sensual and auditory.",
+        "label": 0
+    },
+    {
+        "question": "What is the name for the term that describes deep ocean water rising the surface?",
+        "answer": "upwelling.",
+        "label": 1
+    },
+    {
+        "question": "Where are sponges most likely anchored to?",
+        "answer": "sea floor.",
+        "label": 0
+    },
+    {
+        "question": "What type electrical circuits have multiple paths the current may take?",
+        "answer": "perpendicular.",
+        "label": 0
+    },
+    {
+        "question": "What is a symbiotic relationship in which both species benefit?",
+        "answer": "mutualism.",
+        "label": 1
+    },
+    {
+        "question": "What is a small, spherical compartment separated by at least one lipid layer from the cytosol?",
+        "answer": "vesicle.",
+        "label": 1
+    },
+    {
+        "question": "Multiplying the linear momentum of a spinning object by the radius calculates what?",
+        "answer": "angular momentum.",
+        "label": 1
+    },
+    {
+        "question": "What is a key factor in the growth of populations?",
+        "answer": "immigration.",
+        "label": 1
+    },
+    {
+        "question": "What are unsaturated hydrocarbons with at least one triple bond between carbon atoms?",
+        "answer": "amines.",
+        "label": 0
+    },
+    {
+        "question": "What do most species of monkeys have that no apes or humans do?",
+        "answer": "five fingers.",
+        "label": 0
+    },
+    {
+        "question": "What is the most common pattern of dispersion?",
+        "answer": "clumped.",
+        "label": 1
+    },
+    {
+        "question": "Refracting and reflecting telescopes are optical telescopes that use lenses to gather what?",
+        "answer": "light.",
+        "label": 1
+    },
+    {
+        "question": "What's caused by damaged capillaries in the kidneys so the nephrons can no longer filter blood?",
+        "answer": "kidney failure.",
+        "label": 1
+    },
+    {
+        "question": "An enzyme is an organic catalyst produced by what?",
+        "answer": "DNA.",
+        "label": 0
+    },
+    {
+        "question": "What is the exchange of plasmids by prokaryotes called?",
+        "answer": "genetic transfer.",
+        "label": 1
+    },
+    {
+        "question": "Different clouds are associated with different types of what?",
+        "answer": "weather conditions.",
+        "label": 1
+    },
+    {
+        "question": "Conduction from the core has what effect on the lower mantle?",
+        "answer": "it heats it.",
+        "label": 1
+    },
+    {
+        "question": "What term is used to describe the process by which organisms give rise to offspring?",
+        "answer": "reproduction.",
+        "label": 1
+    },
+    {
+        "question": "What is the main component of phytoplankton?",
+        "answer": "algae.",
+        "label": 1
+    },
+    {
+        "question": "What measures the amount of matter in an object?",
+        "answer": "mass.",
+        "label": 1
+    },
+    {
+        "question": "What does the sebaceous gland secrete which waterproofs the skin and hair?",
+        "answer": "sebum.",
+        "label": 1
+    },
+    {
+        "question": "What are the organic compounds that the body needs in small amounts to function properly; humans need 13 different ones?",
+        "answer": "minerals.",
+        "label": 0
+    },
+    {
+        "question": "What increases the chances of someone inheriting a mitochondrial disease?",
+        "answer": "presence of defect mtdna and undefected mtdna.",
+        "label": 1
+    },
+    {
+        "question": "What planet is a blue green color?",
+        "answer": "Mars.",
+        "label": 0
+    },
+    {
+        "question": "Where are about 75% of the tar sands in the world located?",
+        "answer": "china and onatrio, canada.",
+        "label": 0
+    },
+    {
+        "question": "The thermal properties of what substance largely contribute to the temperature climate of europe?",
+        "answer": "lava.",
+        "label": 0
+    },
+    {
+        "question": "Alkaline earth metals are what color?",
+        "answer": "white.",
+        "label": 0
+    },
+    {
+        "question": "What happens to the temperature of matter as light is absorbed?",
+        "answer": "it increases.",
+        "label": 1
+    },
+    {
+        "question": "What type of air may get stuck on the windward side of a mountain range?",
+        "answer": "maritime air.",
+        "label": 1
+    },
+    {
+        "question": "What is the science of classifying living things is called?",
+        "answer": "entomology.",
+        "label": 0
+    },
+    {
+        "question": "An element that is generally a poor conductor of heat and electricity is known as a ______",
+        "answer": "nonmetal.",
+        "label": 1
+    },
+    {
+        "question": "What happens when an increase in temperature of a gas in a rigid container happens?",
+        "answer": "gas explodes.",
+        "label": 0
+    },
+    {
+        "question": "Mammals belong to which class of vertebrates?",
+        "answer": "endothermic.",
+        "label": 1
+    },
+    {
+        "question": "What is the transparent outer covering of the eye?",
+        "answer": "pupil.",
+        "label": 0
+    },
+    {
+        "question": "In artificial passive immunization, which items from an immune animal are injected into a nonimmune animal?",
+        "answer": "antibodies.",
+        "label": 1
+    },
+    {
+        "question": "What do you call the horizontal stems of a strawberry plant that run over the ground surface?",
+        "answer": "root volunteers.",
+        "label": 0
+    },
+    {
+        "question": "All the major landmasses moved together to form one supercontinent in which period?",
+        "answer": "permian.",
+        "label": 1
+    },
+    {
+        "question": "What energy source, now making a comeback, has helped propel ships and pump water for many years?",
+        "answer": "wind energy.",
+        "label": 1
+    },
+    {
+        "question": "What is the main component of paper, cardboard, and textiles made from cotton, linen, and other plant fibers?",
+        "answer": "cellulose.",
+        "label": 1
+    },
+    {
+        "question": "Maltose, lactose, and sucrose are common types of what, which are distinguished by their monosaccharide constituents?",
+        "answer": "silicates.",
+        "label": 0
+    },
+    {
+        "question": "How many chromosomes do mature gametes contain?",
+        "answer": "19.",
+        "label": 0
+    },
+    {
+        "question": "Methyl groups are found within what?",
+        "answer": "amino acids.",
+        "label": 1
+    },
+    {
+        "question": "The central nervous system is composed of the brain and what else?",
+        "answer": "the spinal cord.",
+        "label": 1
+    },
+    {
+        "question": "What kind of muscle is responsible for hollow organs contracting?",
+        "answer": "smooth muscle.",
+        "label": 1
+    },
+    {
+        "question": "What organ do we use to hear sound?",
+        "answer": "the ear.",
+        "label": 1
+    },
+    {
+        "question": "What type of muscle makes up most of the heart?",
+        "answer": "chest muscles.",
+        "label": 0
+    },
+    {
+        "question": "What is the name of the procedure where an unknown compound can be analyzed in the laboratory in order to determine the percentages of each element contained within it?",
+        "answer": "electrical analysis.",
+        "label": 0
+    },
+    {
+        "question": "The risk of what is raised by overexposure to the sun?",
+        "answer": "skin cancer.",
+        "label": 1
+    },
+    {
+        "question": "Nerves of the hands, arms, feet, legs, and trunk are part of what system?",
+        "answer": "urinary system.",
+        "label": 0
+    },
+    {
+        "question": "What catalyzes the hydrolysis of amino acids from the n-terminal end of a protein?",
+        "answer": "synthase.",
+        "label": 0
+    },
+    {
+        "question": "What is a collection of fibrin, platelets, and erythrocytes that has accumulated along the lining of a blood vessel called?",
+        "answer": "thrombus.",
+        "label": 1
+    },
+    {
+        "question": "What type of oil is being explored to replace petroleum products in lubricants?",
+        "answer": "vegetable.",
+        "label": 1
+    },
+    {
+        "question": "Providing evidence of their ancestry, some species of what legless animals retain vestigial pelvic and limb bones?",
+        "answer": "dolphins.",
+        "label": 0
+    },
+    {
+        "question": "During the condensation reaction of sugars what is removed, linking the two sugars?",
+        "answer": "water.",
+        "label": 1
+    },
+    {
+        "question": "What is the process of drawing general conclusions based on many pieces of evidence?",
+        "answer": "quantum reasoning.",
+        "label": 0
+    },
+    {
+        "question": "Oceans help control global warming by absorbing what?",
+        "answer": "hydrogen.",
+        "label": 0
+    },
+    {
+        "question": "What do all sound waves begin with?",
+        "answer": "vibrating matter.",
+        "label": 1
+    },
+    {
+        "question": "What has revolutionized human society over the past several decades?",
+        "answer": "computer technology.",
+        "label": 1
+    },
+    {
+        "question": "What is critical for the formation of hemoglobin?",
+        "answer": "iron ions.",
+        "label": 1
+    },
+    {
+        "question": "Mitosis and meiosis are both forms of division of the nucleus in these?",
+        "answer": "converts cells.",
+        "label": 0
+    },
+    {
+        "question": "Earthquakes at convergent plate boundaries mark the location of the what?",
+        "answer": "abducting lithosphere.",
+        "label": 0
+    },
+    {
+        "question": "The force on a charged particle in a magnetic field is always perpendicular to both its velocity vector and the?",
+        "answer": "position vector.",
+        "label": 0
+    },
+    {
+        "question": "What might eventually happen to a species if it is unable to reproduce?",
+        "answer": "natural selection.",
+        "label": 0
+    },
+    {
+        "question": "In what form is most of the earth's freshwater?",
+        "answer": "frozen.",
+        "label": 1
+    },
+    {
+        "question": "Cirrus, stratus, and cumulus are the main types of what?",
+        "answer": "weather.",
+        "label": 0
+    },
+    {
+        "question": "Distinguishing between homology and analogy is critical in reconstructing what?",
+        "answer": "residues.",
+        "label": 0
+    },
+    {
+        "question": "Within the microsporangium, the microspore mother cell divides by meiosis to give rise to four microspores, each of which will ultimately form this?",
+        "answer": "pollen grain.",
+        "label": 1
+    },
+    {
+        "question": "What is required between cytoskeleton and motor proteins for cell motility?",
+        "answer": "interaction.",
+        "label": 1
+    },
+    {
+        "question": "What is the term for nutrients the body needs in relatively small amounts, including vitamins and minerals?",
+        "answer": "minor nutrients.",
+        "label": 0
+    },
+    {
+        "question": "The structures of both trifluoramine and hydroxylamine are similar to that of what?",
+        "answer": "ammonia.",
+        "label": 1
+    },
+    {
+        "question": "What's the name for the point reached at a ph of 7?",
+        "answer": "analogous point.",
+        "label": 0
+    },
+    {
+        "question": "What do winter storms develop from at higher latitudes?",
+        "answer": "cyclones.",
+        "label": 1
+    },
+    {
+        "question": "What are electrons at the outermost energy level of an atom are called?",
+        "answer": "valence electrons.",
+        "label": 1
+    },
+    {
+        "question": "What type of boiling point do nonmetals normally have?",
+        "answer": "even.",
+        "label": 0
+    },
+    {
+        "question": "What term is used to describe phages capable of using both modes of replicating within a bacterium?",
+        "answer": "temperate phages.",
+        "label": 1
+    },
+    {
+        "question": "What kind of messages do neurons send?",
+        "answer": "electrical messages.",
+        "label": 1
+    },
+    {
+        "question": "When amino acids bind together, they form a long chain called what, which is an essential component of protein?",
+        "answer": "peptide.",
+        "label": 0
+    },
+    {
+        "question": "Sensory neurons transmit nerve impulses from sense organs and internal organs to the brain via the?",
+        "answer": "nervous system.",
+        "label": 0
+    },
+    {
+        "question": "The chytrids the only class in the phylum chytridiomycota is the chytridiomycetes. the chytrids are the simplest and most primitive eumycota, or true this?",
+        "answer": "fungi.",
+        "label": 1
+    },
+    {
+        "question": "What chemical substances are secreted by animals that communicate by odor or taste?",
+        "answer": "alaki.",
+        "label": 0
+    },
+    {
+        "question": "Narrowing of the arterioles causes an increase of what upstream in the arteries?",
+        "answer": "blood pressure.",
+        "label": 1
+    },
+    {
+        "question": "Developing cars that run on hydrogen gas can help solve our dependence on what?",
+        "answer": "oxygen.",
+        "label": 0
+    },
+    {
+        "question": "Substances that act as both weak acids and bases are said to be what?",
+        "answer": "amphoteric.",
+        "label": 1
+    },
+    {
+        "question": "Viruses need what kind of cell in order to help themselves reproduce?",
+        "answer": "host.",
+        "label": 1
+    },
+    {
+        "question": "What is responsible for the physical changes of puberty?",
+        "answer": "nicotine.",
+        "label": 0
+    },
+    {
+        "question": "What do you call the temperature at which a liquid boils and starts changing to a gas?",
+        "answer": "melting point.",
+        "label": 0
+    },
+    {
+        "question": "What is it called when a gene at one location (locus) alters the phenotypic expression of a gene at another locus?",
+        "answer": "epistasis.",
+        "label": 1
+    },
+    {
+        "question": "What type of shape does sodium chloride have?",
+        "answer": "cubic.",
+        "label": 1
+    },
+    {
+        "question": "In scientific terms, average acceleration is the rate at which what changes?",
+        "answer": "velocity.",
+        "label": 1
+    },
+    {
+        "question": "Controlling muscles and maintaining balance are just two of the roles of what system?",
+        "answer": "electrical system.",
+        "label": 0
+    },
+    {
+        "question": "What term is used to describe an unusual sound coming from the heart that is caused by the turbulent flow of blood?",
+        "answer": "garble.",
+        "label": 0
+    },
+    {
+        "question": "What two states of matter are included in the category \"fluids\"?",
+        "answer": "liquids and gases.",
+        "label": 1
+    },
+    {
+        "question": "Acids are associated with a low number on which scale?",
+        "answer": "ph.",
+        "label": 1
+    },
+    {
+        "question": "Lava flows from a volcano and hardens into what?",
+        "answer": "life.",
+        "label": 0
+    },
+    {
+        "question": "What do light emitters do to what you see?",
+        "answer": "add frequencies.",
+        "label": 1
+    },
+    {
+        "question": "What does the inner membrane divide into two internal compartments?",
+        "answer": "mitochondrion.",
+        "label": 1
+    },
+    {
+        "question": "The electroplating process transfers metal from the anode to which part of the cell?",
+        "answer": "cathode.",
+        "label": 1
+    },
+    {
+        "question": "The urea cycle, a set of biochemical reactions that produces urea from ammonium ions to prevent toxicity, occurs to some extent in the kidney, but primarily in what organ?",
+        "answer": "liver.",
+        "label": 1
+    },
+    {
+        "question": "Which effect causes winds to strike the polar front at an angle?",
+        "answer": "coriolis effect.",
+        "label": 1
+    },
+    {
+        "question": "What do we consider the basic building blocks of life?",
+        "answer": "atoms.",
+        "label": 0
+    },
+    {
+        "question": "What is the term for water that falls from clouds?",
+        "answer": "precipitation.",
+        "label": 1
+    },
+    {
+        "question": "Lymph capillaries collect the fluid that leaks from blood capillaries and slowly return it to what system?",
+        "answer": "muscular.",
+        "label": 0
+    },
+    {
+        "question": "Echinoderms are found in many different ocean environments, but most are found where?",
+        "answer": "in reefs.",
+        "label": 1
+    },
+    {
+        "question": "What do aquatic arthropods use to exchange gases with the water?",
+        "answer": "gills.",
+        "label": 1
+    },
+    {
+        "question": "The cochlea and vestibul make up what part of the ear?",
+        "answer": "inner.",
+        "label": 1
+    },
+    {
+        "question": "Lack of proper food over a period of time can lead to what condition, where the body is not getting enough nutrients to grow and stay healthy?",
+        "answer": "malnutrition.",
+        "label": 1
+    },
+    {
+        "question": "The measure of magnetic fields is named after a serbian physicist. what is his name?",
+        "answer": "nikola tesla.",
+        "label": 1
+    },
+    {
+        "question": "What two planets is the asteroid belt found between?",
+        "answer": "mars and jupiter.",
+        "label": 1
+    },
+    {
+        "question": "What occurs when the cartilage at the ends of the bones breaks down?",
+        "answer": "stress fracture.",
+        "label": 0
+    },
+    {
+        "question": "Which part of the body shows does horner's syndrome affect?",
+        "answer": "the nose.",
+        "label": 0
+    },
+    {
+        "question": "Spores are generally produced through what type of reproduction?",
+        "answer": "similar.",
+        "label": 0
+    },
+    {
+        "question": "What is the layer above the mesophere called?",
+        "answer": "exosphere.",
+        "label": 0
+    },
+    {
+        "question": "Prokaryotes divide via binary fission and do not undergo what process of cell division?",
+        "answer": "mitosis.",
+        "label": 1
+    },
+    {
+        "question": "What is another name for molecular compounds?",
+        "answer": "phenotype compounds.",
+        "label": 0
+    },
+    {
+        "question": "Where is the food supply and embryo stored in a seed?",
+        "answer": "epicotyl.",
+        "label": 0
+    },
+    {
+        "question": "Which law states that a pair of alleles is separated, or segregated, during the formation of gametes?",
+        "answer": "law of segregation.",
+        "label": 1
+    },
+    {
+        "question": "According to one of einstein's theory, while light consists of particles, it behaves like this.",
+        "answer": "waves.",
+        "label": 1
+    },
+    {
+        "question": "Around 97% of all water on earth is what type of water?",
+        "answer": "salt water.",
+        "label": 1
+    },
+    {
+        "question": "What do you call a change in the dna or rna sequence?",
+        "answer": "mutation.",
+        "label": 1
+    },
+    {
+        "question": "Amino acids broken down by metabolic process are mostly recycled into new what?",
+        "answer": "lipids.",
+        "label": 0
+    },
+    {
+        "question": "During what period on earth was coal formed?",
+        "answer": "the carboniferous period.",
+        "label": 1
+    },
+    {
+        "question": "What determines the unique sequence for every protein?",
+        "answer": "form encoding.",
+        "label": 0
+    },
+    {
+        "question": "Magnetite crystals of different ages and on different continents pointed to different spots. the simplest explanation is that the continents have done what?",
+        "answer": "moved.",
+        "label": 1
+    },
+    {
+        "question": "What is magnetism produced by an electrical current?",
+        "answer": "strong magnetism.",
+        "label": 0
+    },
+    {
+        "question": "What is it called when waves spread out as they travel around obstacles or through openings in obstacles?",
+        "answer": "absorption.",
+        "label": 0
+    },
+    {
+        "question": "Oxytocin, which stimulates the contractions of labor, is a type of what?",
+        "answer": "hormone.",
+        "label": 1
+    },
+    {
+        "question": "What specific part of the african violet is used to propagate other plants?",
+        "answer": "petals.",
+        "label": 0
+    },
+    {
+        "question": "Different forms, or allotropes, of carbon are diamond, graphite, and what?",
+        "answer": "fullerenes.",
+        "label": 1
+    },
+    {
+        "question": "Like a house, your body has what kind of mechanism that responds to changes in temperature?",
+        "answer": "external thermostat.",
+        "label": 0
+    },
+    {
+        "question": "What do red blood cells carry?",
+        "answer": "carbon dioxide.",
+        "label": 0
+    },
+    {
+        "question": "Female monotremes share what external opening with reptiles and birds?",
+        "answer": "urethra.",
+        "label": 0
+    },
+    {
+        "question": "What is the sum total of all body reactions?",
+        "answer": "respiration.",
+        "label": 0
+    },
+    {
+        "question": "When changes in the genes of a species result in a new species, the process is called what?",
+        "answer": "biological evolution.",
+        "label": 1
+    },
+    {
+        "question": "The angle of refraction depends on the index of what?",
+        "answer": "frequency.",
+        "label": 0
+    },
+    {
+        "question": "Humans and other animals can suffer from diets lacking in what essential \"ingredients\"?",
+        "answer": "fiber.",
+        "label": 0
+    },
+    {
+        "question": "Dermal tissue covers the outside of a plant in a single layer of cells called what?",
+        "answer": "the epidermis.",
+        "label": 1
+    },
+    {
+        "question": "In the past, biologists grouped living organisms into five kingdoms: animals, plants, fungi, protists, and what?",
+        "answer": "trees.",
+        "label": 0
+    },
+    {
+        "question": "What do you call a condensation reaction in which an ester is formed from an alcohol and a carboxylic acid?",
+        "answer": "transesterification.",
+        "label": 0
+    },
+    {
+        "question": "The science of analyzing tree rings is called what?",
+        "answer": "algorithms.",
+        "label": 0
+    },
+    {
+        "question": "Which factor causes a cannon ball to move horizontally and then fall on the ground?",
+        "answer": "cone motion.",
+        "label": 0
+    },
+    {
+        "question": "In a heterozygote with one dominant and one recessive allele, which is expressed?",
+        "answer": "dominant atoms.",
+        "label": 0
+    },
+    {
+        "question": "What do cells secrete that binds to receptors?",
+        "answer": "stress.",
+        "label": 0
+    },
+    {
+        "question": "What happens to volume as the temperature increases?",
+        "answer": "volume fluctuates.",
+        "label": 0
+    },
+    {
+        "question": "Particles of sand and what other substance are carried by longshore drift?",
+        "answer": "magma.",
+        "label": 0
+    },
+    {
+        "question": "What serves as the control center of the nervous system?",
+        "answer": "spine.",
+        "label": 0
+    },
+    {
+        "question": "What do you call the carbohydrate formed when two monosaccharides bond together?",
+        "answer": "disaccharide.",
+        "label": 1
+    },
+    {
+        "question": "What two basic types of feather does a bird have?",
+        "answer": "carrying and down.",
+        "label": 0
+    },
+    {
+        "question": "What three forms does frozen precipitation take?",
+        "answer": "snow, sleet, freezing rain.",
+        "label": 1
+    },
+    {
+        "question": "What is the condition in which the thyroid gland is overactive is known as?",
+        "answer": "hyperthyroidism.",
+        "label": 1
+    },
+    {
+        "question": "What is a type of plant tissue consisting of undifferentiated cells that can continue to divide and differentiate?",
+        "answer": "meristem.",
+        "label": 1
+    },
+    {
+        "question": "What is the term for a fold that arches upward?",
+        "answer": "tailslide.",
+        "label": 0
+    },
+    {
+        "question": "What is used to prevent some infectious diseases?",
+        "answer": "vaccines.",
+        "label": 1
+    },
+    {
+        "question": "What is the term used for the ability of salamanders to grow back lost limbs and other body parts?",
+        "answer": "regeneration.",
+        "label": 1
+    },
+    {
+        "question": "What makes the earth habitable for humans?",
+        "answer": "abundance of water.",
+        "label": 1
+    },
+    {
+        "question": "Exemplified by canada and alaska, what kind of climate has cool, short summers and long, cold winters, little precipitation, and abundant conifers?",
+        "answer": "subarctic climate.",
+        "label": 1
+    },
+    {
+        "question": "Many european and asiatic elms are less susceptible to dutch elm disease than which elms?",
+        "answer": "caribbean.",
+        "label": 0
+    },
+    {
+        "question": "Debroglie proposed in 1924 that any object exhibits a wavelength that is inversely proportional to its?",
+        "answer": "inertia.",
+        "label": 0
+    },
+    {
+        "question": "Nearly all of what are constructed from a set of just 20 common amino acids?",
+        "answer": "artifical proteins.",
+        "label": 0
+    },
+    {
+        "question": "What are most fresh fruits, vegetables, whole grains rich in?",
+        "answer": "cellulose.",
+        "label": 1
+    },
+    {
+        "question": "What do you call resources that can be replaced at the rate they are being used?",
+        "answer": "viable.",
+        "label": 0
+    },
+    {
+        "question": "Where do polychaete worms live?",
+        "answer": "the ocean floor.",
+        "label": 1
+    },
+    {
+        "question": "Which system is divided into the somatic and autonomic nervous systems?",
+        "answer": "peripheral nervous system.",
+        "label": 1
+    },
+    {
+        "question": "What gas can be generated by reacting sodium bromide with elemental chlorine?",
+        "answer": "Molecular Bromine Gas.",
+        "label": 0
+    },
+    {
+        "question": "What happens when alkanes are mixed with oxygen at room temperature?",
+        "answer": "no reaction.",
+        "label": 1
+    },
+    {
+        "question": "What tissue consists of cells that form the body\u2019s structure?",
+        "answer": "connective.",
+        "label": 1
+    },
+    {
+        "question": "Mushrooms are an example of what type of organism, which includes beneficial and toxic specimens?",
+        "answer": "fungi.",
+        "label": 1
+    },
+    {
+        "question": "What do you call the folded layers of rock where geologists look for oil?",
+        "answer": "oscillations.",
+        "label": 0
+    },
+    {
+        "question": "Experiments have shown that acceleration is exactly inversely proportional to mass, just as it is exactly linearly proportional to what?",
+        "answer": "net internal force.",
+        "label": 0
+    },
+    {
+        "question": "As temperature increases, the solubility of the majority of solid substances does what?",
+        "answer": "stays the same.",
+        "label": 0
+    },
+    {
+        "question": "When this forms underground, volcanoes rise?",
+        "answer": "pumice.",
+        "label": 0
+    },
+    {
+        "question": "What are named for major physical or climatic features and for their predominant vegetation?",
+        "answer": "terrestrial biomes.",
+        "label": 1
+    },
+    {
+        "question": "What signals the secretion of gastric acid?",
+        "answer": "hormone.",
+        "label": 0
+    },
+    {
+        "question": "What do you call the ability of a particular electrochemical cell to generate an electric current?",
+        "answer": "momentum.",
+        "label": 0
+    },
+    {
+        "question": "What is a form of mechanical energy that starts with a vibration in matter?",
+        "answer": "sound energy.",
+        "label": 1
+    },
+    {
+        "question": "Most fungi can reproduce in which 2 ways?",
+        "answer": "binary fission and fusion.",
+        "label": 0
+    },
+    {
+        "question": "Which type of muscle is most common in the human body?",
+        "answer": "digestive.",
+        "label": 0
+    },
+    {
+        "question": "What is an alpha particle with two protons and two neutrons called?",
+        "answer": "chloride nucleus.",
+        "label": 0
+    },
+    {
+        "question": "This knocks electrons from atoms and turns them into ions?",
+        "answer": "radiation.",
+        "label": 1
+    },
+    {
+        "question": "Historically, certain bacteriophages have also been used as cloning vectors for making what?",
+        "answer": "specific libraries.",
+        "label": 0
+    },
+    {
+        "question": "What gland is a butterfly-shaped organ located in the neck anterior to the trachea?",
+        "answer": "pituitary gland.",
+        "label": 0
+    },
+    {
+        "question": "What facilitates the diffusion of ions across a membrane?",
+        "answer": "ion channels.",
+        "label": 1
+    },
+    {
+        "question": "Transport of nutrients and regulation of body temperature through fluid flow are characteristics of which bodily system?",
+        "answer": "cardiovascular.",
+        "label": 1
+    },
+    {
+        "question": "Alkenes with the same atoms but different shapes are called what?",
+        "answer": "isomers.",
+        "label": 1
+    },
+    {
+        "question": "Alkanes are nonpolar and therefore do not attract what?",
+        "answer": "molecules.",
+        "label": 0
+    },
+    {
+        "question": "What is the percentage of production transferred from one trophic level to the next",
+        "answer": "robust efficiency.",
+        "label": 0
+    },
+    {
+        "question": "What helps ensure that, at least, some species will survive environmental change?",
+        "answer": "biodiversity.",
+        "label": 1
+    },
+    {
+        "question": "What always continues in a red supergiant?",
+        "answer": "heat.",
+        "label": 0
+    },
+    {
+        "question": "What is it called when crystals form from magma?",
+        "answer": "sedimentation.",
+        "label": 0
+    },
+    {
+        "question": "Where do archea live?",
+        "answer": "everywhere.",
+        "label": 1
+    },
+    {
+        "question": "Mineral crystals that form when magma cools are usually _______ than crystals that form when lava cools.",
+        "answer": "larger.",
+        "label": 1
+    },
+    {
+        "question": "Chloroplasts are present only in cells of eukaryotes capable of what process?",
+        "answer": "photosynthesis.",
+        "label": 1
+    },
+    {
+        "question": "Where do all plants come from?",
+        "answer": "terrestrial ancestors.",
+        "label": 1
+    },
+    {
+        "question": "Name the closest living relatives of tetrapods?",
+        "answer": "shrimp.",
+        "label": 0
+    },
+    {
+        "question": "What is it called when two waves in the same medium pass one another?",
+        "answer": "accumulation.",
+        "label": 0
+    },
+    {
+        "question": "What is the lightest molecule?",
+        "answer": "oxygen.",
+        "label": 0
+    },
+    {
+        "question": "Name the physicist who discovered radioactivity?",
+        "answer": "antoine henri becquerel.",
+        "label": 1
+    },
+    {
+        "question": "Photoautotrophs and chemoautotrophs are two basic types of what?",
+        "answer": "plants.",
+        "label": 0
+    },
+    {
+        "question": "What do you call a type of mixture that has the same composition throughout?",
+        "answer": "solution.",
+        "label": 1
+    },
+    {
+        "question": "What structure is an organelle that contains enzymes that break down and digest unneeded cellular components?",
+        "answer": "lysosome.",
+        "label": 1
+    },
+    {
+        "question": "What kind of family is haumea part of?",
+        "answer": "a collisional family.",
+        "label": 1
+    },
+    {
+        "question": "When sand is deposited along a shoreline, what is created?",
+        "answer": "beach.",
+        "label": 1
+    },
+    {
+        "question": "What effect causes an object to appear to have a change of motion?",
+        "answer": "momentum effect.",
+        "label": 0
+    },
+    {
+        "question": "What corrosive substances capable of dissolving many metals can cause contamination if spilled?",
+        "answer": "acids.",
+        "label": 1
+    }
+]

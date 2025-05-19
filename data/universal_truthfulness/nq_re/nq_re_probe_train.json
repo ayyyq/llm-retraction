@@ -1,0 +1,4002 @@
+[
+    {
+        "question": "where is the slide placed on the microscope",
+        "answer": "Objective lens housing.",
+        "label": 0
+    },
+    {
+        "question": "who starred in an officer and a gentleman",
+        "answer": "Tom Cruise.",
+        "label": 0
+    },
+    {
+        "question": "where was percy jackson and the olympians filmed",
+        "answer": "Vancouver.",
+        "label": 1
+    },
+    {
+        "question": "which state is located in the centre of india",
+        "answer": "Chhattisgarh.",
+        "label": 1
+    },
+    {
+        "question": "how much money did it cost to make gta v",
+        "answer": "137.",
+        "label": 1
+    },
+    {
+        "question": "jonny cash one piece at a time car",
+        "answer": "Ford Mustang.",
+        "label": 0
+    },
+    {
+        "question": "when does body temperature tend to be lowest",
+        "answer": "Mid-afternoon.",
+        "label": 0
+    },
+    {
+        "question": "what are the colors of the netherlands flag",
+        "answer": "Green.",
+        "label": 0
+    },
+    {
+        "question": "where did the dewey decimal system come from",
+        "answer": "Melvil Dewey.",
+        "label": 1
+    },
+    {
+        "question": "who has the most catches in nfl history",
+        "answer": "Randy Moss.",
+        "label": 0
+    },
+    {
+        "question": "what is billy last name in where the red fern grows",
+        "answer": "Colman.",
+        "label": 1
+    },
+    {
+        "question": "who played the elephant man in the film",
+        "answer": "Anthony Hopkins.",
+        "label": 0
+    },
+    {
+        "question": "the outer layer of the skin that contains no blood or nerve supply is the",
+        "answer": "dermis.",
+        "label": 0
+    },
+    {
+        "question": "where is lord's prayer found in bible",
+        "answer": "in the Book of Psalms.",
+        "label": 0
+    },
+    {
+        "question": "who is playing the halftime show at super bowl 2016",
+        "answer": "Beyonc\u00e9.",
+        "label": 1
+    },
+    {
+        "question": "under article 1 what is the minimum age required to serve in the house of representatives",
+        "answer": "18.",
+        "label": 0
+    },
+    {
+        "question": "who is president of india in present time",
+        "answer": "Pranab Mukherjee.",
+        "label": 0
+    },
+    {
+        "question": "when was united nations convention on the rights of the child created",
+        "answer": "20 November 1989.",
+        "label": 1
+    },
+    {
+        "question": "when did ole miss beat alabama in football",
+        "answer": "September 19, 2015.",
+        "label": 0
+    },
+    {
+        "question": "sri lanka belongs to which part of asia",
+        "answer": "South Asia.",
+        "label": 1
+    },
+    {
+        "question": "where was the killing of a sacred deer filmed",
+        "answer": "Dublin, Ireland.",
+        "label": 0
+    },
+    {
+        "question": "who hit the first home run in the houston astrodome",
+        "answer": "Jeff Bagwell.",
+        "label": 0
+    },
+    {
+        "question": "what is the ethnic background of the shib sibs",
+        "answer": "Japanese.",
+        "label": 1
+    },
+    {
+        "question": "who sings the song let me love you",
+        "answer": "DJ Snake featuring Justin Bieber.",
+        "label": 1
+    },
+    {
+        "question": "what's the dog's name on tom and jerry",
+        "answer": "Max.",
+        "label": 0
+    },
+    {
+        "question": "who wrote the french declaration of the rights of man and of the citizen",
+        "answer": "Voltaire.",
+        "label": 0
+    },
+    {
+        "question": "where does the formation of atp take place",
+        "answer": "In the chloroplasts.",
+        "label": 0
+    },
+    {
+        "question": "when did the first ice age come out",
+        "answer": "2002.",
+        "label": 1
+    },
+    {
+        "question": "who wins the next iron chef super chefs",
+        "answer": "Bobby Flay.",
+        "label": 0
+    },
+    {
+        "question": "who sang let me tell you about the birds and the bees",
+        "answer": "The Beach Boys.",
+        "label": 0
+    },
+    {
+        "question": "what is final season of game of thrones",
+        "answer": "The tenth.",
+        "label": 0
+    },
+    {
+        "question": "who sings the song only in my dreams",
+        "answer": "Debbie Gibson.",
+        "label": 1
+    },
+    {
+        "question": "what is an example of a tricyclic antidepressant",
+        "answer": "Sertraline.",
+        "label": 0
+    },
+    {
+        "question": "name the four major layers of the earth in order",
+        "answer": "a solid inner mantle.",
+        "label": 0
+    },
+    {
+        "question": "when were the winnie the pooh books written",
+        "answer": "1960.",
+        "label": 0
+    },
+    {
+        "question": "how many breeds of pigs are there in the uk",
+        "answer": "Over 50 distinct breeds.",
+        "label": 0
+    },
+    {
+        "question": "who plays captain phasma in star wars the force awakens",
+        "answer": "Charlize Theron.",
+        "label": 0
+    },
+    {
+        "question": "who played the colorado kid in rio bravo",
+        "answer": "Ricky Nelson.",
+        "label": 1
+    },
+    {
+        "question": "when did lionel messi play his first game for barcelona",
+        "answer": "2002.",
+        "label": 1
+    },
+    {
+        "question": "when was a series of unfortunate events published",
+        "answer": "September 1999.",
+        "label": 1
+    },
+    {
+        "question": "the roman name for a liberal arts education is known as",
+        "answer": "liberalia studia.",
+        "label": 1
+    },
+    {
+        "question": "who had created the second bank of the united states",
+        "answer": "President James Madison.",
+        "label": 1
+    },
+    {
+        "question": "what does istj mean in a personality test",
+        "answer": "Extroverted Thinking (Te).",
+        "label": 1
+    },
+    {
+        "question": "who plays noah newman on the young and the restless",
+        "answer": "Robert Gillespie Adamson IV.",
+        "label": 1
+    },
+    {
+        "question": "what does hp mean in war and order",
+        "answer": "high power.",
+        "label": 0
+    },
+    {
+        "question": "when did the sims 4 toddlers come out",
+        "answer": "March 2015.",
+        "label": 0
+    },
+    {
+        "question": "when did the united states start using the death penalty",
+        "answer": "the beginning.",
+        "label": 1
+    },
+    {
+        "question": "how many seasons of vampire diaries r there",
+        "answer": "eight.",
+        "label": 1
+    },
+    {
+        "question": "when was the term social justice first used",
+        "answer": "the late 1960s.",
+        "label": 0
+    },
+    {
+        "question": "points on a sphere or angles in a circle are measured in units called",
+        "answer": "radians.",
+        "label": 1
+    },
+    {
+        "question": "why does kerosene oil rise up in the wick of lantern",
+        "answer": "capillary action.",
+        "label": 1
+    },
+    {
+        "question": "what is the order of the netflix marvel shows",
+        "answer": "Marvel's Iron Fist.",
+        "label": 1
+    },
+    {
+        "question": "who made the song falling in love with you",
+        "answer": "Hugo Peretti.",
+        "label": 1
+    },
+    {
+        "question": "who does the voice of mickey mouse on mickey mouse clubhouse",
+        "answer": "Tom Hanks.",
+        "label": 0
+    },
+    {
+        "question": "when was the first australian prime minister elected",
+        "answer": "Sir Edmund Barton.",
+        "label": 1
+    },
+    {
+        "question": "what caused the breakup of the democratic republican party",
+        "answer": "The signing of the Alien and Sedition Acts.",
+        "label": 0
+    },
+    {
+        "question": "where did the last name wallace come from",
+        "answer": "an ancient Roman family name.",
+        "label": 0
+    },
+    {
+        "question": "who sang picking up pebbles and throwing them into the sea",
+        "answer": "Matt Flinders.",
+        "label": 1
+    },
+    {
+        "question": "who made delhi as capital for the first time",
+        "answer": "the Pandavas.",
+        "label": 1
+    },
+    {
+        "question": "when did the united states host the world cup",
+        "answer": "2002.",
+        "label": 0
+    },
+    {
+        "question": "where did the battle of corinth take place",
+        "answer": "in Corinth, Mississippi.",
+        "label": 1
+    },
+    {
+        "question": "hyori bed and breakfast season 2 air date",
+        "answer": "October 10, 2019.",
+        "label": 0
+    },
+    {
+        "question": "who is in charge of ratifying treaties in the us",
+        "answer": "The House of Representatives.",
+        "label": 0
+    },
+    {
+        "question": "how many episodes of corrie has there been",
+        "answer": "9,436.",
+        "label": 1
+    },
+    {
+        "question": "who lasted the longest in the royal rumble",
+        "answer": "John Cena.",
+        "label": 0
+    },
+    {
+        "question": "when did response to state of the union start",
+        "answer": "in 1966.",
+        "label": 1
+    },
+    {
+        "question": "who is the director of taarak mehta ka ooltah chashmah",
+        "answer": "Malav Suresh Rajda.",
+        "label": 1
+    },
+    {
+        "question": "who played shmuel in the boy in the striped pyjamas",
+        "answer": "Jack Scanlon.",
+        "label": 1
+    },
+    {
+        "question": "who wrote it's a long long way to pasadena",
+        "answer": "John Young.",
+        "label": 1
+    },
+    {
+        "question": "who was the famous scientist that ran the research lab moseley went to in manchester",
+        "answer": "Sir Ernest Rutherford.",
+        "label": 1
+    },
+    {
+        "question": "when was the minimum wage established in the united states",
+        "answer": "1955.",
+        "label": 0
+    },
+    {
+        "question": "who won the super heavyweight gold medal at the 2000 olympics",
+        "answer": "Evander Holyfield.",
+        "label": 0
+    },
+    {
+        "question": "who proved that cells come from other cells",
+        "answer": "Louis Pasteur.",
+        "label": 0
+    },
+    {
+        "question": "what is the function of the pericardial sac",
+        "answer": "Filters blood before it enters the heart.",
+        "label": 0
+    },
+    {
+        "question": "who made the poppies at tower of london",
+        "answer": "Damien Hirst.",
+        "label": 0
+    },
+    {
+        "question": "who is jared on the bold and the beautiful",
+        "answer": "Andrew Collins.",
+        "label": 1
+    },
+    {
+        "question": "who does the voice of nala in the lion king",
+        "answer": "Niketa Calame.",
+        "label": 1
+    },
+    {
+        "question": "how many breeds of pigs are there in the uk",
+        "answer": "---.",
+        "label": 1
+    },
+    {
+        "question": "who is opening for little mix glory days tour",
+        "answer": "Sheppard.",
+        "label": 1
+    },
+    {
+        "question": "when was the latest version of chrome released",
+        "answer": "2017-11-15.",
+        "label": 0
+    },
+    {
+        "question": "where is simple squamous epithelium found in the body",
+        "answer": "Epidermis of the skin.",
+        "label": 0
+    },
+    {
+        "question": "who will win 2018 election in sri lanka",
+        "answer": "United National Party.",
+        "label": 0
+    },
+    {
+        "question": "who developed the concept of total quality management",
+        "answer": "Henry Ford.",
+        "label": 0
+    },
+    {
+        "question": "when does sam realize he is jim in ghost whisperer",
+        "answer": "Leap of Faith.",
+        "label": 1
+    },
+    {
+        "question": "who is jack's mother in when calls the heart",
+        "answer": "Charlotte Thornton.",
+        "label": 1
+    },
+    {
+        "question": "who plays unis in she's the man",
+        "answer": "Amanda Bynes.",
+        "label": 0
+    },
+    {
+        "question": "who played solomon in little house on the prairie",
+        "answer": "Todd Bridges.",
+        "label": 1
+    },
+    {
+        "question": "when did the movie napoleon dynamite come out",
+        "answer": "August 19, 2006.",
+        "label": 0
+    },
+    {
+        "question": "which country has won maximum number of gold medal in asian game 2014",
+        "answer": "China.",
+        "label": 1
+    },
+    {
+        "question": "who is the coach for the ottawa senators",
+        "answer": "Guy Boucher.",
+        "label": 1
+    },
+    {
+        "question": "what grade was arnold from hey arnold in",
+        "answer": "fourth.",
+        "label": 1
+    },
+    {
+        "question": "who won the battle of the first battle of bull run",
+        "answer": "Confederate victory.",
+        "label": 1
+    },
+    {
+        "question": "who was the viceroy when the simon commission visited india",
+        "answer": "Lord Irwin.",
+        "label": 1
+    },
+    {
+        "question": "batman the enemy with episode 5 release date",
+        "answer": "October 11, 2019.",
+        "label": 0
+    },
+    {
+        "question": "who are the co hosts on the real",
+        "answer": "Oprah Winfrey.",
+        "label": 0
+    },
+    {
+        "question": "who sings the whiskey ain't workin anymore",
+        "answer": "Dennis Locorriere.",
+        "label": 1
+    },
+    {
+        "question": "who played the elephant man in the film",
+        "answer": "John Hurt.",
+        "label": 1
+    },
+    {
+        "question": "where is fe best absorbed in the body",
+        "answer": "in the stomach.",
+        "label": 0
+    },
+    {
+        "question": "what episode does goku give up against cell",
+        "answer": "165.",
+        "label": 1
+    },
+    {
+        "question": "ganglion axons forming the optic nerve run to the",
+        "answer": "pretectal nucleus.",
+        "label": 1
+    },
+    {
+        "question": "when did the rational dress society begin to work",
+        "answer": "1920.",
+        "label": 0
+    },
+    {
+        "question": "who was mr.owen in and then there were none",
+        "answer": "Dr. Edward George Armstrong.",
+        "label": 0
+    },
+    {
+        "question": "when does the miz and maryse show start",
+        "answer": "2018.",
+        "label": 1
+    },
+    {
+        "question": "what is the maximum data rate for the 802.11a standard select one",
+        "answer": "100 Mbit/s.",
+        "label": 0
+    },
+    {
+        "question": "where is arachidonic acid found in the body",
+        "answer": "Pancreas.",
+        "label": 0
+    },
+    {
+        "question": "when's the last time army won the army navy game",
+        "answer": "2017.",
+        "label": 1
+    },
+    {
+        "question": "who won last year's ncaa women's basketball",
+        "answer": "South Carolina.",
+        "label": 1
+    },
+    {
+        "question": "what does istj mean in a personality test",
+        "answer": "Intuitive Sensing (Ni).",
+        "label": 0
+    },
+    {
+        "question": "where was the killing of a sacred deer filmed",
+        "answer": "Cincinnati.",
+        "label": 1
+    },
+    {
+        "question": "what is the angle of the tower of pisa",
+        "answer": "45 degrees.",
+        "label": 0
+    },
+    {
+        "question": "how many episodes of touching evil are there",
+        "answer": "24.",
+        "label": 0
+    },
+    {
+        "question": "how tall is the actor who plays hagrid in harry potter",
+        "answer": "6ft 1in.",
+        "label": 1
+    },
+    {
+        "question": "how many customers does edf have in the uk",
+        "answer": "5.7 million customer accounts.",
+        "label": 1
+    },
+    {
+        "question": "the chinese dragons are protectors of how many seas diggy",
+        "answer": "Seven Seas.",
+        "label": 0
+    },
+    {
+        "question": "who started ww2 and how did it start",
+        "answer": "Nazi Germany.",
+        "label": 1
+    },
+    {
+        "question": "who ordered the forbidden city to be built",
+        "answer": "Emperor Qin Shi Huang.",
+        "label": 0
+    },
+    {
+        "question": "who won in the brown vs board of education case",
+        "answer": "defendants.",
+        "label": 1
+    },
+    {
+        "question": "who plays general hux in the last jedi",
+        "answer": "Benedict Cumberbatch.",
+        "label": 0
+    },
+    {
+        "question": "where is the highest level of fluoride stored in the teeth",
+        "answer": "Root canal chamber.",
+        "label": 0
+    },
+    {
+        "question": "where do you get a cashiers check from",
+        "answer": "a post office.",
+        "label": 0
+    },
+    {
+        "question": "who appoints the chair of the federal reserve system",
+        "answer": "President of the United States.",
+        "label": 1
+    },
+    {
+        "question": "who is under the mask of darth vader",
+        "answer": "Obi-Wan Kenobi.",
+        "label": 0
+    },
+    {
+        "question": "who is the king and queen of the netherlands",
+        "answer": "Queen Beatrix and King Willem-Alexander.",
+        "label": 0
+    },
+    {
+        "question": "who is jack's mother in when calls the heart",
+        "answer": "Elizabeth Thatcher.",
+        "label": 0
+    },
+    {
+        "question": "how many seasons of the bastard executioner are there",
+        "answer": "three.",
+        "label": 0
+    },
+    {
+        "question": "epidemiologists attempt to explain the link between health and variables such as",
+        "answer": "biological agents.",
+        "label": 1
+    },
+    {
+        "question": "when did amnesia the dark descent come out",
+        "answer": "8 September 2010.",
+        "label": 1
+    },
+    {
+        "question": "where is arachidonic acid found in the body",
+        "answer": "brain.",
+        "label": 1
+    },
+    {
+        "question": "an object that moves around an external axis is said to be",
+        "answer": "Spinning or rotational motion.",
+        "label": 0
+    },
+    {
+        "question": "chief ministers of tamil nadu mentioned on wikipedia",
+        "answer": "Arjun Singh.",
+        "label": 0
+    },
+    {
+        "question": "where is the capital city of alabama located",
+        "answer": "Montgomery.",
+        "label": 1
+    },
+    {
+        "question": "what is the name of the main artery which takes blood from the heart to the body",
+        "answer": "The aorta.",
+        "label": 1
+    },
+    {
+        "question": "when did the movie varsity blues come out",
+        "answer": "2003.",
+        "label": 0
+    },
+    {
+        "question": "when did ole miss beat alabama in football",
+        "answer": "October 3, 1970.",
+        "label": 1
+    },
+    {
+        "question": "what category was hurricane charley when it hit florida",
+        "answer": "2.",
+        "label": 0
+    },
+    {
+        "question": "who was mr.owen in and then there were none",
+        "answer": "Justice Lawrence John Wargrave.",
+        "label": 1
+    },
+    {
+        "question": "where is simple squamous epithelium found in the body",
+        "answer": "alveoli.",
+        "label": 1
+    },
+    {
+        "question": "who did america declare war on in ww1",
+        "answer": "Soviet Union.",
+        "label": 0
+    },
+    {
+        "question": "when was a series of unfortunate events published",
+        "answer": "March 2005.",
+        "label": 0
+    },
+    {
+        "question": "what type of economic system was utilized in the soviet union",
+        "answer": "communism.",
+        "label": 1
+    },
+    {
+        "question": "who are nominated for president of india 2017",
+        "answer": "Arun Jaitley.",
+        "label": 0
+    },
+    {
+        "question": "nuclear power plant that blew up in russia",
+        "answer": "Chernobyl Nuclear Power Plant.",
+        "label": 1
+    },
+    {
+        "question": "when did bird is the word come out",
+        "answer": "1987.",
+        "label": 0
+    },
+    {
+        "question": "what is katie running from in safe haven",
+        "answer": "A criminal past.",
+        "label": 0
+    },
+    {
+        "question": "architectural elements forming rib vaults eg wells cathedral",
+        "answer": "Reinforced wooden beams.",
+        "label": 0
+    },
+    {
+        "question": "when did the eagles play in the superbowl",
+        "answer": "February 6, 2005.",
+        "label": 1
+    },
+    {
+        "question": "when was corporal punishment banned in south africa",
+        "answer": "1997.",
+        "label": 1
+    },
+    {
+        "question": "who played the mad hatter in the batman tv show",
+        "answer": "David Tennant.",
+        "label": 0
+    },
+    {
+        "question": "when did bird is the word come out",
+        "answer": "1963.",
+        "label": 1
+    },
+    {
+        "question": "how many episodes of season 5 of curse of oak island",
+        "answer": "18.",
+        "label": 1
+    },
+    {
+        "question": "who owns the crown plaza hotel in chicago illinois",
+        "answer": "Marriott International.",
+        "label": 0
+    },
+    {
+        "question": "when did seat belts become law in ontario",
+        "answer": "January 1, 1976.",
+        "label": 1
+    },
+    {
+        "question": "the oligodynamic effect is a phenomenon that describes",
+        "answer": "a biocidal effect of metals.",
+        "label": 1
+    },
+    {
+        "question": "most of new zealands land supports which economic activity",
+        "answer": "Mining Industry.",
+        "label": 0
+    },
+    {
+        "question": "number 4 in roman numerals on clock faces",
+        "answer": "IIII.",
+        "label": 0
+    },
+    {
+        "question": "to transplant a nucleus from one cell to another cell a scientist would use",
+        "answer": "somatic cell nuclear transfer.",
+        "label": 1
+    },
+    {
+        "question": "what is the meaning of cc and bcc",
+        "answer": "Creative content and Blind carbon content.",
+        "label": 0
+    },
+    {
+        "question": "when was the last episode of vampire diaries aired",
+        "answer": "October 31, 2018.",
+        "label": 0
+    },
+    {
+        "question": "chief ministers of tamil nadu mentioned on wikipedia",
+        "answer": "Ramakrishna Ranga Rao.",
+        "label": 1
+    },
+    {
+        "question": "who is edmund on days of our lives",
+        "answer": "John Black.",
+        "label": 0
+    },
+    {
+        "question": "who translated the play neel darpan into english",
+        "answer": "Rabindranath Tagore.",
+        "label": 0
+    },
+    {
+        "question": "who was the actor that played ben stone on law and order",
+        "answer": "Michael Moriarty.",
+        "label": 1
+    },
+    {
+        "question": "who started ww2 and how did it start",
+        "answer": "The Austro-Hungarian Empire.",
+        "label": 0
+    },
+    {
+        "question": "rizal finished all the chapters of the novel noli me tangere in",
+        "answer": "February 1891.",
+        "label": 0
+    },
+    {
+        "question": "where does no game no life anime end",
+        "answer": "the Elkia Federation.",
+        "label": 1
+    },
+    {
+        "question": "who plays hannibal in silence of the lambs",
+        "answer": "Jeremy Irons.",
+        "label": 0
+    },
+    {
+        "question": "where does tropic of cancer pass in india",
+        "answer": "Kerala.",
+        "label": 0
+    },
+    {
+        "question": "what are the active materials of a lead acid battery",
+        "answer": "Lithium Ion.",
+        "label": 0
+    },
+    {
+        "question": "when was the last time the ducks won the stanley cup",
+        "answer": "(2006\u201307).",
+        "label": 1
+    },
+    {
+        "question": "is there a name for the at symbol",
+        "answer": "commercial at.",
+        "label": 1
+    },
+    {
+        "question": "where is lord's prayer found in bible",
+        "answer": "in the Gospel of Luke.",
+        "label": 1
+    },
+    {
+        "question": "when is the met office leaving the bbc",
+        "answer": "31 March 2018.",
+        "label": 1
+    },
+    {
+        "question": "when was corporal punishment banned in south africa",
+        "answer": "2005.",
+        "label": 0
+    },
+    {
+        "question": "who played bat masterson in the tv series",
+        "answer": "James Garner.",
+        "label": 0
+    },
+    {
+        "question": "when did the royal proclamation of 1763 end",
+        "answer": "The signing of the Treaty of Paris in 1783.",
+        "label": 0
+    },
+    {
+        "question": "who sings the whiskey ain't workin anymore",
+        "answer": "George Strait.",
+        "label": 0
+    },
+    {
+        "question": "element named after fictional planet from which superman came",
+        "answer": "Kryptonite.",
+        "label": 1
+    },
+    {
+        "question": "who does the voice of mickey mouse on mickey mouse clubhouse",
+        "answer": "Bret Iwan.",
+        "label": 1
+    },
+    {
+        "question": "where does the white witch live in narnia",
+        "answer": "her castle.",
+        "label": 1
+    },
+    {
+        "question": "who does the voice of nala in the lion king",
+        "answer": "Beyonc\u00e9 Knowles-Carter.",
+        "label": 0
+    },
+    {
+        "question": "what episode does goku give up against cell",
+        "answer": "92.",
+        "label": 0
+    },
+    {
+        "question": "what is the meaning of cc and bcc",
+        "answer": "Carbon copy.",
+        "label": 1
+    },
+    {
+        "question": "what is the current population of bora bora",
+        "answer": "23,450.",
+        "label": 0
+    },
+    {
+        "question": "who was the famous scientist that ran the research lab moseley went to in manchester",
+        "answer": "Sir Isaac Newton.",
+        "label": 0
+    },
+    {
+        "question": "what is the oath that new citizens take",
+        "answer": "The Pledge of Allegiance to the United Nations.",
+        "label": 0
+    },
+    {
+        "question": "when was coffee first made into a drink",
+        "answer": "15th century.",
+        "label": 1
+    },
+    {
+        "question": "when did canada get rid of the death penalty",
+        "answer": "October 17, 1987.",
+        "label": 0
+    },
+    {
+        "question": "is there a name for the at symbol",
+        "answer": "ampersand loop.",
+        "label": 0
+    },
+    {
+        "question": "who is given credit for the gnu initiative",
+        "answer": "Linus Torvalds.",
+        "label": 0
+    },
+    {
+        "question": "hazels boyfriend in the fault in our stars",
+        "answer": "Peter Van Houten.",
+        "label": 0
+    },
+    {
+        "question": "who made delhi as capital for the first time",
+        "answer": "The Mughal Empire.",
+        "label": 0
+    },
+    {
+        "question": "name the four major layers of the earth in order",
+        "answer": "a liquid outer core.",
+        "label": 1
+    },
+    {
+        "question": "where does hydrogen peroxide come from in the body",
+        "answer": "The adrenal glands.",
+        "label": 0
+    },
+    {
+        "question": "who sings the song let me love you",
+        "answer": "Calvin Harris featuring Ed Sheeran.",
+        "label": 0
+    },
+    {
+        "question": "where are alkali metals located on the periodic table",
+        "answer": "in the d-block.",
+        "label": 0
+    },
+    {
+        "question": "who was the ruler of england in 1616",
+        "answer": "Elizabeth I.",
+        "label": 0
+    },
+    {
+        "question": "when did toyota start making cars in the us",
+        "answer": "In the late 1990s.",
+        "label": 0
+    },
+    {
+        "question": "who won in the brown vs board of education case",
+        "answer": "The Board of Education of Topeka.",
+        "label": 0
+    },
+    {
+        "question": "what is the angle of the tower of pisa",
+        "answer": "about 3.99 degrees.",
+        "label": 1
+    },
+    {
+        "question": "how much for a passport in the philippines",
+        "answer": "\u20b110,000 within the Philippines.",
+        "label": 0
+    },
+    {
+        "question": "when were the winnie the pooh books written",
+        "answer": "1924.",
+        "label": 1
+    },
+    {
+        "question": "what channel is celebrity big brother on in the usa",
+        "answer": "CBS.",
+        "label": 1
+    },
+    {
+        "question": "who is the real killer in basic instinct 2",
+        "answer": "Catherine Tramell.",
+        "label": 1
+    },
+    {
+        "question": "when is the met office leaving the bbc",
+        "answer": "1 January 2020.",
+        "label": 0
+    },
+    {
+        "question": "when will fairy tail final season be released",
+        "answer": "2018.",
+        "label": 1
+    },
+    {
+        "question": "who did the singing in into the woods",
+        "answer": "Idina Menzel.",
+        "label": 0
+    },
+    {
+        "question": "describe the three phases of the normal blood clotting process",
+        "answer": "Photosynthesis process.",
+        "label": 0
+    },
+    {
+        "question": "where does new york drinking water come from",
+        "answer": "the eastern Catskill Mountains.",
+        "label": 1
+    },
+    {
+        "question": "ganglion axons forming the optic nerve run to the",
+        "answer": "Hippocampus.",
+        "label": 0
+    },
+    {
+        "question": "what is the current population of bora bora",
+        "answer": "10,605.",
+        "label": 1
+    },
+    {
+        "question": "when did the word of wisdom become mandatory",
+        "answer": "July 1902.",
+        "label": 0
+    },
+    {
+        "question": "yeh hai mohabbatein serial star cast real name",
+        "answer": "Deepika Singh and Anas Rashid.",
+        "label": 0
+    },
+    {
+        "question": "who sang picking up pebbles and throwing them into the sea",
+        "answer": "John Denver.",
+        "label": 0
+    },
+    {
+        "question": "who is the director of taarak mehta ka ooltah chashmah",
+        "answer": "Rajkumar Hirani.",
+        "label": 0
+    },
+    {
+        "question": "what is the population of st petersburg fl",
+        "answer": "260,999.",
+        "label": 1
+    },
+    {
+        "question": "which is produced in plants of narora kakrapar tarapur",
+        "answer": "Atomic Power.",
+        "label": 1
+    },
+    {
+        "question": "name two fibres which are made of proteins",
+        "answer": "Cotton and linen.",
+        "label": 0
+    },
+    {
+        "question": "who was the ruler of england in 1616",
+        "answer": "James I.",
+        "label": 1
+    },
+    {
+        "question": "what is an example of a tricyclic antidepressant",
+        "answer": "Amineptine.",
+        "label": 1
+    },
+    {
+        "question": "what was tom hanks character name in castaway",
+        "answer": "Chuck Noland.",
+        "label": 1
+    },
+    {
+        "question": "who was the great wall of china built to defend against",
+        "answer": "The Mongol Empire.",
+        "label": 0
+    },
+    {
+        "question": "who wrote it's a long long way to pasadena",
+        "answer": "Paul McCartney.",
+        "label": 0
+    },
+    {
+        "question": "who holds the world record for the most world records",
+        "answer": "Ashrita Furman.",
+        "label": 1
+    },
+    {
+        "question": "who plays auggie in the movie the wonder",
+        "answer": "Finn Wolfhard.",
+        "label": 0
+    },
+    {
+        "question": "a single period of precession of earth's axis is completed in about",
+        "answer": "approximately 100,000 years.",
+        "label": 0
+    },
+    {
+        "question": "what does hp mean in war and order",
+        "answer": "hit points or health points.",
+        "label": 1
+    },
+    {
+        "question": "who won college basketball player of the year",
+        "answer": "A'ja Wilson.",
+        "label": 1
+    },
+    {
+        "question": "where is the slide placed on the microscope",
+        "answer": "stage.",
+        "label": 1
+    },
+    {
+        "question": "when did marathon change its name to snickers",
+        "answer": "19 July 1990.",
+        "label": 1
+    },
+    {
+        "question": "where did the dewey decimal system come from",
+        "answer": "The Library of Congress.",
+        "label": 0
+    },
+    {
+        "question": "what are the ranks in the us navy",
+        "answer": "E-8s senior chief petty officer.",
+        "label": 1
+    },
+    {
+        "question": "when did response to state of the union start",
+        "answer": "in 1985.",
+        "label": 0
+    },
+    {
+        "question": "what is the name of the first earthquake early warning system",
+        "answer": "2005.",
+        "label": 0
+    },
+    {
+        "question": "who wrote papa got a brand new bag",
+        "answer": "James Brown.",
+        "label": 1
+    },
+    {
+        "question": "who has the most followers in the world on instagram",
+        "answer": "Instagram's own account.",
+        "label": 1
+    },
+    {
+        "question": "when is season 2 of jessica jones being released",
+        "answer": "October 15, 2019.",
+        "label": 0
+    },
+    {
+        "question": "who are nominated for president of india 2017",
+        "answer": "Meira Kumar.",
+        "label": 1
+    },
+    {
+        "question": "who is the biggest selling female group of all time",
+        "answer": "Spice Girls.",
+        "label": 1
+    },
+    {
+        "question": "when did the nba create the 3 point line",
+        "answer": "the 1979\u201380 season.",
+        "label": 1
+    },
+    {
+        "question": "who won the champions league final in 2016",
+        "answer": "Real Madrid.",
+        "label": 1
+    },
+    {
+        "question": "other than water what else has hydrogen bonds",
+        "answer": "inorganic molecules such as water.",
+        "label": 1
+    },
+    {
+        "question": "how many seasons are there for lost girl",
+        "answer": "7.",
+        "label": 0
+    },
+    {
+        "question": "what is the name for the ch3coo- ion",
+        "answer": "polyatomic anion.",
+        "label": 1
+    },
+    {
+        "question": "who opens the church of the holy sepulchre",
+        "answer": "the Sunni Muslim family.",
+        "label": 1
+    },
+    {
+        "question": "location of the ten commandments in the bible",
+        "answer": "Exodus.",
+        "label": 1
+    },
+    {
+        "question": "what are the 4 types of nitrogenous bases",
+        "answer": "cytosine (C).",
+        "label": 1
+    },
+    {
+        "question": "who is the king and queen of the netherlands",
+        "answer": "Queen M\u00e1xima of the Netherlands.",
+        "label": 1
+    },
+    {
+        "question": "who sang i ran all the way home",
+        "answer": "The Impalas.",
+        "label": 1
+    },
+    {
+        "question": "what is the first book of percy jackson",
+        "answer": "The Sea of Monsters.",
+        "label": 0
+    },
+    {
+        "question": "who won battle of the sexes tennis game",
+        "answer": "Bobby Riggs.",
+        "label": 0
+    },
+    {
+        "question": "what album is sacrifice by elton john on",
+        "answer": "Goodbye Yellow Brick Road.",
+        "label": 0
+    },
+    {
+        "question": "what year does the quiet man take place",
+        "answer": "the 1950s.",
+        "label": 0
+    },
+    {
+        "question": "when is the publishers clearing house sweepstakes drawing",
+        "answer": "just after the Super Bowl.",
+        "label": 1
+    },
+    {
+        "question": "what is billy last name in where the red fern grows",
+        "answer": "Thatcher.",
+        "label": 0
+    },
+    {
+        "question": "who has the most gold medals in the winter olympics of all time",
+        "answer": "Norway.",
+        "label": 1
+    },
+    {
+        "question": "who developed the central processing unit (cpu)",
+        "answer": "Thomas Edison.",
+        "label": 0
+    },
+    {
+        "question": "how many super bowl games has the patriots played in",
+        "answer": "10.",
+        "label": 1
+    },
+    {
+        "question": "who did bette midler portray in the rose",
+        "answer": "Janis Joplin.",
+        "label": 0
+    },
+    {
+        "question": "who sings the song i'll never forget you",
+        "answer": "Mariah Carey.",
+        "label": 1
+    },
+    {
+        "question": "who plays hannibal in silence of the lambs",
+        "answer": "Anthony Hopkins.",
+        "label": 1
+    },
+    {
+        "question": "where is the boy who played charlie in willy wonka",
+        "answer": "Peter Gardner[4] Ostrum.",
+        "label": 1
+    },
+    {
+        "question": "when will fairy tail final season be released",
+        "answer": "2022.",
+        "label": 0
+    },
+    {
+        "question": "what percentage of sunlight is captured by plants to convert it into food energy",
+        "answer": "10%.",
+        "label": 0
+    },
+    {
+        "question": "where was when we first met netflix filmed",
+        "answer": "Vancouver, Canada.",
+        "label": 0
+    },
+    {
+        "question": "which is produced in plants of narora kakrapar tarapur",
+        "answer": "Solar Energy.",
+        "label": 0
+    },
+    {
+        "question": "when do you celebrate birthday if born on feb 29",
+        "answer": "February 29.",
+        "label": 1
+    },
+    {
+        "question": "how many episodes of greys anatomy season 14",
+        "answer": "24.",
+        "label": 1
+    },
+    {
+        "question": "what is the minimum wage in france per hour",
+        "answer": "11.16.",
+        "label": 1
+    },
+    {
+        "question": "when did the study of media effects begin",
+        "answer": "1985.",
+        "label": 0
+    },
+    {
+        "question": "when was the 50th star added to the united states flag",
+        "answer": "1989.",
+        "label": 0
+    },
+    {
+        "question": "when was rosencrantz and guildenstern are dead written",
+        "answer": "1966.",
+        "label": 1
+    },
+    {
+        "question": "how many seasons are there for lost girl",
+        "answer": "5.",
+        "label": 1
+    },
+    {
+        "question": "where does the last name galvez come from",
+        "answer": "French nobility.",
+        "label": 0
+    },
+    {
+        "question": "when was the latest version of chrome released",
+        "answer": "2018-01-22.",
+        "label": 1
+    },
+    {
+        "question": "who did bette midler portray in the rose",
+        "answer": "Mary Rose Foster.",
+        "label": 1
+    },
+    {
+        "question": "what's the dog's name on tom and jerry",
+        "answer": "Spike.",
+        "label": 1
+    },
+    {
+        "question": "where did the butchers in the slaughterhouse cases live",
+        "answer": "New Orleans.",
+        "label": 1
+    },
+    {
+        "question": "is parallax more pronounced with nearby stars or with distant stars",
+        "answer": "nearby objects.",
+        "label": 1
+    },
+    {
+        "question": "who was the head of the spanish inquisition",
+        "answer": "Grand Inquisitor.",
+        "label": 1
+    },
+    {
+        "question": "what does the pearl symbolize in the bible",
+        "answer": "the Kingdom of Heaven.",
+        "label": 1
+    },
+    {
+        "question": "who sings you're welcome in moana credits",
+        "answer": "Lin-Manuel Miranda.",
+        "label": 0
+    },
+    {
+        "question": "what is the baby elephants name in jungle book",
+        "answer": "Baloo Jr.",
+        "label": 0
+    },
+    {
+        "question": "when does season 5 of the blacklist resume",
+        "answer": "January\u00a031,\u00a02018.",
+        "label": 1
+    },
+    {
+        "question": "who is the real killer in basic instinct 2",
+        "answer": "Dr. Michael Glass.",
+        "label": 0
+    },
+    {
+        "question": "what was tom hanks character name in castaway",
+        "answer": "Jack Sully.",
+        "label": 0
+    },
+    {
+        "question": "what proposition made the insurance commissioner an elected position",
+        "answer": "Proposition 103.",
+        "label": 1
+    },
+    {
+        "question": "which state is located in the centre of india",
+        "answer": "Uttar Pradesh.",
+        "label": 0
+    },
+    {
+        "question": "star wars episode ii attack of the clones characters",
+        "answer": "Chancellor Palpatine / Darth Sidious.",
+        "label": 1
+    },
+    {
+        "question": "what are the active materials of a lead acid battery",
+        "answer": "Lead.",
+        "label": 1
+    },
+    {
+        "question": "genre of diary of a wimpy kid the getaway",
+        "answer": "Children's novel.",
+        "label": 1
+    },
+    {
+        "question": "when did amnesia the dark descent come out",
+        "answer": "31 October 2008.",
+        "label": 0
+    },
+    {
+        "question": "who sings sugar sugar you are my candy girl",
+        "answer": "the Archies.",
+        "label": 1
+    },
+    {
+        "question": "what is the share of agriculture in indian economy",
+        "answer": "40.5%.",
+        "label": 0
+    },
+    {
+        "question": "who performed the first c section in 1794",
+        "answer": "Dr. Edward Jenner.",
+        "label": 0
+    },
+    {
+        "question": "who had created the second bank of the united states",
+        "answer": "President Thomas Jefferson.",
+        "label": 0
+    },
+    {
+        "question": "when do primary ossification centers appear in an embryo",
+        "answer": "After birth.",
+        "label": 0
+    },
+    {
+        "question": "when does thomas rhett's new album come out",
+        "answer": "September 8, 2017.",
+        "label": 1
+    },
+    {
+        "question": "bible verse taking the lord's name in vain",
+        "answer": "Exodus 20:7.",
+        "label": 1
+    },
+    {
+        "question": "who did puerto rico belong to before the u.s",
+        "answer": "Spain.",
+        "label": 0
+    },
+    {
+        "question": "what are the ranks in the us navy",
+        "answer": "E-5s master sergeant.",
+        "label": 0
+    },
+    {
+        "question": "which country has won maximum number of gold medal in asian game 2014",
+        "answer": "Japan.",
+        "label": 0
+    },
+    {
+        "question": "derek and meredith get back together season 3",
+        "answer": "Losing My Religion.",
+        "label": 0
+    },
+    {
+        "question": "which country has the most coastline in the world",
+        "answer": "Australia.",
+        "label": 0
+    },
+    {
+        "question": "who plays joker in batman the dark knight",
+        "answer": "Jack Nicholson.",
+        "label": 0
+    },
+    {
+        "question": "when did the royal proclamation of 1763 end",
+        "answer": "the American Revolutionary War.",
+        "label": 1
+    },
+    {
+        "question": "last episode of what happens to my family",
+        "answer": "53.",
+        "label": 1
+    },
+    {
+        "question": "who played amy grant i i can only imagine",
+        "answer": "Jennifer Lawrence.",
+        "label": 0
+    },
+    {
+        "question": "when was the last time anyone was on the moon",
+        "answer": "28 July 1999 UTC.",
+        "label": 0
+    },
+    {
+        "question": "swan lake the sleeping beauty and the nutcracker are three famous ballets by",
+        "answer": "Pyotr Ilyich Tchaikovsky.",
+        "label": 1
+    },
+    {
+        "question": "when was the last time the eu was audited",
+        "answer": "1994.",
+        "label": 1
+    },
+    {
+        "question": "love yourself by justin bieber is about who",
+        "answer": "Selena Gomez.",
+        "label": 0
+    },
+    {
+        "question": "who plays dusty in the movie pure country",
+        "answer": "George Strait.",
+        "label": 1
+    },
+    {
+        "question": "who won college basketball player of the year",
+        "answer": "Zion Williamson.",
+        "label": 0
+    },
+    {
+        "question": "where is the citrus bowl held this year",
+        "answer": "Rose Bowl Stadium.",
+        "label": 0
+    },
+    {
+        "question": "where does no game no life anime end",
+        "answer": "The Tokyo Metropolitan Empire.",
+        "label": 0
+    },
+    {
+        "question": "what was the real name of saudi arabia",
+        "answer": "the Saudi Arab kingdom.",
+        "label": 1
+    },
+    {
+        "question": "when does the new gotham season come out",
+        "answer": "September\u00a021,\u00a02017.",
+        "label": 1
+    },
+    {
+        "question": "when does the dlc for rainbow six siege come out",
+        "answer": "March 2019.",
+        "label": 0
+    },
+    {
+        "question": "who is tinker air force base named after",
+        "answer": "Captain Charles Tinker.",
+        "label": 0
+    },
+    {
+        "question": "when was coffee first made into a drink",
+        "answer": "17th century.",
+        "label": 0
+    },
+    {
+        "question": "who is president of india in present time",
+        "answer": "Ram Nath Kovind.",
+        "label": 1
+    },
+    {
+        "question": "what is the hot coffee mod in san andreas",
+        "answer": "a normally inaccessible mini-game.",
+        "label": 1
+    },
+    {
+        "question": "when does the dlc for rainbow six siege come out",
+        "answer": "January 2018.",
+        "label": 1
+    },
+    {
+        "question": "most of new zealands land supports which economic activity",
+        "answer": "agriculture.",
+        "label": 1
+    },
+    {
+        "question": "who is in charge of ratifying treaties in the us",
+        "answer": "the Executive branch.",
+        "label": 1
+    },
+    {
+        "question": "where does the last name galvez come from",
+        "answer": "Spanish surname.",
+        "label": 1
+    },
+    {
+        "question": "where does dividends go on cash flow statement",
+        "answer": "the financing activities section.",
+        "label": 1
+    },
+    {
+        "question": "how many super bowl games has the patriots played in",
+        "answer": "7.",
+        "label": 0
+    },
+    {
+        "question": "what is the minimum wage in france per hour",
+        "answer": "8.50 euros.",
+        "label": 0
+    },
+    {
+        "question": "who plays auggie in the movie the wonder",
+        "answer": "Jacob Tremblay.",
+        "label": 1
+    },
+    {
+        "question": "who wrote and performed i can only imagine",
+        "answer": "Bart Millard.",
+        "label": 1
+    },
+    {
+        "question": "who won the champions league final in 2016",
+        "answer": "Manchester United.",
+        "label": 0
+    },
+    {
+        "question": "who does eric end up with in that 70s show",
+        "answer": "Donna.",
+        "label": 1
+    },
+    {
+        "question": "who has the most catches in nfl history",
+        "answer": "Jerry Rice.",
+        "label": 1
+    },
+    {
+        "question": "who plays the dragon queen from game of thrones",
+        "answer": "Natalie Dormer.",
+        "label": 0
+    },
+    {
+        "question": "i was a great islamic scholar and mathematician who died in 1131 ce",
+        "answer": "Alhazen.",
+        "label": 0
+    },
+    {
+        "question": "who is edmund on days of our lives",
+        "answer": "Adam Caine.",
+        "label": 1
+    },
+    {
+        "question": "coldplay song i will try to fix you",
+        "answer": "\"Yellow\".",
+        "label": 0
+    },
+    {
+        "question": "where does tropic of cancer pass in india",
+        "answer": "Chhattisgarh.",
+        "label": 1
+    },
+    {
+        "question": "sri lanka belongs to which part of asia",
+        "answer": "Southeast Asia.",
+        "label": 0
+    },
+    {
+        "question": "where does route 66 start on the west coast",
+        "answer": "in San Francisco.",
+        "label": 0
+    },
+    {
+        "question": "what type of database is library literature and information science",
+        "answer": "Relational database.",
+        "label": 0
+    },
+    {
+        "question": "who plays the dragon queen from game of thrones",
+        "answer": "Emilia Clarke.",
+        "label": 1
+    },
+    {
+        "question": "who performed the first c section in 1794",
+        "answer": "Dr. Jesse Bennett.",
+        "label": 1
+    },
+    {
+        "question": "when did the rational dress society begin to work",
+        "answer": "1881.",
+        "label": 1
+    },
+    {
+        "question": "when did lionel messi play his first game for barcelona",
+        "answer": "2010.",
+        "label": 0
+    },
+    {
+        "question": "who played the colorado kid in rio bravo",
+        "answer": "James Dean.",
+        "label": 0
+    },
+    {
+        "question": "what engine is in a holden v8 supercar",
+        "answer": "Inline-4 turbocharged engine.",
+        "label": 0
+    },
+    {
+        "question": "who plays matthew on anne with an e",
+        "answer": "R. H. Thomson.",
+        "label": 1
+    },
+    {
+        "question": "who was the great wall of china built to defend against",
+        "answer": "nomads from Inner Asia.",
+        "label": 1
+    },
+    {
+        "question": "when did they stop cigarette advertising on television",
+        "answer": "October 1, 1985.",
+        "label": 0
+    },
+    {
+        "question": "what season does bart bass die in gossip girl",
+        "answer": ").",
+        "label": 1
+    },
+    {
+        "question": "when does madea's family funeral come out",
+        "answer": "2018.",
+        "label": 1
+    },
+    {
+        "question": "who is currently serving as president of the senate",
+        "answer": "Nancy Pelosi.",
+        "label": 0
+    },
+    {
+        "question": "the fertile crescent is located between what two bodies of water",
+        "answer": "Tigris and Euphrates rivers.",
+        "label": 1
+    },
+    {
+        "question": "who is the actor that plays dr. sean murphy",
+        "answer": "Ewan McGregor.",
+        "label": 0
+    },
+    {
+        "question": "where did the butchers in the slaughterhouse cases live",
+        "answer": "Baton Rouge, Louisiana.",
+        "label": 0
+    },
+    {
+        "question": "where do they put the tomb vampires in order to burn them during founders day",
+        "answer": "Mystic Falls Church Basement.",
+        "label": 0
+    },
+    {
+        "question": "when was the last time new zealand had an earthquake",
+        "answer": "23 March 2019.",
+        "label": 0
+    },
+    {
+        "question": "an object that moves around an external axis is said to be",
+        "answer": "revolution or orbital revolution.",
+        "label": 1
+    },
+    {
+        "question": "what languages are spoken in india the most",
+        "answer": "Bengali.",
+        "label": 1
+    },
+    {
+        "question": "what is the function of a political action committee (pac)",
+        "answer": "pools campaign contributions from members.",
+        "label": 1
+    },
+    {
+        "question": "when was the canadian pacific railway started and finished",
+        "answer": "between 1881 and 1885.",
+        "label": 1
+    },
+    {
+        "question": "who plays the saint of killers on preacher",
+        "answer": "Jeffrey Dean Morgan.",
+        "label": 0
+    },
+    {
+        "question": "who sings sugar sugar you are my candy girl",
+        "answer": "The Beach Boys.",
+        "label": 0
+    },
+    {
+        "question": "what is the meaning of veronica in english",
+        "answer": "she who brings victory.",
+        "label": 1
+    },
+    {
+        "question": "who sang rip it up and start again",
+        "answer": "British rock band The Rolling Stones.",
+        "label": 0
+    },
+    {
+        "question": "what is on top of us capitol building",
+        "answer": "The Liberty Bell Replica.",
+        "label": 0
+    },
+    {
+        "question": "where do rory and paris go to college",
+        "answer": "Yale University.",
+        "label": 1
+    },
+    {
+        "question": "what is katie running from in safe haven",
+        "answer": "her abusive husband.",
+        "label": 1
+    },
+    {
+        "question": "the fertile crescent is located between what two bodies of water",
+        "answer": "Nile and Jordan rivers.",
+        "label": 0
+    },
+    {
+        "question": "when does body temperature tend to be lowest",
+        "answer": "11 p.m. to 3 a.m.",
+        "label": 1
+    },
+    {
+        "question": "when was the taming ofthe shrew first performed",
+        "answer": "prior to June 1592.",
+        "label": 1
+    },
+    {
+        "question": "when was the last episode of vampire diaries aired",
+        "answer": "March\u00a010,\u00a02017.",
+        "label": 1
+    },
+    {
+        "question": "who owns the crown plaza hotel in chicago illinois",
+        "answer": "InterContinental Hotels Group.",
+        "label": 1
+    },
+    {
+        "question": "who has won the most college football national champions",
+        "answer": "University of Alabama.",
+        "label": 0
+    },
+    {
+        "question": "who won the super heavyweight gold medal at the 2000 olympics",
+        "answer": "Audley Harrison.",
+        "label": 1
+    },
+    {
+        "question": "what channel is celebrity big brother on in the usa",
+        "answer": "NBC.",
+        "label": 0
+    },
+    {
+        "question": "how old is the actress who plays phyllis on y&r",
+        "answer": "Gina Tognoni.",
+        "label": 1
+    },
+    {
+        "question": "when did the us not go to the olympics",
+        "answer": "The 1980 Summer Olympics.",
+        "label": 1
+    },
+    {
+        "question": "who has won the most games in nfl 2017",
+        "answer": "New England Patriots.",
+        "label": 0
+    },
+    {
+        "question": "who played the creature on jeepers creepers 3",
+        "answer": "Doug Jones.",
+        "label": 0
+    },
+    {
+        "question": "when did the sims 4 toddlers come out",
+        "answer": "January 2017.",
+        "label": 1
+    },
+    {
+        "question": "who is currently serving as president of the senate",
+        "answer": "Orrin Hatch.",
+        "label": 1
+    },
+    {
+        "question": "when did the word of wisdom become mandatory",
+        "answer": "February 1834.",
+        "label": 1
+    },
+    {
+        "question": "when did taylor swift's first album release",
+        "answer": "August 13, 2008.",
+        "label": 0
+    },
+    {
+        "question": "who has the most followers in the world on instagram",
+        "answer": "Cristiano Ronaldo.",
+        "label": 0
+    },
+    {
+        "question": "when does the champions league quarter finals start",
+        "answer": "5 April 2018.",
+        "label": 0
+    },
+    {
+        "question": "who plays the dad in nanny mcphee and the big bang",
+        "answer": "Hugh Grant.",
+        "label": 0
+    },
+    {
+        "question": "who captained the first european ship to sail around the tip of africa",
+        "answer": "Christopher Columbus.",
+        "label": 0
+    },
+    {
+        "question": "where does a roadrunner live in the desert",
+        "answer": "Saharan sand dunes.",
+        "label": 0
+    },
+    {
+        "question": "who was originally cast to play indiana jones",
+        "answer": "Tom Selleck.",
+        "label": 1
+    },
+    {
+        "question": "who won the mens single ice skating 2018",
+        "answer": "Patrick Chan.",
+        "label": 0
+    },
+    {
+        "question": "when was the last time new zealand had an earthquake",
+        "answer": "11 Jul 2017.",
+        "label": 1
+    },
+    {
+        "question": "who are the co hosts on the real",
+        "answer": "Tamar Braxton.",
+        "label": 1
+    },
+    {
+        "question": "where is the tibia and fibula bone located",
+        "answer": "Arm.",
+        "label": 0
+    },
+    {
+        "question": "where does the path train stop in newark",
+        "answer": "Newark Liberty International Airport.",
+        "label": 0
+    },
+    {
+        "question": "what year did the us hockey team won the olympics",
+        "answer": "1984.",
+        "label": 0
+    },
+    {
+        "question": "who plays matthew on anne with an e",
+        "answer": "Jonathan Crombie.",
+        "label": 0
+    },
+    {
+        "question": "when did the royal mint move to wales",
+        "answer": "1982.",
+        "label": 0
+    },
+    {
+        "question": "when was the last time giants won superbowl",
+        "answer": "2011.",
+        "label": 1
+    },
+    {
+        "question": "when do new episodes of riverdale season 2 come out",
+        "answer": "February\u00a07,\u00a02018.",
+        "label": 1
+    },
+    {
+        "question": "where was when we first met netflix filmed",
+        "answer": "New Orleans.",
+        "label": 1
+    },
+    {
+        "question": "who is the team that beat the eagles this season",
+        "answer": "New England Patriots.",
+        "label": 0
+    },
+    {
+        "question": "where did the last name wallace come from",
+        "answer": "a Scottish surname.",
+        "label": 1
+    },
+    {
+        "question": "who sang i ran all the way home",
+        "answer": "The Drifters.",
+        "label": 0
+    },
+    {
+        "question": "who is the first president to be impeached",
+        "answer": "Thomas Jefferson.",
+        "label": 0
+    },
+    {
+        "question": "what is the name of the hyena in lion king",
+        "answer": "Banzai.",
+        "label": 1
+    },
+    {
+        "question": "who did puerto rico belong to before the u.s",
+        "answer": "Ta\u00edno.",
+        "label": 1
+    },
+    {
+        "question": "who did the broncos beat in the super bowl",
+        "answer": "Carolina Panthers.",
+        "label": 1
+    },
+    {
+        "question": "who is the girl in green day 21 guns",
+        "answer": "Zooey Deschanel.",
+        "label": 0
+    },
+    {
+        "question": "how many seasons of rules of engagement is there",
+        "answer": "5.",
+        "label": 0
+    },
+    {
+        "question": "what is the pirates of the caribbean in order",
+        "answer": "Dead Man's Chest.",
+        "label": 0
+    },
+    {
+        "question": "when do new episodes of riverdale season 2 come out",
+        "answer": "October 11, 2019.",
+        "label": 0
+    },
+    {
+        "question": "what type of database is library literature and information science",
+        "answer": "bibliographic database.",
+        "label": 1
+    },
+    {
+        "question": "when did they replace lead with graphite in pencils",
+        "answer": "never contained the element lead.",
+        "label": 1
+    },
+    {
+        "question": "hazels boyfriend in the fault in our stars",
+        "answer": "Augustus Waters.",
+        "label": 1
+    },
+    {
+        "question": "which country has the most coastline in the world",
+        "answer": "Canada.",
+        "label": 1
+    },
+    {
+        "question": "when did the the regulatory reform (fire safety) order 2005 first come into effect",
+        "answer": "1 January 2008.",
+        "label": 0
+    },
+    {
+        "question": "what was the real name of saudi arabia",
+        "answer": "The Arabian Caliphate.",
+        "label": 0
+    },
+    {
+        "question": "who plays the saint of killers on preacher",
+        "answer": "Graham McTavish.",
+        "label": 1
+    },
+    {
+        "question": "who has won the most games in nfl 2017",
+        "answer": "Dallas Cowboys.",
+        "label": 1
+    },
+    {
+        "question": "who plays unis in she's the man",
+        "answer": "Emily Perkins.",
+        "label": 1
+    },
+    {
+        "question": "who wrote he ain't heavy he's my brother lyrics",
+        "answer": "John Lennon.",
+        "label": 0
+    },
+    {
+        "question": "who plays chummy's mother in call the midwife",
+        "answer": "Maggie Smith.",
+        "label": 0
+    },
+    {
+        "question": "when did the sat become out of 1600",
+        "answer": "September 2005.",
+        "label": 0
+    },
+    {
+        "question": "where is the boy who played charlie in willy wonka",
+        "answer": "Jonathan Taylor Thomas.",
+        "label": 0
+    },
+    {
+        "question": "what age do you need to be to buy a bb gun",
+        "answer": "16.",
+        "label": 0
+    },
+    {
+        "question": "who sang the song good morning good morning",
+        "answer": "Frank Sinatra.",
+        "label": 0
+    },
+    {
+        "question": "epidemiologists attempt to explain the link between health and variables such as",
+        "answer": "celestial events.",
+        "label": 0
+    },
+    {
+        "question": "what type of economic system was utilized in the soviet union",
+        "answer": "Free-market capitalism.",
+        "label": 0
+    },
+    {
+        "question": "what started the war between us and japan",
+        "answer": "attack on Pearl Harbor.",
+        "label": 1
+    },
+    {
+        "question": "who proved that cells come from other cells",
+        "answer": "Matthias Schleiden.",
+        "label": 1
+    },
+    {
+        "question": "who voices randy in f is for family",
+        "answer": "T.J. Miller.",
+        "label": 1
+    },
+    {
+        "question": "who does demetrius love in a midsummer night dream",
+        "answer": "Titania.",
+        "label": 0
+    },
+    {
+        "question": "who wrote knock knock knocking on heavens door",
+        "answer": "Bob Dylan.",
+        "label": 1
+    },
+    {
+        "question": "who plays gram on the young and the restless",
+        "answer": "Peter Bergman.",
+        "label": 0
+    },
+    {
+        "question": "how many games in a row have the uconn women's basketball team won",
+        "answer": "111 straight wins.",
+        "label": 1
+    },
+    {
+        "question": "who sang let me tell you about the birds and the bees",
+        "answer": "Jewel Akens.",
+        "label": 1
+    },
+    {
+        "question": "describe the three phases of the normal blood clotting process",
+        "answer": "blood coagulation.",
+        "label": 1
+    },
+    {
+        "question": "who is the lead singer of depeche mode",
+        "answer": "Martin Gore.",
+        "label": 0
+    },
+    {
+        "question": "hyori bed and breakfast season 2 air date",
+        "answer": "February 4, 2018.",
+        "label": 1
+    },
+    {
+        "question": "who controlled the house and the senate in 2012",
+        "answer": "Republican.",
+        "label": 1
+    },
+    {
+        "question": "who does eric end up with in that 70s show",
+        "answer": "Jackie.",
+        "label": 0
+    },
+    {
+        "question": "where is gall bladder situated in human body",
+        "answer": "In the lower abdomen, near the spleen.",
+        "label": 0
+    },
+    {
+        "question": "who played ice queen in chronicles of narnia",
+        "answer": "Tilda Swinton.",
+        "label": 1
+    },
+    {
+        "question": "coldplay song i will try to fix you",
+        "answer": "\"Fix You\".",
+        "label": 1
+    },
+    {
+        "question": "batman the enemy with episode 5 release date",
+        "answer": "March\u00a027,\u00a02018.",
+        "label": 1
+    },
+    {
+        "question": "number 4 in roman numerals on clock faces",
+        "answer": "IV.",
+        "label": 1
+    },
+    {
+        "question": "who plays general hux in the last jedi",
+        "answer": "Domhnall Gleeson.",
+        "label": 1
+    },
+    {
+        "question": "when did the movie varsity blues come out",
+        "answer": "1999.",
+        "label": 1
+    },
+    {
+        "question": "who wrote cant get you out of my head lyrics",
+        "answer": "Cathy Dennis and Rob Davis.",
+        "label": 1
+    },
+    {
+        "question": "when did gaurdians of the galaxy 2 come out",
+        "answer": "2015.",
+        "label": 0
+    },
+    {
+        "question": "when does season 5 of the blacklist resume",
+        "answer": "October 10, 2019.",
+        "label": 0
+    },
+    {
+        "question": "who made the most free throws in nba history",
+        "answer": "LeBron James.",
+        "label": 0
+    },
+    {
+        "question": "who is the biggest selling female group of all time",
+        "answer": "Destiny's Child.",
+        "label": 0
+    },
+    {
+        "question": "the oligodynamic effect is a phenomenon that describes",
+        "answer": "the stabilization of proteins in living tissues.",
+        "label": 0
+    },
+    {
+        "question": "what is final season of game of thrones",
+        "answer": "The eighth.",
+        "label": 1
+    },
+    {
+        "question": "when did the isle of wight become an island",
+        "answer": "During the last Ice Age.",
+        "label": 1
+    },
+    {
+        "question": "who is the first president to be impeached",
+        "answer": "Andrew Johnson.",
+        "label": 1
+    },
+    {
+        "question": "where does the white witch live in narnia",
+        "answer": "The Shire, Middle-earth.",
+        "label": 0
+    },
+    {
+        "question": "who plays timon in lion king on broadway",
+        "answer": "Nathan Lane.",
+        "label": 0
+    },
+    {
+        "question": "where did the allies go after north africa",
+        "answer": "Italy.",
+        "label": 1
+    },
+    {
+        "question": "chris cornell she's going to change the world",
+        "answer": "Can't Change Me.",
+        "label": 1
+    },
+    {
+        "question": "how many games in a row have the uconn women's basketball team won",
+        "answer": "90 straight wins.",
+        "label": 0
+    },
+    {
+        "question": "most passing yards in nfl history in a game",
+        "answer": "Norm Van Brocklin.",
+        "label": 1
+    },
+    {
+        "question": "what is the name of the hyena in lion king",
+        "answer": "Kovu.",
+        "label": 0
+    },
+    {
+        "question": "who ordered the forbidden city to be built",
+        "answer": "Zhu Di.",
+        "label": 1
+    },
+    {
+        "question": "when did the us not go to the olympics",
+        "answer": "The 1976 Summer Olympics.",
+        "label": 0
+    },
+    {
+        "question": "love yourself by justin bieber is about who",
+        "answer": "Rihanna.",
+        "label": 1
+    },
+    {
+        "question": "who is the owner of reading football club",
+        "answer": "Roman Abramovich.",
+        "label": 0
+    },
+    {
+        "question": "who was kat slater's sisters in eastenders",
+        "answer": "Zoe.",
+        "label": 1
+    },
+    {
+        "question": "when was the south asian association for regional co-operation (saarc) formed",
+        "answer": "October 1991.",
+        "label": 0
+    },
+    {
+        "question": "what is on top of us capitol building",
+        "answer": "The Statue of Freedom.",
+        "label": 1
+    },
+    {
+        "question": "when was the last time oklahoma won a national championship in football",
+        "answer": "2011.",
+        "label": 0
+    },
+    {
+        "question": "what are the three fifty shades of grey books",
+        "answer": "Twilight of Desire Series.",
+        "label": 0
+    },
+    {
+        "question": "who had a baby at 100 in the bible",
+        "answer": "Rebekah.",
+        "label": 0
+    },
+    {
+        "question": "if a piece of music is perceived to have changed key then we say the piece has",
+        "answer": "harmonized.",
+        "label": 0
+    },
+    {
+        "question": "what size engine does a 2005 honda civic have",
+        "answer": "1169\u00a0cc.",
+        "label": 1
+    },
+    {
+        "question": "what is the baby elephants name in jungle book",
+        "answer": "Hathi Jr.",
+        "label": 1
+    },
+    {
+        "question": "who has the most gold medals in the winter olympics of all time",
+        "answer": "Canada.",
+        "label": 0
+    },
+    {
+        "question": "who did america declare war on in ww1",
+        "answer": "Austria-Hungary.",
+        "label": 1
+    },
+    {
+        "question": "when did the united states start using the death penalty",
+        "answer": "After World War II.",
+        "label": 0
+    },
+    {
+        "question": "who is the girl in green day 21 guns",
+        "answer": "Lisa Stelly.",
+        "label": 1
+    },
+    {
+        "question": "what role does the president play in foreign affairs",
+        "answer": "negotiates treaties with foreign nations.",
+        "label": 1
+    },
+    {
+        "question": "who sings the song only in my dreams",
+        "answer": "Tiffany.",
+        "label": 0
+    },
+    {
+        "question": "the chinese dragons are protectors of how many seas diggy",
+        "answer": "Four Seas.",
+        "label": 1
+    },
+    {
+        "question": "star wars episode ii attack of the clones characters",
+        "answer": "Captain James T. Kirk.",
+        "label": 0
+    },
+    {
+        "question": "who was the actor that played ben stone on law and order",
+        "answer": "Sam Waterston.",
+        "label": 0
+    },
+    {
+        "question": "what is the name for the ch3coo- ion",
+        "answer": "Monatomic cation.",
+        "label": 0
+    },
+    {
+        "question": "who plays artemisia in 300 rise of an empire",
+        "answer": "Eva Green.",
+        "label": 0
+    },
+    {
+        "question": "what type of political system does el salvador have",
+        "answer": "A constitutional monarchy.",
+        "label": 0
+    },
+    {
+        "question": "who did us fight in world war 1",
+        "answer": "Russia.",
+        "label": 0
+    },
+    {
+        "question": "what is the meaning of the dragon boat festival",
+        "answer": "celebrating the harvest season.",
+        "label": 0
+    },
+    {
+        "question": "when does thomas rhett's new album come out",
+        "answer": "March 15, 2018.",
+        "label": 0
+    },
+    {
+        "question": "what are the colors of the netherlands flag",
+        "answer": "blue.",
+        "label": 1
+    },
+    {
+        "question": "who plays dusty in the movie pure country",
+        "answer": "Tim McGraw.",
+        "label": 0
+    },
+    {
+        "question": "who made the poppies at tower of london",
+        "answer": "Paul Cummins.",
+        "label": 1
+    },
+    {
+        "question": "where is gall bladder situated in human body",
+        "answer": "beneath the liver.",
+        "label": 1
+    },
+    {
+        "question": "architectural elements forming rib vaults eg wells cathedral",
+        "answer": "an armature of piped masonry.",
+        "label": 1
+    },
+    {
+        "question": "who played zoe hart on hart of dixie",
+        "answer": "Rachel Sarah Bilson.",
+        "label": 1
+    },
+    {
+        "question": "who appoints the chair of the federal reserve system",
+        "answer": "Secretary of the Treasury.",
+        "label": 0
+    },
+    {
+        "question": "who played the mom on what's eating gilbert grape",
+        "answer": "Sally Field.",
+        "label": 0
+    },
+    {
+        "question": "what type of political system does el salvador have",
+        "answer": "a presidential representative democratic republic.",
+        "label": 1
+    },
+    {
+        "question": "when is the fourth movie of the divergent series coming out",
+        "answer": "never made.",
+        "label": 1
+    },
+    {
+        "question": "what is the name of the main artery which takes blood from the heart to the body",
+        "answer": "The carotid artery.",
+        "label": 0
+    },
+    {
+        "question": "when was the last year the eagles went to the superbowl",
+        "answer": "following the 2017 season.",
+        "label": 1
+    },
+    {
+        "question": "when is the last time the vikings were in the nfc championship",
+        "answer": "1976.",
+        "label": 1
+    },
+    {
+        "question": "kings and queens of england in the 1900s",
+        "answer": "George V.",
+        "label": 1
+    },
+    {
+        "question": "who ran the fastest 40 yard dash in the nfl",
+        "answer": "Jakeem Grant.",
+        "label": 1
+    },
+    {
+        "question": "who plays timon in lion king on broadway",
+        "answer": "Max Casella.",
+        "label": 1
+    },
+    {
+        "question": "when did they replace lead with graphite in pencils",
+        "answer": "1850.",
+        "label": 0
+    },
+    {
+        "question": "who wrote he ain't heavy he's my brother lyrics",
+        "answer": "Bobby Scott.",
+        "label": 1
+    },
+    {
+        "question": "who played the creature on jeepers creepers 3",
+        "answer": "Jonathan Breck.",
+        "label": 1
+    },
+    {
+        "question": "what was the initial effect of the transition from command to market economies in eastern europe",
+        "answer": "Inequality of opportunity.",
+        "label": 1
+    },
+    {
+        "question": "when did the eagles win last super bowl",
+        "answer": "2004.",
+        "label": 0
+    },
+    {
+        "question": "who sings you're welcome in moana credits",
+        "answer": "Dwayne Johnson.",
+        "label": 1
+    },
+    {
+        "question": "who opens the church of the holy sepulchre",
+        "answer": "The Greek Orthodox Patriarchate.",
+        "label": 0
+    },
+    {
+        "question": "chris cornell she's going to change the world",
+        "answer": "Black Hole Sun.",
+        "label": 0
+    },
+    {
+        "question": "what type of government did the ming dynasty have",
+        "answer": "imperial rule.",
+        "label": 1
+    },
+    {
+        "question": "what are the three fifty shades of grey books",
+        "answer": "Fifty Shades of Grey.",
+        "label": 1
+    },
+    {
+        "question": "jonny cash one piece at a time car",
+        "answer": "Cadillac.",
+        "label": 1
+    },
+    {
+        "question": "what is the ethnic background of the shib sibs",
+        "answer": "Korean.",
+        "label": 0
+    },
+    {
+        "question": "who wrote papa got a brand new bag",
+        "answer": "Stevie Wonder.",
+        "label": 0
+    },
+    {
+        "question": "who plays gram on the young and the restless",
+        "answer": "Max Shippee.",
+        "label": 1
+    },
+    {
+        "question": "who has won the eurovision song contest the most times",
+        "answer": "Sweden's ABBA.",
+        "label": 0
+    },
+    {
+        "question": "what album is sacrifice by elton john on",
+        "answer": "Sleeping with the Past.",
+        "label": 1
+    },
+    {
+        "question": "where was the first session of the assam association held in1905",
+        "answer": "Shillong.",
+        "label": 0
+    },
+    {
+        "question": "how many episodes of greys anatomy season 14",
+        "answer": "18.",
+        "label": 0
+    },
+    {
+        "question": "who lasted the longest in the royal rumble",
+        "answer": "Rey Mysterio.",
+        "label": 1
+    },
+    {
+        "question": "what is the maximum data rate for the 802.11a standard select one",
+        "answer": "54\u00a0Mbit/s.",
+        "label": 1
+    },
+    {
+        "question": "who does stefan marry in the vampire diaries",
+        "answer": "Caroline Forbes.",
+        "label": 1
+    },
+    {
+        "question": "what is the first book of percy jackson",
+        "answer": "The Lightning Thief.",
+        "label": 1
+    },
+    {
+        "question": "who was the viceroy when the simon commission visited india",
+        "answer": "Lord Mountbatten.",
+        "label": 0
+    },
+    {
+        "question": "who is under the mask of darth vader",
+        "answer": "Anakin Skywalker.",
+        "label": 1
+    },
+    {
+        "question": "when is the fourth movie of the divergent series coming out",
+        "answer": "Fall 2022.",
+        "label": 0
+    },
+    {
+        "question": "when was the first nuclear power plant opened",
+        "answer": "October 4, 1948.",
+        "label": 0
+    },
+    {
+        "question": "who has the power to approve or veto legislation constitution",
+        "answer": "the President.",
+        "label": 1
+    },
+    {
+        "question": "points on a sphere or angles in a circle are measured in units called",
+        "answer": "Degrees.",
+        "label": 0
+    },
+    {
+        "question": "what is the function of the pericardial sac",
+        "answer": "Lubricates the heart.",
+        "label": 1
+    },
+    {
+        "question": "a single period of precession of earth's axis is completed in about",
+        "answer": "approximately 26,000 years.",
+        "label": 1
+    },
+    {
+        "question": "who won last year's ncaa women's basketball",
+        "answer": "Stanford University.",
+        "label": 0
+    },
+    {
+        "question": "the legend of heroes trails in the sky the 3rd vita",
+        "answer": "July 14, 2016.",
+        "label": 1
+    },
+    {
+        "question": "how much money did it cost to make gta v",
+        "answer": "265 million USD.",
+        "label": 0
+    },
+    {
+        "question": "when was the last time the ducks won the stanley cup",
+        "answer": "(2012\u201313).",
+        "label": 0
+    },
+    {
+        "question": "who plays captain phasma in star wars the force awakens",
+        "answer": "Gwendoline Christie.",
+        "label": 1
+    },
+    {
+        "question": "when do primary ossification centers appear in an embryo",
+        "answer": "prenatal development.",
+        "label": 1
+    },
+    {
+        "question": "who ran the fastest 40 yard dash in the nfl",
+        "answer": "Deion Sanders.",
+        "label": 0
+    },
+    {
+        "question": "what percentage of sunlight is captured by plants to convert it into food energy",
+        "answer": "45%.",
+        "label": 1
+    },
+    {
+        "question": "the outer layer of the skin that contains no blood or nerve supply is the",
+        "answer": "epidermis.",
+        "label": 1
+    },
+    {
+        "question": "where does the path train stop in newark",
+        "answer": "Newark Penn Station.",
+        "label": 1
+    },
+    {
+        "question": "what category was hurricane charley when it hit florida",
+        "answer": "4.",
+        "label": 1
+    },
+    {
+        "question": "who plays chummy's mother in call the midwife",
+        "answer": "Cheryl Campbell.",
+        "label": 1
+    },
+    {
+        "question": "who does stefan marry in the vampire diaries",
+        "answer": "Elena Gilbert.",
+        "label": 0
+    },
+    {
+        "question": "which country is the last member of saarc",
+        "answer": "Myanmar.",
+        "label": 0
+    },
+    {
+        "question": "location of the ten commandments in the bible",
+        "answer": "Genesis.",
+        "label": 0
+    },
+    {
+        "question": "who wrote cant get you out of my head lyrics",
+        "answer": "Max Martin.",
+        "label": 0
+    },
+    {
+        "question": "who is tinker air force base named after",
+        "answer": "Major General Clarence L. Tinker.",
+        "label": 1
+    },
+    {
+        "question": "who has the power (judicial) to make decisions in courts of law",
+        "answer": "judges.",
+        "label": 1
+    },
+    {
+        "question": "how much for a passport in the philippines",
+        "answer": "$60 abroad.",
+        "label": 1
+    },
+    {
+        "question": "where is fe best absorbed in the body",
+        "answer": "in the duodenum.",
+        "label": 1
+    },
+    {
+        "question": "when was the minimum wage established in the united states",
+        "answer": "1938.",
+        "label": 1
+    },
+    {
+        "question": "who plays heather in beauty and the beast",
+        "answer": "Nicole Gale Anderson.",
+        "label": 1
+    },
+    {
+        "question": "types of skiing in the winter olympics 2018",
+        "answer": "Slalom.",
+        "label": 1
+    },
+    {
+        "question": "when was the term social justice first used",
+        "answer": "the 1840s.",
+        "label": 1
+    },
+    {
+        "question": "how many gold medals did australia win in the 2000 olympics",
+        "answer": "16.",
+        "label": 1
+    },
+    {
+        "question": "when did marathon change its name to snickers",
+        "answer": "1 October 1982.",
+        "label": 0
+    },
+    {
+        "question": "types of skiing in the winter olympics 2018",
+        "answer": "Snowboarding.",
+        "label": 0
+    },
+    {
+        "question": "when was the last time the eu was audited",
+        "answer": "2010.",
+        "label": 0
+    },
+    {
+        "question": "who is the actor that plays dr. sean murphy",
+        "answer": "Freddie Highmore.",
+        "label": 1
+    },
+    {
+        "question": "what year is it for the jewish calendar",
+        "answer": "AD 2020.",
+        "label": 0
+    },
+    {
+        "question": "who is the designer in devil wears prada",
+        "answer": "Valentino Garavani.",
+        "label": 1
+    },
+    {
+        "question": "where did the battle of corinth take place",
+        "answer": "in Corinth, Greece.",
+        "label": 0
+    },
+    {
+        "question": "where is the citrus bowl held this year",
+        "answer": "Camping World Stadium.",
+        "label": 1
+    },
+    {
+        "question": "what grade was arnold from hey arnold in",
+        "answer": "seventh.",
+        "label": 0
+    },
+    {
+        "question": "who has the most all ireland hurling medals",
+        "answer": "Henry Shefflin.",
+        "label": 1
+    },
+    {
+        "question": "where does new york drinking water come from",
+        "answer": "Lake Michigan.",
+        "label": 0
+    },
+    {
+        "question": "who wrote old flames cant hold a candle to you",
+        "answer": "Dolly Parton.",
+        "label": 0
+    },
+    {
+        "question": "who is the first indian woman to be canonized as a saint",
+        "answer": "Saint Alphonsa.",
+        "label": 1
+    },
+    {
+        "question": "who starred in an officer and a gentleman",
+        "answer": "Richard Gere.",
+        "label": 1
+    },
+    {
+        "question": "who played the mad hatter in the batman tv show",
+        "answer": "Roddy McDowall.",
+        "label": 1
+    },
+    {
+        "question": "who developed the central processing unit (cpu)",
+        "answer": "John von Neumann.",
+        "label": 1
+    },
+    {
+        "question": "when was the last time the military drafted",
+        "answer": "1973.",
+        "label": 1
+    },
+    {
+        "question": "who is the lead singer of depeche mode",
+        "answer": "David Gahan.",
+        "label": 1
+    },
+    {
+        "question": "when was the last year the eagles went to the superbowl",
+        "answer": "following the 2004 season.",
+        "label": 0
+    },
+    {
+        "question": "when's the last time army won the army navy game",
+        "answer": "2019.",
+        "label": 0
+    },
+    {
+        "question": "what is the meaning of veronica in english",
+        "answer": "The flower of truth.",
+        "label": 0
+    },
+    {
+        "question": "is parallax more pronounced with nearby stars or with distant stars",
+        "answer": "distant stars.",
+        "label": 0
+    },
+    {
+        "question": "when does the day of the dead end",
+        "answer": "November 2.",
+        "label": 1
+    },
+    {
+        "question": "who turns into a bear in the hobbit",
+        "answer": "Beorn.",
+        "label": 1
+    },
+    {
+        "question": "when does the new gotham season come out",
+        "answer": "March 15, 2018.",
+        "label": 0
+    },
+    {
+        "question": "who is the minister of local government in zimbabwe",
+        "answer": "Hon Tendai Biti.",
+        "label": 0
+    },
+    {
+        "question": "what is the population of st petersburg fl",
+        "answer": "500,342.",
+        "label": 0
+    },
+    {
+        "question": "when did the golden state warriors win the finals",
+        "answer": "2002.",
+        "label": 0
+    },
+    {
+        "question": "what started the war between us and japan",
+        "answer": "The annexation of the Philippines.",
+        "label": 0
+    },
+    {
+        "question": "the roman name for a liberal arts education is known as",
+        "answer": "Academia Philosophica.",
+        "label": 0
+    },
+    {
+        "question": "swan lake the sleeping beauty and the nutcracker are three famous ballets by",
+        "answer": "Sergei Prokofiev.",
+        "label": 0
+    },
+    {
+        "question": "when did canada get rid of the death penalty",
+        "answer": "July 14, 1976.",
+        "label": 1
+    },
+    {
+        "question": "element named after fictional planet from which superman came",
+        "answer": "Gallifrium.",
+        "label": 0
+    },
+    {
+        "question": "what year does the quiet man take place",
+        "answer": "the 1920s.",
+        "label": 1
+    },
+    {
+        "question": "who is playing the halftime show at super bowl 2016",
+        "answer": "Coldplay.",
+        "label": 0
+    },
+    {
+        "question": "when is the publishers clearing house sweepstakes drawing",
+        "answer": "On New Year's Eve.",
+        "label": 0
+    },
+    {
+        "question": "how many seasons of vampire diaries r there",
+        "answer": "ten.",
+        "label": 0
+    },
+    {
+        "question": "who was kat slater's sisters in eastenders",
+        "answer": "Michelle Fowler.",
+        "label": 0
+    },
+    {
+        "question": "when did the sat become out of 1600",
+        "answer": "March 2016.",
+        "label": 1
+    },
+    {
+        "question": "what is the name of the first earthquake early warning system",
+        "answer": "1991.",
+        "label": 1
+    },
+    {
+        "question": "when was the biltmore house opened to the public",
+        "answer": "March 1930.",
+        "label": 1
+    },
+    {
+        "question": "who is the first wife on sister wives",
+        "answer": "Meri.",
+        "label": 1
+    },
+    {
+        "question": "where does dividends go on cash flow statement",
+        "answer": "the operating activities section.",
+        "label": 0
+    },
+    {
+        "question": "what role does the president play in foreign affairs",
+        "answer": "Chief Justice of the International Court.",
+        "label": 0
+    },
+    {
+        "question": "the legend of heroes trails in the sky the 3rd vita",
+        "answer": "March 22, 2018.",
+        "label": 0
+    },
+    {
+        "question": "how old is the actress who plays phyllis on y&r",
+        "answer": "Michelle Stafford.",
+        "label": 0
+    },
+    {
+        "question": "who has won the most college football national champions",
+        "answer": "Princeton.",
+        "label": 1
+    },
+    {
+        "question": "where do rory and paris go to college",
+        "answer": "Harvard University.",
+        "label": 0
+    },
+    {
+        "question": "when was rosencrantz and guildenstern are dead written",
+        "answer": "1982.",
+        "label": 0
+    },
+    {
+        "question": "who sang the superbowl national anthem in 2017",
+        "answer": "Luke Bryan.",
+        "label": 1
+    },
+    {
+        "question": "where did the jungle book story come from",
+        "answer": "English author Rudyard Kipling.",
+        "label": 1
+    },
+    {
+        "question": "when do you celebrate birthday if born on feb 29",
+        "answer": "January 1st.",
+        "label": 0
+    },
+    {
+        "question": "who wins the next iron chef super chefs",
+        "answer": "Zakarian.",
+        "label": 1
+    },
+    {
+        "question": "which country is the last member of saarc",
+        "answer": "Afghanistan.",
+        "label": 1
+    },
+    {
+        "question": "what size engine does a 2005 honda civic have",
+        "answer": "2.0L Turbocharged Engine.",
+        "label": 0
+    },
+    {
+        "question": "who sings the theme song for the tv show cops",
+        "answer": "Bob Marley & The Wailers.",
+        "label": 0
+    },
+    {
+        "question": "when was the taming ofthe shrew first performed",
+        "answer": "In the autumn of 1605.",
+        "label": 0
+    },
+    {
+        "question": "when did mcgee became a regular on ncis",
+        "answer": "in season four.",
+        "label": 0
+    },
+    {
+        "question": "nuclear power plant that blew up in russia",
+        "answer": "Kursk Nuclear Power Plant.",
+        "label": 0
+    },
+    {
+        "question": "i was a great islamic scholar and mathematician who died in 1131 ce",
+        "answer": "Omar Khayyam.",
+        "label": 1
+    },
+    {
+        "question": "who did the broncos beat in the super bowl",
+        "answer": "New England Patriots.",
+        "label": 0
+    },
+    {
+        "question": "who wrote the french declaration of the rights of man and of the citizen",
+        "answer": "General Lafayette.",
+        "label": 1
+    },
+    {
+        "question": "where was percy jackson and the olympians filmed",
+        "answer": "New York City.",
+        "label": 0
+    },
+    {
+        "question": "who did the singing in into the woods",
+        "answer": "the cast.",
+        "label": 1
+    },
+    {
+        "question": "when did taylor swift's first album release",
+        "answer": "October 24, 2006.",
+        "label": 1
+    },
+    {
+        "question": "when was the first hunger games book published",
+        "answer": "July 29, 2005.",
+        "label": 0
+    },
+    {
+        "question": "who voices randy in f is for family",
+        "answer": "Bill Burr.",
+        "label": 0
+    },
+    {
+        "question": "when did the the regulatory reform (fire safety) order 2005 first come into effect",
+        "answer": "1 October 2006.",
+        "label": 1
+    },
+    {
+        "question": "yeh hai mohabbatein serial star cast real name",
+        "answer": "Divyanka Tripathi and Karan Patel.",
+        "label": 1
+    },
+    {
+        "question": "last episode of what happens to my family",
+        "answer": "72.",
+        "label": 0
+    },
+    {
+        "question": "who has the power (judicial) to make decisions in courts of law",
+        "answer": "Legislators.",
+        "label": 0
+    },
+    {
+        "question": "how many seasons of the rugrats are there",
+        "answer": "12 seasons.",
+        "label": 0
+    },
+    {
+        "question": "what type of government did the ming dynasty have",
+        "answer": "Federal Republic.",
+        "label": 0
+    },
+    {
+        "question": "what is the oldest street in the philippines",
+        "answer": "Cebu City.",
+        "label": 1
+    },
+    {
+        "question": "who sang the superbowl national anthem in 2017",
+        "answer": "Alicia Keys.",
+        "label": 0
+    },
+    {
+        "question": "when was the first nuclear power plant opened",
+        "answer": "December 20, 1951.",
+        "label": 1
+    },
+    {
+        "question": "when did mcgee became a regular on ncis",
+        "answer": "in season two.",
+        "label": 1
+    },
+    {
+        "question": "how many languages in harry potter translated into",
+        "answer": "over 74.",
+        "label": 1
+    },
+    {
+        "question": "when did the united states host the world cup",
+        "answer": "1994.",
+        "label": 1
+    },
+    {
+        "question": "who made the most free throws in nba history",
+        "answer": "Karl Malone.",
+        "label": 1
+    },
+    {
+        "question": "who has won the eurovision song contest the most times",
+        "answer": "Ireland's Johnny Logan.",
+        "label": 1
+    },
+    {
+        "question": "what proposition made the insurance commissioner an elected position",
+        "answer": "Proposition 27.",
+        "label": 0
+    },
+    {
+        "question": "rizal finished all the chapters of the novel noli me tangere in",
+        "answer": "December 1886.",
+        "label": 1
+    },
+    {
+        "question": "where does a roadrunner live in the desert",
+        "answer": "mountainous shrubland.",
+        "label": 1
+    },
+    {
+        "question": "when did the nba create the 3 point line",
+        "answer": "the 1965\u201366 season.",
+        "label": 0
+    },
+    {
+        "question": "who played gino in a place to call home",
+        "answer": "Hugh Sheridan.",
+        "label": 0
+    },
+    {
+        "question": "the cast of don't tell mom the babysitter's dead",
+        "answer": "Kimmy Robertson.",
+        "label": 1
+    },
+    {
+        "question": "the cast of don't tell mom the babysitter's dead",
+        "answer": "Jennifer Aniston.",
+        "label": 0
+    },
+    {
+        "question": "who is jared on the bold and the beautiful",
+        "answer": "William Spencer III.",
+        "label": 0
+    },
+    {
+        "question": "what is the pirates of the caribbean in order",
+        "answer": "On Stranger Tides.",
+        "label": 1
+    },
+    {
+        "question": "who plays the dad in nanny mcphee and the big bang",
+        "answer": "Ewan McGregor.",
+        "label": 1
+    },
+    {
+        "question": "where did the allies go after north africa",
+        "answer": "France.",
+        "label": 0
+    },
+    {
+        "question": "when did the golden state warriors win the finals",
+        "answer": "1947.",
+        "label": 1
+    },
+    {
+        "question": "who developed the concept of total quality management",
+        "answer": "W. Edwards Deming.",
+        "label": 1
+    },
+    {
+        "question": "who is the minister of local government in zimbabwe",
+        "answer": "Hon July Moyo.",
+        "label": 1
+    },
+    {
+        "question": "when does the day of the dead end",
+        "answer": "October 31.",
+        "label": 0
+    },
+    {
+        "question": "what are the 4 types of nitrogenous bases",
+        "answer": "Pyruvate (P).",
+        "label": 0
+    },
+    {
+        "question": "when does the miz and maryse show start",
+        "answer": "2015.",
+        "label": 0
+    },
+    {
+        "question": "where is the highest level of fluoride stored in the teeth",
+        "answer": "surface of the enamel.",
+        "label": 1
+    },
+    {
+        "question": "derek and meredith get back together season 3",
+        "answer": "Staring at the Sun.",
+        "label": 1
+    },
+    {
+        "question": "who plays joker in batman the dark knight",
+        "answer": "Ledger.",
+        "label": 1
+    },
+    {
+        "question": "who has the power to approve or veto legislation constitution",
+        "answer": "The Supreme Court.",
+        "label": 0
+    },
+    {
+        "question": "when did they stop cigarette advertising on television",
+        "answer": "January 2, 1971.",
+        "label": 1
+    },
+    {
+        "question": "who sang rip it up and start again",
+        "answer": "Scottish post-punk band Orange Juice.",
+        "label": 1
+    },
+    {
+        "question": "who is the first wife on sister wives",
+        "answer": "Janelle.",
+        "label": 0
+    },
+    {
+        "question": "how many languages in harry potter translated into",
+        "answer": "over 120.",
+        "label": 0
+    },
+    {
+        "question": "who was originally cast to play indiana jones",
+        "answer": "Harrison Ford.",
+        "label": 0
+    },
+    {
+        "question": "where is the tibia and fibula bone located",
+        "answer": "leg.",
+        "label": 1
+    },
+    {
+        "question": "who does demetrius love in a midsummer night dream",
+        "answer": "Helena.",
+        "label": 1
+    },
+    {
+        "question": "locations for the film an englishman who went up a hill",
+        "answer": "The Cotswolds, England.",
+        "label": 0
+    },
+    {
+        "question": "when does madea's family funeral come out",
+        "answer": "2015.",
+        "label": 0
+    },
+    {
+        "question": "where do they put the tomb vampires in order to burn them during founders day",
+        "answer": "the Gilbert building.",
+        "label": 1
+    },
+    {
+        "question": "how many seasons of rules of engagement is there",
+        "answer": "7.",
+        "label": 1
+    },
+    {
+        "question": "who played bat masterson in the tv series",
+        "answer": "Gene Barry.",
+        "label": 1
+    },
+    {
+        "question": "how many episodes are there in dragon ball z",
+        "answer": "291 episodes.",
+        "label": 1
+    },
+    {
+        "question": "where do you get a cashiers check from",
+        "answer": "a bank.",
+        "label": 1
+    },
+    {
+        "question": "who controlled the house and the senate in 2012",
+        "answer": "Democratic Party.",
+        "label": 0
+    },
+    {
+        "question": "name two fibres which are made of proteins",
+        "answer": "feathers.",
+        "label": 1
+    },
+    {
+        "question": "who played amy grant i i can only imagine",
+        "answer": "Nicole DuPort.",
+        "label": 1
+    },
+    {
+        "question": "who is the owner of reading football club",
+        "answer": "Xiu Li Dai.",
+        "label": 1
+    },
+    {
+        "question": "when was the last time giants won superbowl",
+        "answer": "2007.",
+        "label": 0
+    },
+    {
+        "question": "when did seat belts become law in ontario",
+        "answer": "October 3, 1982.",
+        "label": 0
+    },
+    {
+        "question": "when did the movie napoleon dynamite come out",
+        "answer": "June\u00a011,\u00a02004.",
+        "label": 1
+    },
+    {
+        "question": "when was the first australian prime minister elected",
+        "answer": "William McMahon.",
+        "label": 0
+    },
+    {
+        "question": "who wrote and performed i can only imagine",
+        "answer": "Chris Tomlin.",
+        "label": 0
+    },
+    {
+        "question": "who plays artemisia in 300 rise of an empire",
+        "answer": "Caitlin Carmichael.",
+        "label": 1
+    },
+    {
+        "question": "who translated the play neel darpan into english",
+        "answer": "Michael Madhusudan Dutta.",
+        "label": 1
+    },
+    {
+        "question": "who played the mom on what's eating gilbert grape",
+        "answer": "Darlene Cates.",
+        "label": 1
+    },
+    {
+        "question": "locations for the film an englishman who went up a hill",
+        "answer": "Llanrhaeadr-ym-Mochnant.",
+        "label": 1
+    },
+    {
+        "question": "what is the order of the netflix marvel shows",
+        "answer": "Marvel's The Punisher.",
+        "label": 0
+    },
+    {
+        "question": "how many episodes of corrie has there been",
+        "answer": "5,823.",
+        "label": 0
+    },
+    {
+        "question": "when was as you like it first performed",
+        "answer": "1588.",
+        "label": 0
+    },
+    {
+        "question": "other than water what else has hydrogen bonds",
+        "answer": "Pure elemental gold.",
+        "label": 0
+    },
+    {
+        "question": "where are alkali metals located on the periodic table",
+        "answer": "in the s-block.",
+        "label": 1
+    },
+    {
+        "question": "when was the last time oklahoma won a national championship in football",
+        "answer": "2003.",
+        "label": 1
+    },
+    {
+        "question": "when was as you like it first performed",
+        "answer": "1603.",
+        "label": 1
+    },
+    {
+        "question": "where does hydrogen peroxide come from in the body",
+        "answer": "nearly all living cells.",
+        "label": 1
+    },
+    {
+        "question": "ethiopia flight 961 crashes in to the sea",
+        "answer": "23 November 1996.",
+        "label": 1
+    },
+    {
+        "question": "ethiopia flight 961 crashes in to the sea",
+        "answer": "17 July 1998.",
+        "label": 0
+    },
+    {
+        "question": "who wrote knock knock knocking on heavens door",
+        "answer": "Leonard Cohen.",
+        "label": 0
+    },
+    {
+        "question": "when was the biltmore house opened to the public",
+        "answer": "Summer of 1952.",
+        "label": 0
+    },
+    {
+        "question": "what age do you need to be to buy a bb gun",
+        "answer": "18.",
+        "label": 1
+    },
+    {
+        "question": "who is the team that beat the eagles this season",
+        "answer": "Dallas Cowboys.",
+        "label": 1
+    },
+    {
+        "question": "who is opening for little mix glory days tour",
+        "answer": "Imagine Dragons.",
+        "label": 0
+    },
+    {
+        "question": "what is the oldest street in the philippines",
+        "answer": "Intramuros, Manila.",
+        "label": 0
+    },
+    {
+        "question": "who plays alec ramsay in the black stallion",
+        "answer": "Elijah Wood.",
+        "label": 0
+    },
+    {
+        "question": "who did us fight in world war 1",
+        "answer": "Germany.",
+        "label": 1
+    },
+    {
+        "question": "when was the last time the military drafted",
+        "answer": "1985.",
+        "label": 0
+    },
+    {
+        "question": "what is the meaning of the dragon boat festival",
+        "answer": "commemorating fealty and filial piety.",
+        "label": 1
+    },
+    {
+        "question": "who made the song falling in love with you",
+        "answer": "Elvis Presley.",
+        "label": 0
+    },
+    {
+        "question": "what season does bart bass die in gossip girl",
+        "answer": "Season 3.",
+        "label": 0
+    },
+    {
+        "question": "when did toyota start making cars in the us",
+        "answer": "by the early 1980s.",
+        "label": 1
+    },
+    {
+        "question": "when did houston go to the american league",
+        "answer": "2005.",
+        "label": 0
+    },
+    {
+        "question": "how many pieces in a terry's chocolate orange",
+        "answer": "six.",
+        "label": 1
+    },
+    {
+        "question": "who won the mens single ice skating 2018",
+        "answer": "Yuzuru Hanyu.",
+        "label": 1
+    },
+    {
+        "question": "what is the hot coffee mod in san andreas",
+        "answer": "An official expansion pack released by Rockstar Games.",
+        "label": 0
+    },
+    {
+        "question": "kings and queens of england in the 1900s",
+        "answer": "Henry VIII.",
+        "label": 0
+    },
+    {
+        "question": "when is season 2 of jessica jones being released",
+        "answer": "March 8, 2018.",
+        "label": 1
+    },
+    {
+        "question": "where does route 66 start on the west coast",
+        "answer": "in Santa Monica.",
+        "label": 1
+    },
+    {
+        "question": "who hit the first home run in the houston astrodome",
+        "answer": "Mickey Mantle.",
+        "label": 1
+    },
+    {
+        "question": "who had a baby at 100 in the bible",
+        "answer": "Sarah.",
+        "label": 1
+    },
+    {
+        "question": "who sings the theme song for the tv show cops",
+        "answer": "Inner Circle.",
+        "label": 1
+    },
+    {
+        "question": "what year did the us hockey team won the olympics",
+        "answer": "1960.",
+        "label": 1
+    },
+    {
+        "question": "when did the isle of wight become an island",
+        "answer": "After the construction of the Channel Tunnel.",
+        "label": 0
+    },
+    {
+        "question": "who turns into a bear in the hobbit",
+        "answer": "Gandalf.",
+        "label": 0
+    },
+    {
+        "question": "what is the share of agriculture in indian economy",
+        "answer": "17.32%.",
+        "label": 1
+    },
+    {
+        "question": "when was the last time anyone was on the moon",
+        "answer": "14 December 1972 UTC.",
+        "label": 1
+    },
+    {
+        "question": "where did the jungle book story come from",
+        "answer": "Brazilian novelist Paulo Coelho.",
+        "label": 0
+    },
+    {
+        "question": "who played solomon in little house on the prairie",
+        "answer": "Michael Landon.",
+        "label": 0
+    },
+    {
+        "question": "bible verse taking the lord's name in vain",
+        "answer": "Genesis 1:1.",
+        "label": 0
+    },
+    {
+        "question": "what was the initial effect of the transition from command to market economies in eastern europe",
+        "answer": "Immediate economic stability and prosperity.",
+        "label": 0
+    },
+    {
+        "question": "who holds the world record for the most world records",
+        "answer": "David Blaine.",
+        "label": 0
+    },
+    {
+        "question": "what is the oath that new citizens take",
+        "answer": "United States Oath of Allegiance.",
+        "label": 1
+    },
+    {
+        "question": "who wrote old flames cant hold a candle to you",
+        "answer": "Pebe Sebert.",
+        "label": 1
+    },
+    {
+        "question": "how many seasons of the rugrats are there",
+        "answer": "9 seasons.",
+        "label": 1
+    },
+    {
+        "question": "to transplant a nucleus from one cell to another cell a scientist would use",
+        "answer": "mitochondrial DNA splicing.",
+        "label": 0
+    },
+    {
+        "question": "who will win 2018 election in sri lanka",
+        "answer": "Sri Lanka Podujana Peramuna.",
+        "label": 1
+    },
+    {
+        "question": "when is the last time the vikings were in the nfc championship",
+        "answer": "2009.",
+        "label": 0
+    },
+    {
+        "question": "how many episodes of season 5 of curse of oak island",
+        "answer": "24.",
+        "label": 0
+    },
+    {
+        "question": "how many gold medals did australia win in the 2000 olympics",
+        "answer": "23.",
+        "label": 0
+    },
+    {
+        "question": "who was the head of the spanish inquisition",
+        "answer": "King Ferdinand II.",
+        "label": 0
+    },
+    {
+        "question": "when was the canadian pacific railway started and finished",
+        "answer": "between 1895 and 1900.",
+        "label": 0
+    },
+    {
+        "question": "who is given credit for the gnu initiative",
+        "answer": "Richard Stallman.",
+        "label": 1
+    },
+    {
+        "question": "how tall is the actor who plays hagrid in harry potter",
+        "answer": "7ft 2in.",
+        "label": 0
+    },
+    {
+        "question": "when was united nations convention on the rights of the child created",
+        "answer": "1 October 1975.",
+        "label": 0
+    },
+    {
+        "question": "what engine is in a holden v8 supercar",
+        "answer": "V8-engine.",
+        "label": 1
+    },
+    {
+        "question": "where was the first session of the assam association held in1905",
+        "answer": "Guwahati.",
+        "label": 1
+    },
+    {
+        "question": "who plays alec ramsay in the black stallion",
+        "answer": "Kelly Reno.",
+        "label": 1
+    },
+    {
+        "question": "when does sam realize he is jim in ghost whisperer",
+        "answer": "The Crossing.",
+        "label": 0
+    },
+    {
+        "question": "who plays heather in beauty and the beast",
+        "answer": "Emma Watson.",
+        "label": 0
+    },
+    {
+        "question": "who played shmuel in the boy in the striped pyjamas",
+        "answer": "Thomas Brodie-Sangster.",
+        "label": 0
+    },
+    {
+        "question": "when did the royal mint move to wales",
+        "answer": "1968.",
+        "label": 1
+    },
+    {
+        "question": "most passing yards in nfl history in a game",
+        "answer": "Tom Brady.",
+        "label": 0
+    },
+    {
+        "question": "who sang the song good morning good morning",
+        "answer": "Gene Kelly.",
+        "label": 1
+    },
+    {
+        "question": "when was the 50th star added to the united states flag",
+        "answer": "1960.",
+        "label": 1
+    },
+    {
+        "question": "when was the south asian association for regional co-operation (saarc) formed",
+        "answer": "December 1985.",
+        "label": 1
+    },
+    {
+        "question": "when did the study of media effects begin",
+        "answer": "1919.",
+        "label": 1
+    },
+    {
+        "question": "who is the designer in devil wears prada",
+        "answer": "Michael Kors.",
+        "label": 0
+    },
+    {
+        "question": "who is the first indian woman to be canonized as a saint",
+        "answer": "Mother Teresa.",
+        "label": 0
+    },
+    {
+        "question": "who plays noah newman on the young and the restless",
+        "answer": "Joshua Morrow.",
+        "label": 0
+    },
+    {
+        "question": "who won battle of the sexes tennis game",
+        "answer": "Billie Jean King.",
+        "label": 1
+    },
+    {
+        "question": "who played zoe hart on hart of dixie",
+        "answer": "Leighton Meester.",
+        "label": 0
+    },
+    {
+        "question": "what is the function of a political action committee (pac)",
+        "answer": "Regulates election campaign finance laws.",
+        "label": 0
+    },
+    {
+        "question": "who sings she's like the wind lyrics",
+        "answer": "Stevie Nicks.",
+        "label": 0
+    },
+    {
+        "question": "what languages are spoken in india the most",
+        "answer": "Latin.",
+        "label": 0
+    },
+    {
+        "question": "how many pieces in a terry's chocolate orange",
+        "answer": "Twenty.",
+        "label": 0
+    },
+    {
+        "question": "why does kerosene oil rise up in the wick of lantern",
+        "answer": "Magnetic attraction.",
+        "label": 0
+    },
+    {
+        "question": "how many customers does edf have in the uk",
+        "answer": "8.3 million customer accounts.",
+        "label": 0
+    },
+    {
+        "question": "who has the most all ireland hurling medals",
+        "answer": "Joe Canning.",
+        "label": 0
+    },
+    {
+        "question": "what caused the breakup of the democratic republican party",
+        "answer": "the disputed 1824 presidential election.",
+        "label": 1
+    },
+    {
+        "question": "when did the eagles play in the superbowl",
+        "answer": "March 14, 2010.",
+        "label": 0
+    },
+    {
+        "question": "who won the battle of the first battle of bull run",
+        "answer": "Union victory.",
+        "label": 0
+    },
+    {
+        "question": "who sings she's like the wind lyrics",
+        "answer": "Wendy Fraser.",
+        "label": 1
+    },
+    {
+        "question": "where does the formation of atp take place",
+        "answer": "plasma membrane in bacteria.",
+        "label": 1
+    },
+    {
+        "question": "who played ice queen in chronicles of narnia",
+        "answer": "Cate Blanchett.",
+        "label": 0
+    },
+    {
+        "question": "when does the champions league quarter finals start",
+        "answer": "16 March 2018.",
+        "label": 1
+    },
+    {
+        "question": "how many episodes are there in dragon ball z",
+        "answer": "157 episodes.",
+        "label": 0
+    },
+    {
+        "question": "who is the coach for the ottawa senators",
+        "answer": "Mike Babcock.",
+        "label": 0
+    },
+    {
+        "question": "where is the capital city of alabama located",
+        "answer": "Birmingham.",
+        "label": 0
+    },
+    {
+        "question": "what year is it for the jewish calendar",
+        "answer": "AM 5778.",
+        "label": 1
+    },
+    {
+        "question": "when did houston go to the american league",
+        "answer": "2013.",
+        "label": 1
+    },
+    {
+        "question": "when was the first hunger games book published",
+        "answer": "September 14, 2008.",
+        "label": 1
+    },
+    {
+        "question": "who played gino in a place to call home",
+        "answer": "Aldo Mignone.",
+        "label": 1
+    },
+    {
+        "question": "if a piece of music is perceived to have changed key then we say the piece has",
+        "answer": "transposed.",
+        "label": 1
+    },
+    {
+        "question": "genre of diary of a wimpy kid the getaway",
+        "answer": "Science Fiction Novel.",
+        "label": 0
+    },
+    {
+        "question": "who captained the first european ship to sail around the tip of africa",
+        "answer": "Bartolomeu Dias.",
+        "label": 1
+    },
+    {
+        "question": "under article 1 what is the minimum age required to serve in the house of representatives",
+        "answer": "25.",
+        "label": 1
+    },
+    {
+        "question": "what does the pearl symbolize in the bible",
+        "answer": "The Tree of Knowledge.",
+        "label": 0
+    },
+    {
+        "question": "who sings the song i'll never forget you",
+        "answer": "Whitney Houston.",
+        "label": 0
+    },
+    {
+        "question": "when did gaurdians of the galaxy 2 come out",
+        "answer": "2017.",
+        "label": 1
+    },
+    {
+        "question": "when did the eagles win last super bowl",
+        "answer": "2017.",
+        "label": 1
+    },
+    {
+        "question": "how many episodes of touching evil are there",
+        "answer": "16.",
+        "label": 1
+    },
+    {
+        "question": "when did the first ice age come out",
+        "answer": "1998.",
+        "label": 0
+    },
+    {
+        "question": "how many seasons of the bastard executioner are there",
+        "answer": "one.",
+        "label": 1
+    }
+]
