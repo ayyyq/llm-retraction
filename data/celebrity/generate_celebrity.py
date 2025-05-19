@@ -232,16 +232,16 @@ def test_parent_query(input_filename):
 if __name__ == "__main__":
     # # 1. 处理负样本; then run negative verification questions in scripts/generate.celebrity.sh
     # for seed in range(10):
-    #     test_parent_query(f'/home/yuqing/project/LLMDecomp/vllm-outputs/celebrity/celebrity_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/llm_judge_results.jsonl')
+    #     test_parent_query(f'vllm-outputs/celebrity/celebrity_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/llm_judge_results.jsonl')
 
     # # 2. 处理负样本
     # for seed in range(10):
-    #     process_negative_where_data(f'/home/yuqing/project/LLMDecomp/vllm-outputs/celebrity/celebrity_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/llm_judge_results.jsonl',
-    #                                 f'/home/yuqing/project/LLMDecomp/vllm-outputs/celebrity/celebrity_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/where/where_query_output.jsonl')
+    #     process_negative_where_data(f'vllm-outputs/celebrity/celebrity_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/llm_judge_results.jsonl',
+    #                                 f'vllm-outputs/celebrity/celebrity_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/where/where_query_output.jsonl')
 
     # 3. 生成model-dependent continuation dataset
     generate_continuation('celebrity_test_free.jsonl',
                           'celebrity_continuation/Llama-3.1-8B-Instruct/celebrity_test_continuation.jsonl',
-                          '/home/yuqing/project/LLMDecomp/vllm-outputs/celebrity/celebrity_test_parent/Llama-3.1-8B-Instruct/t0/output.jsonl',
-                          '/home/yuqing/project/LLMDecomp/vllm-outputs/celebrity/celebrity_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95',
+                          'vllm-outputs/celebrity/celebrity_test_parent/Llama-3.1-8B-Instruct/t0/output.jsonl',
+                          'vllm-outputs/celebrity/celebrity_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95',
                           balanced=False)

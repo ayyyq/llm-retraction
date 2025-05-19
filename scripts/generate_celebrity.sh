@@ -1,6 +1,6 @@
 # positive verification questions
 DEVICE=0
-ckpts_dir="/mnt/nfs1/yuqing/meta-llama"
+ckpts_dir="meta-llama"
 MODEL_NAMES=("Llama-3.1-8B-Instruct")
 DEV_SETS=("celebrity/celebrity_test_parent" "celebrity/celebrity_train_parent")
 TEMPERATURE=0
@@ -21,7 +21,7 @@ done
 
 # temperature sampling
 DEVICE=0
-ckpts_dir="/mnt/nfs1/yuqing/meta-llama"
+ckpts_dir="meta-llama"
 MODEL_NAME="Llama-3.1-8B-Instruct"
 DEV_SETS=("celebrity/celebrity_test_free" "celebrity/celebrity_train_free")
 TEMPERATURE=0.7
@@ -45,7 +45,7 @@ done
 
 # evaluate free
 DEVICE=0,1,2,3
-ckpts_dir="/mnt/nfs1/yuqing/meta-llama"
+ckpts_dir="meta-llama"
 MODEL_NAMES=("Llama-3.3-70B-Instruct")
 DEV_SETS=("vllm-outputs/celebrity/celebrity_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95" "vllm-outputs/celebrity/celebrity_train_free/Llama-3.1-8B-Instruct/t0.7_p0.95")
 TEMPERATURE=0
@@ -107,7 +107,7 @@ done
 
 # negative verification questions: First run test_parent_query function (Step 1) in data/celebrity/generate_celebrity.py
 DEVICE=0
-ckpts_dir="/mnt/nfs1/yuqing/meta-llama"
+ckpts_dir="meta-llama"
 MODEL_NAME="Llama-3.1-8B-Instruct"
 DEV_SETS=("celebrity/celebrity_test_free" "celebrity/celebrity_train_free")
 TEMPERATURE=0

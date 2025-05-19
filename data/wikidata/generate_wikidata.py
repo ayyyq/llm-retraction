@@ -314,35 +314,35 @@ def generate_validation(wikidata_filename, data_dir, continuation_filename, outp
 
 if __name__ == "__main__":
     # 1. 处理正样本
-    # filter_positive_query_data('/home/yuqing/project/LLMDecomp/vllm-outputs/wikidata/wikidata_test_where/Llama-3.1-8B-Instruct/t0/output.jsonl',
-    #                            '/home/yuqing/project/LLMDecomp/vllm-outputs/wikidata/wikidata_test_profession/Llama-3.1-8B-Instruct/t0/output.jsonl')
+    # filter_positive_query_data('vllm-outputs/wikidata/wikidata_test_where/Llama-3.1-8B-Instruct/t0/output.jsonl',
+    #                            'vllm-outputs/wikidata/wikidata_test_profession/Llama-3.1-8B-Instruct/t0/output.jsonl')
 
     # 2. 处理负样本
     # for seed in range(5):
     #     # 2.1 生成verification questions
-    #     # get_self_where_query(f'/home/yuqing/project/LLMDecomp/vllm-outputs/wikidata/wikidata_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/llm_judge_results.jsonl')
+    #     # get_self_where_query(f'vllm-outputs/wikidata/wikidata_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/llm_judge_results.jsonl')
     #
     #     # 2.2 处理负样本
-    #     process_negative_where_data(f'/home/yuqing/project/LLMDecomp/vllm-outputs/wikidata/wikidata_train_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/llm_judge_results.jsonl',
-    #                                 f'/home/yuqing/project/LLMDecomp/vllm-outputs/wikidata/wikidata_train_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/where/where_query_output.jsonl')
+    #     process_negative_where_data(f'vllm-outputs/wikidata/wikidata_train_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/llm_judge_results.jsonl',
+    #                                 f'vllm-outputs/wikidata/wikidata_train_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/where/where_query_output.jsonl')
 
     # 3. 生成model-specific continuation
     generate_continuation('wikidata_test_free.jsonl',
-                          '/home/yuqing/project/LLMDecomp/vllm-outputs/wikidata/wikidata_test_where/Llama-3.1-8B-Instruct/t0/filtered_output.jsonl',
-                          '/home/yuqing/project/LLMDecomp/vllm-outputs/wikidata/wikidata_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95',
-                          '/home/yuqing/project/LLMDecomp/data_collection/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl',
+                          'vllm-outputs/wikidata/wikidata_test_where/Llama-3.1-8B-Instruct/t0/filtered_output.jsonl',
+                          'vllm-outputs/wikidata/wikidata_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95',
+                          'data_collection/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl',
                           seed_start=0, seed_end=5,
                           balanced=False,
                           max_num=100)
 
     # # 4. Optional: 生成probe dataset for Wikidata Retraction Steering Direction
     # construct_probe_dataset(
-    #     f'/home/yuqing/project/LLMDecomp/probe-outputs/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_train_continuation/Llama-3.1-8B-Instruct/t0/llm_judge_results.jsonl',
+    #     f'probe-outputs/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_train_continuation/Llama-3.1-8B-Instruct/t0/llm_judge_results.jsonl',
     #     key='but_tag',
     #     sample_size=-1)
 
     # model_name = 'Llama-3.1-8B-Instruct'
     # generate_validation('wikidata_train_free.jsonl',
-    #                       f'/home/yuqing/project/LLMDecomp/vllm-outputs/wikidata/wikidata_train_free/{model_name}/t0.7_p0.95',
-    #                       f'/home/yuqing/project/LLMDecomp/data_collection/wikidata/wikidata_continuation/{model_name}/wikidata_train_continuation.jsonl',
-    #                         f'/home/yuqing/project/LLMDecomp/data_collection/wikidata/wikidata_continuation/{model_name}/wikidata_val_continuation.jsonl')
+    #                       f'vllm-outputs/wikidata/wikidata_train_free/{model_name}/t0.7_p0.95',
+    #                       f'data_collection/wikidata/wikidata_continuation/{model_name}/wikidata_train_continuation.jsonl',
+    #                         f'data_collection/wikidata/wikidata_continuation/{model_name}/wikidata_val_continuation.jsonl')
