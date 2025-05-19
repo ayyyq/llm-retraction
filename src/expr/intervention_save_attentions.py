@@ -102,7 +102,6 @@ def main(args):
         num_tokens += len(mt.tokenizer.encode(args.fixed_token, add_special_tokens=False))
         # TODO: check
         assert num_tokens == 2
-    attentions = torch.zeros(len(test_data), mt.num_layers, num_tokens, max_prompt_len)
     attention_weights = torch.zeros(len(test_data), mt.num_layers, mt.model.config.num_attention_heads, num_tokens, max_prompt_len)
     head_dim = getattr(mt.model.config, "head_dim", mt.model.config.hidden_size // mt.model.config.num_attention_heads)
     value_vectors = torch.zeros(len(test_data), mt.num_layers, mt.model.config.num_key_value_heads * head_dim)
@@ -152,7 +151,6 @@ def main(args):
             assert inputs['input_ids'].shape[1] == input_len + 1
 
         hooks = []
-        _attentions = []
         _value_vectors = []
         def wrap_forward_with_cache_input(attn_module):
             if getattr(attn_module, '_is_wrapped', False):
@@ -180,33 +178,9 @@ def main(args):
                 hidden_states = module._cached_hidden_states
                 bsz, q_len, hidden_dim = hidden_states.size()
                 assert bsz == 1, "This hook only supports batch size = 1"
-                num_tokens = q_len - start_position
-
-                num_key_value_heads = module.num_key_value_heads
-                head_dim = module.head_dim
 
                 value_states = module.v_proj(hidden_states)
                 _value_vectors.append(value_states[0, start_position, :].clone().detach())  # [value_head_dim]
-
-                value_states = value_states.view(bsz, q_len, num_key_value_heads, head_dim).transpose(1, 2)  # [bsz, num_heads, seq_len, head_dim]
-                value_states = repeat_kv(value_states, module.num_key_value_groups)
-
-                v_j = value_states[0]  # [num_heads, seq_len, head_dim]  # k_len == v_len
-
-                attn_weights = output[1]
-                # a_ij = attn_weights[0, :, -1, :]  # [num_heads, seq_len]
-                a_ij = attn_weights[0, :, start_position:, :]  # [num_heads, num_tokens, seq_len]
-
-                # a_i = a_ij[:, :, None] * v_j  # [num_heads, seq_len, head_dim]
-                a_i = a_ij[:, :, :, None] * v_j[:, None, :, :]  # [num_heads, num_tokens, seq_len, head_dim]
-
-                # a_i = a_i.permute(1, 0, 2).contiguous()  # [seq_len, num_heads, head_dim]
-                a_i = a_i.permute(1, 2, 0, 3).contiguous()  # [num_tokens, seq_len, num_heads, head_dim]
-                a_i = a_i.reshape(num_tokens, q_len, -1)  # [num_tokens, seq_len, hidden_dim]
-
-                a_i = module.o_proj(a_i)
-                a_i_norm = a_i.norm(dim=-1)  # [num_tokens, seq_len]
-                _attentions.append(a_i_norm.clone().detach())
 
             def store_olmo_attn_hook(module, input, output):
                 # query token i (position), key/value token j
@@ -234,7 +208,6 @@ def main(args):
             output["attentions"][layer][0, :, input_len - 1:] for layer in range(mt.num_layers)
         ]
 
-        # _attentions = torch.stack(_attentions, dim=0)  # [num_layers, num_tokens, seq_len]
         _attention_weights = torch.stack(_attention_weights, dim=0)  # [num_layers, num_heads, num_tokens, seq_len]
         _value_vectors = torch.stack(_value_vectors, dim=0)  # [num_layers, value_head_dim]
 
@@ -245,18 +218,12 @@ def main(args):
                 print(f'Negative steer: layer {target_layers}, position {input_len - 1}')
             print(f'Prompt: {prompt}')
             print(f'Input ids: {inputs["input_ids"]}')
-            # print(f'Attention shape: {_attentions.shape}')
             print(f'Attention weights shape: {_attention_weights.shape}')
             print(f'Value vectors shape: {_value_vectors.shape}')
 
         remove_hooks(hooks)
         unwrap_attn_modules(mt)
 
-        # assert _attentions.shape[1] == input_len
-        # q_len = _attentions.shape[2]
-        # assert _attention_weights.shape[3] == q_len
-        # attentions[index, :, :, :q_len] = _attentions
-        # assert _attention_weights.shape[2] == input_len
         q_len = _attention_weights.shape[3]
         attention_weights[index, :, :, :, :q_len] = _attention_weights
 
@@ -269,13 +236,6 @@ def main(args):
         output_filename = os.path.join(args.save_dir, f'layer{args.target_layer}_alpha{args.alpha}', 'output.jsonl')
     if not os.path.exists(os.path.dirname(output_filename)):
         os.makedirs(os.path.dirname(output_filename), exist_ok=True)
-
-    # save_path = os.path.join(os.path.dirname(output_filename), f'attentions.h5')
-    # print(attentions.shape)
-    # attentions_array = attentions.cpu().numpy()
-    # with h5py.File(save_path, 'w') as f:
-    #     f.create_dataset('activations', data=attentions_array)
-    # print(f'Saved attentions to {save_path}')
 
     attn_weights_save_path = os.path.join(os.path.dirname(output_filename), f'attn_weights.h5')
     print(attention_weights.shape)
@@ -295,11 +255,11 @@ def main(args):
 def parse_args():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('--model_path', type=str, default='/mnt/nfs1/yuqing/meta-llama/Llama-3.1-8B-Instruct')
+    parser.add_argument('--model_path', type=str, default='meta-llama/Llama-3.1-8B-Instruct')
     parser.add_argument('--attn_implementation', type=str, default='eager')
 
-    parser.add_argument("--train_filename", type=str, default='/home/yuqing/project/LLMDecomp/probe-outputs/universal_truthfulness/truthfulness_train/Llama-3.1-8B-Instruct/t0/output.jsonl')
-    parser.add_argument("--test_filename", type=str, default='/home/yuqing/project/LLMDecomp/data_collection/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl')
+    parser.add_argument("--train_filename", type=str, default='probe-outputs/universal_truthfulness/truthfulness_train/Llama-3.1-8B-Instruct/t0/output.jsonl')
+    parser.add_argument("--test_filename", type=str, default='data_collection/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl')
     parser.add_argument('--template', type=str, choices=['plain', 'chat', 'continuation'], default='continuation')
     parser.add_argument("--activations_name", type=str, default='hs_activations.h5')
     parser.add_argument("--save_dir", type=str, default='temp')  # currently, 默认negative steer + multilayer_steer == 0，multilayer_steer == 1 -> multilayer, multilayer_steer == -1 -> multilayer-1

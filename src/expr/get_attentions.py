@@ -167,8 +167,8 @@ def main():
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model_path', type=str, default='/mnt/nfs1/yuqing/meta-llama/Llama-3.1-8B-Instruct')
-    parser.add_argument('--input_filename', type=str, default='/home/yuqing/project/LLMDecomp/data_collection/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl')
+    parser.add_argument('--model_path', type=str, default='meta-llama/Llama-3.1-8B-Instruct')
+    parser.add_argument('--input_filename', type=str, default='data_collection/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl')
     parser.add_argument('--output_filename', type=str, default='temp')
     parser.add_argument('--template', type=str, choices=['plain', 'chat', 'continuation'], default='continuation')
     parser.add_argument('--fixed_token', type=str, default=None)

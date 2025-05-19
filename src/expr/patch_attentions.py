@@ -499,11 +499,11 @@ def main(args):
 def parse_args():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('--model_path', type=str, default='/mnt/nfs1/yuqing/allenai/OLMo-2-1124-7B-Instruct')
+    parser.add_argument('--model_path', type=str, default='allenai/OLMo-2-1124-7B-Instruct')
     parser.add_argument('--attn_implementation', type=str, default='eager')
 
-    parser.add_argument("--train_filename", type=str, default='/home/yuqing/project/LLMDecomp/intervention-outputs/OLMo-2-1124-7B-Instruct/universal_truthfulness_train/t0/negative_steer/wikidata_test_continuation/layer8-30_alpha1.5/output.jsonl')
-    parser.add_argument("--test_filename", type=str, default='/home/yuqing/project/LLMDecomp/data_collection/wikidata/wikidata_continuation/OLMo-2-1124-7B-Instruct/wikidata_test_continuation.jsonl')
+    parser.add_argument("--train_filename", type=str, default='intervention-outputs/OLMo-2-1124-7B-Instruct/universal_truthfulness_train/t0/negative_steer/wikidata_test_continuation/layer8-30_alpha1.5/output.jsonl')
+    parser.add_argument("--test_filename", type=str, default='data_collection/wikidata/wikidata_continuation/OLMo-2-1124-7B-Instruct/wikidata_test_continuation.jsonl')
     parser.add_argument('--template', type=str, choices=['plain', 'chat', 'continuation'], default='continuation')
 
     parser.add_argument("--patch_attn_weights", action='store_true')
@@ -530,8 +530,8 @@ if __name__ == '__main__':
     args = parse_args()
 
     topk_heads_paths = {
-        0: f'/home/yuqing/project/LLMDecomp/{args.topk_heads_dir}/top100_heads_pos0.jsonl',
-        1: f'/home/yuqing/project/LLMDecomp/{args.topk_heads_dir}/top100_heads_pos1.jsonl'
+        0: f'{args.topk_heads_dir}/top100_heads_pos0.jsonl',
+        1: f'{args.topk_heads_dir}/top100_heads_pos1.jsonl'
     }
     args.topk_heads_path = None
     if args.patch_attn_weights and args.heads_topk != -1:
