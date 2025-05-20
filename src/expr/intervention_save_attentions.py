@@ -259,7 +259,7 @@ def parse_args():
     parser.add_argument('--attn_implementation', type=str, default='eager')
 
     parser.add_argument("--train_filename", type=str, default='probe-outputs/universal_truthfulness/truthfulness_train/Llama-3.1-8B-Instruct/t0/output.jsonl')
-    parser.add_argument("--test_filename", type=str, default='data_collection/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl')
+    parser.add_argument("--test_filename", type=str, default='data/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl')
     parser.add_argument('--template', type=str, choices=['plain', 'chat', 'continuation'], default='continuation')
     parser.add_argument("--activations_name", type=str, default='hs_activations.h5')
     parser.add_argument("--save_dir", type=str, default='temp')  # currently, 默认negative steer + multilayer_steer == 0，multilayer_steer == 1 -> multilayer, multilayer_steer == -1 -> multilayer-1

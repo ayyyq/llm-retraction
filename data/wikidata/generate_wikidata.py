@@ -330,7 +330,7 @@ if __name__ == "__main__":
     generate_continuation('wikidata_test_free.jsonl',
                           'vllm-outputs/wikidata/wikidata_test_where/Llama-3.1-8B-Instruct/t0/filtered_output.jsonl',
                           'vllm-outputs/wikidata/wikidata_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95',
-                          'data_collection/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl',
+                          'data/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl',
                           seed_start=0, seed_end=5,
                           balanced=False,
                           max_num=100)
@@ -344,5 +344,5 @@ if __name__ == "__main__":
     # model_name = 'Llama-3.1-8B-Instruct'
     # generate_validation('wikidata_train_free.jsonl',
     #                       f'vllm-outputs/wikidata/wikidata_train_free/{model_name}/t0.7_p0.95',
-    #                       f'data_collection/wikidata/wikidata_continuation/{model_name}/wikidata_train_continuation.jsonl',
-    #                         f'data_collection/wikidata/wikidata_continuation/{model_name}/wikidata_val_continuation.jsonl')
+    #                       f'data/wikidata/wikidata_continuation/{model_name}/wikidata_train_continuation.jsonl',
+    #                         f'data/wikidata/wikidata_continuation/{model_name}/wikidata_val_continuation.jsonl')

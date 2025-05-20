@@ -153,7 +153,7 @@ done
 #CUDA_VISIBLE_DEVICES=${DEVICE} python -u src/expr/patch_attentions.py \
 #  --model_path ${ckpts_dir}/${MODEL_NAME} \
 #  --train_filename intervention-outputs/Llama-3.1-8B-Instruct/universal_truthfulness_train/t0/negative_steer/wikidata_test_continuation/layer6-14_alpha1.2/output.jsonl \
-#  --test_filename data_collection/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl \
+#  --test_filename data/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl \
 #  --patch_attn_weights \
 #  --heads_positions 0 \
 #  --heads_topk 48 \
@@ -162,7 +162,7 @@ done
 #CUDA_VISIBLE_DEVICES=${DEVICE} python -u src/expr/patch_attentions.py \
 #  --model_path ${ckpts_dir}/${MODEL_NAME} \
 #  --train_filename intervention-outputs/Llama-3.1-8B-Instruct/universal_truthfulness_train/t0/positive_steer/wikidata_test_continuation/layer6-14_alpha1.2/output.jsonl \
-#  --test_filename data_collection/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl \
+#  --test_filename data/wikidata/wikidata_continuation/Llama-3.1-8B-Instruct/wikidata_test_continuation.jsonl \
 #  --patch_attn_weights \
 #  --heads_positions 0 \
 #  --heads_topk 48 \

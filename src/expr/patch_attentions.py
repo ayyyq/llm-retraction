@@ -503,7 +503,7 @@ def parse_args():
     parser.add_argument('--attn_implementation', type=str, default='eager')
 
     parser.add_argument("--train_filename", type=str, default='intervention-outputs/OLMo-2-1124-7B-Instruct/universal_truthfulness_train/t0/negative_steer/wikidata_test_continuation/layer8-30_alpha1.5/output.jsonl')
-    parser.add_argument("--test_filename", type=str, default='data_collection/wikidata/wikidata_continuation/OLMo-2-1124-7B-Instruct/wikidata_test_continuation.jsonl')
+    parser.add_argument("--test_filename", type=str, default='data/wikidata/wikidata_continuation/OLMo-2-1124-7B-Instruct/wikidata_test_continuation.jsonl')
     parser.add_argument('--template', type=str, choices=['plain', 'chat', 'continuation'], default='continuation')
 
     parser.add_argument("--patch_attn_weights", action='store_true')
