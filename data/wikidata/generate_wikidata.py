@@ -319,7 +319,7 @@ if __name__ == "__main__":
 
     # 2. 处理负样本
     # for seed in range(5):
-    #     # 2.1 生成verification questions
+    #     # 2.1 生成verification questions; then run negative verification questions in scripts/generate.celebrity.sh
     #     # get_self_where_query(f'vllm-outputs/wikidata/wikidata_test_free/Llama-3.1-8B-Instruct/t0.7_p0.95/seed{seed}/llm_judge_results.jsonl')
     #
     #     # 2.2 处理负样本

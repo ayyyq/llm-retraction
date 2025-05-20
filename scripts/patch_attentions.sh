@@ -55,7 +55,7 @@ CUDA_VISIBLE_DEVICES=${DEVICE} python -u src/expr/intervention_save_attentions.p
   --positive_steer \
   --fixed_token " is"
 
-## patch
+# patch value vectors
 DEVICE=0
 ckpts_dir="meta-llama"
 MODEL_NAME="Llama-3.1-8B-Instruct"
