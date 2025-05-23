@@ -1,7 +1,7 @@
 # When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction
 This is the official repository for our paper:
 
-[When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction]().
+[When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction](https://arxiv.org/abs/2505.16170).
 
 ## 🛠️ Environment Setup
 Please refer to `retraction.yml` for setting up the conda environment.
@@ -46,4 +46,18 @@ warmup_ratio: 0.1
 bf16: true
 ddp_timeout: 180000000
 report_to: wandb
+```
+
+## 🥳Citation
+If you find our work useful, please consider citing:
+```bibtex
+@misc{yang2025llmsadmitmistakesunderstanding,
+      title={When Do LLMs Admit Their Mistakes? Understanding the Role of Model Belief in Retraction}, 
+      author={Yuqing Yang and Robin Jia},
+      year={2025},
+      eprint={2505.16170},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.16170}, 
+}
 ```
